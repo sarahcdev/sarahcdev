@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Java apps and blog posts 
 - 💬 Ask me about security
 - 👯 I’m looking to collaborate on getting Ws in Ashika Island
-- 📫 How to reach me: <span>sarahc</span><span>.</span><span>io</span><span>contact</span><span>[at]</span><span>gmail</span>
+- 📫 How to reach me: <span>sarahc</span><span>.</span><span>io</span><span>.</span><span>contact</span><span>[at]</span><span>gmail</span>
 
 
 <h1> Blog </h1>
