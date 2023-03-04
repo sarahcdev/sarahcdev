@@ -15,33 +15,32 @@
 
 <div><p>(These are my personal thoughts and they do not necessarily reflect the views of my employer.)</p>
 </div>
-
-<br/>
-
+💻 = Tech, 🎮 = Gaming, 👩🏻‍💻 = Everything else
 <div>
 <!--<h3>Table of Contents</h3> -->
   <ul>
-    <li><a href="#04032023-back">4 March 2023: I'm Back!</a></li>
-  	<li><a href="#13042022-reading">13 April 2022: Reading is Harder than Writing</a></li>
-    <li><a href="#10072021-helpdesk">10 July 2021: My Summers on the Help Desk</a></li>
-    <li><a href="#09042021-containers"> 20 April 2021: Solidifying My Understanding of Containers</a></li>
-    <li><a href="#09042021-wfh"> 9 April 2021: A WFH Vignette</a></li>
-    <li><a href="#20022021-vaccine"> 20 February 2021: The Vaccine Rollout  *</a></li>
-    <li><a href="#23012021-teams"> 23 January 2021: On Building Good Teams</a></li>
-    <li><a href="#02012021-iam2"> 2 January 2021: IAM is a hard problem - Part 2</a></li>
-    <li><a href="#27122020-iam1"> 27 December 2020: IAM is a hard problem</a></li>
-    <li><a href="#14202020-symbolic"> 14 December 2020: Notes on Symbolic Execution</a></li>
-    <li><a href="#29112020-sowh"> 29 November 2020: Strong Opinions, Weakly Held  *</a></li>
-    <li><a href="#15082020-interviewing"> 15 August 2020: Tech Interviewing is a Life Skill  *</a></li>
-    <li><a href="#04082020-nosql"> 4 Aug 2020: Notes on NoSQL Databases</a></li>
-    <li><a href="#03082020-do"> 3 Aug 2020: DigitalOcean Databases</a></li>
-    <li><a href="#01082020-goals2"> 1 Aug 2020: Checking in on my 2020 goals</a></li>
-    <li><a href="#01032020-lambdas"> 1 March 2020 Lambdas!</a></li>
-    <li><a href="#27202020-tests"> 27 Feb 2020: On Writing Good Unit Tests</a></li>
-    <li><a href="#00002020-goals"> 5 Things I Want to Learn (or improve) in 2020</a></li>
+    <li><a href="#04032023-back">👩🏻‍💻 4 March 2023: I'm Back!</a></li>
+  	<li><a href="#13042022-reading">💻 13 April 2022: Reading is Harder than Writing</a></li>
+    <li><a href="#10072021-helpdesk">💻 10 July 2021: My Summers on the Help Desk</a></li>
+    <li><a href="#09042021-containers">💻 20 April 2021: Solidifying My Understanding of Containers</a></li>
+    <li><a href="#09042021-wfh">👩🏻‍💻 9 April 2021: A WFH Vignette</a></li>
+    <li><a href="#20022021-vaccine">👩🏻‍💻 20 February 2021: The Vaccine Rollout  *</a></li>
+    <li><a href="#23012021-teams">💻 23 January 2021: On Building Good Teams</a></li>
+    <li><a href="#02012021-iam2">💻 2 January 2021: IAM is a hard problem - Part 2</a></li>
+    <li><a href="#27122020-iam1">💻 27 December 2020: IAM is a hard problem</a></li>
+    <li><a href="#23122020-food">👩🏻‍💻 23 December 2020: Food YouTube is Bad [published retroactively] </a></li>
+    <li><a href="#14122020-symbolic">💻 14 December 2020: Notes on Symbolic Execution</a></li>
+    <li><a href="#29112020-sowh">💻 29 November 2020: Strong Opinions, Weakly Held  *</a></li>
+    <li><a href="#15082020-interviewing">💻 15 August 2020: Tech Interviewing is a Life Skill  *</a></li>
+    <li><a href="#04082020-nosql">💻 4 Aug 2020: Notes on NoSQL Databases</a></li>
+    <li><a href="#03082020-do">💻 3 Aug 2020: DigitalOcean Databases</a></li>
+    <li><a href="#01082020-goals2">💻 1 Aug 2020: Checking in on my 2020 goals</a></li>
+    <li><a href="#01032020-lambdas">💻 1 March 2020 Lambdas!</a></li>
+    <li><a href="#27202020-tests">💻 27 Feb 2020: On Writing Good Unit Tests</a></li>
+    <li><a href="#00002020-goals">💻 5 Things I Want to Learn (or improve) in 2020</a></li>
 
   </ul>
-  <p>* = my greatest hits (IMHO) :)</p>
+  <p>* = my greatest hits (IMHO) 😊</p>
 
 </div>
 
@@ -339,17 +338,41 @@
 <br/>
 
 <div>
-  <h3 id="14202020-symbolic"> 14 December 2020: Notes on Symbolic Execution </h3>
+    <h3 id="23122020-food"> 23 December 2020: Food YouTube is Bad [published retroactively] </h3>
+    <p><i>I found this draft I wrote about YouTube and parasocial relationships with food content creators in 2020. I'm publishing it now [in 2023]. A lot has happened since December 2020, but it's an interesting window into what the internet was like in 2020. I made some minor edits, but the majority of it is original.</i></p>
+    <p>I’ve primarily watched the same 3-4 cooking YouTube channels for a few years now: Bon Appétit (BA), Babish Culinary Universe (Binging with Babish), and Joshua Weissman. I don’t watch much of BA any more since <a href="https://www.washingtonpost.com/news/voraciously/wp/2020/08/06/three-bon-appetit-video-stars-leave-the-test-kitchen-series-due-to-alleged-racial-discrimination/">this all </a> came to light in June, but after I stopped watching it, I had some time to think about it. The BA YouTube channel sold me a lifestyle of expensive materials and self-loathing, much in the way that other mass media organizations sell those doubts about physical appearance and social standing. I picked up a few cooking tricks here and there from BA, but I picked up even more bad attitudes and pseudo-intellectual hot takes about food that do more harm than good for me. The other channels I watch suffer from some of the same problems, but BA does it in a really attractive and deceptive way. I’m not arguing that <i>nobody should watch BA</i>, or that <i>BA is doing something bad for the world.</i> I watched many hours of BA content because I liked it so much! But I do think the Test Kitchen has a complicated relationship with instruction, advertisement, and parasocial interaction. Viewers beware: this relationship may affect how you see yourself and the social context of your own kitchen. </p>
+    <p>
+    <h4> Them and Us </h4>
+    <p>As I've seen others online point out, BA’s running video series’ were more about the chefs’ personalities than the food. The long format episodes of <i>Gourmet Makes</i>, <i>It’s Alive</i> and <i>Alex Eats Everything</i> focused primarily on personas and relationships within the Test Kitchen, making the viewer both want to <i>be with them</i> and <i>be them.</i> The chefs talked directly into the camera to us, hanging out like old friends over dinner. They made a conscious effort to break the fourth wall in every episode, showing clips of the chefs talking to the crew and making jokes about their own blunders. As nice as these unreciprocated relationships may have felt to the viewer, especially in pandemic times, they were advertising a high-class lifestyle by talking down to us. BA made the viewer feel a little too poor, a little too unskilled, and a little too unrefined to stop watching for fear of being left behind. We, the viewers, needed Chris Morocco’s “sensitive” palate and Claire Saffitz’s cultural capital to guide our unsophisticated fingers to the cultural pulse of the cooking world. We didn’t go to culinary school (and neither did Molly Baz, a fact that then Editor-in-Chief Adam Rapoport said on camera <a href="https://www.youtube.com/watch?v=goIN2WGYafg">more than once</a>). We don’t shop at the FiDi Whole Foods. We can’t drive to upstate New York and buy fresh ostrich eggs and then make them into Jean-Georges eggs because we don’t know who Jean-Georges is. The Test Kitchen chefs are better than us, and they know it. But we can have a seat at their table if we buy in, financially and intellectually, to their world.</p>
+    <h4>They Hate the Food We Eat</h4>
+    <p>A lot of what I dislike about BA and Weissman is the way the chefs dismiss foods that they think are below them. See Weissman's <i>But Better</i> series (granted he also has a <i>But Cheaper</i> series, with good intentions but aspirational accounting methods.) When they cook something quickly with a simple technique, they spin it as a fast recipe that they definitely could do better, if they wanted to.</p>
+    <p>Alex Delany’s entire series is about ordering every menu item at some of New York’s best (and kinda expensive) restaurants. This is a lifestyle that I’m not sure Delany himself can afford, given that he revealed his salary in the wake of the June blow-up and often talks about cooking cheap “rent week” meals. </p>
+    <p>But Delany’s show is fun to watch because it lets us live vicariously for a little while. What’s insidious about the regular "how to cook" type episodes are the little side comments about which brand/ item is superior. Nothing that you, the home cook, makes could possibly be as good as what they whipped up in the Test Kitchen if only for the simple reason that you don’t have the exact brand of ingredients they do. There are some exceptions, like Sohla El-Waylly’s videos, which show us a variety of brilliant and resourceful ways to make our own versions of Sohla’s recipes. </p>
+    <p>Claire Saffitz is so pretentious that I can barely make it through her videos any more. I do not want to read Dessert Person. I do not want to be called a Dessert Person. I do not want to make her terrible-looking corn bread or <a href="https://www.youtube.com/watch?v=xidcMKR8ikM">“tee hee shitty sprinkles!” birthday cake.</a> Do you know what I called those growing up? Sprinkles. Because all I had ever known were normal-people ingredients, before I was some ~self aware~ New Yorker who couldn’t eat a birthday cake without giggling about how ironic it is. </p>
+    <h4>They Hate the Way We Talk</h4>
+    <p>There’s a lot of uncommon, and frankly, annoying vocabulary in Bon Appetit videos. “Jammy.” “Pullman loaf.” “Maillard reaction.” Brad Leone’s entire on-screen persona is that he’s the rough-around-the-edges outsider from rural New Jersey who can’t pronounce “water” and doesn’t know how to plan ahead. The running joke is that Brad is stupid. The rest of the Test Kitchen shits on him constantly, and I can’t tell if he’s in on the joke. The parasocial dynamic is, as always, confusing. Did you laugh when Adam Rappoport implied Brad wasn’t funny on camera? Do you laugh when he makes fun of Molly for not having attended culinary school? If you don’t — you are the joke. You are Brad and Molly. You are the joke and you are also the product that they’re selling to their advertisers. </p>
+    <h4>But Aren't the Experts Allowed to be Pretentious?</h4>
+    <p>I respect that the Test Kitchen staff is a highly-skilled, educated set of professionals. They certainly know more about cooking than most of us, and they do have the right to use the correct vocabulary and have opinions about the quality of their ingredients. My problem really is that, a lot of the time, the pretentiousness feels like elitism for elitism’s sake rather than as the natural result of somebody perfecting their craft. They’re putting on a show for us, but drawing us in like we’re good friends with them, while showboating how much better they are than us. Nobody could possibly follow along with these recipes — they’re too fast-paced and disjointed to be instructional. They do reveal some secrets of good cooking. But I don’t think Bon Appetit cares how good we are at cooking. </p>
+     <p>Is it cool when Joshua Weissman makes some totally unnecessary food from scratch using super expensive equipment? Is it cool the Nth time? Or do you start to realize what he’s actually saying about the food you eat and the way you eat it?</p>
+     <h4> A Few Years Later </h4>
+     <p>BA never fully recovered from June 2020. I don't watch much cooking YouTube any more, because over time it has gotten even more overproduced and parasocial. In my own kitchen, I try to focus on recipes that I can actually make from minimally processed ingredients. Minimally processed <i>sometimes</i> implies expensive, but it definitely doesn't imply that we have to be mean about it.</p>
+</p>
+</div>
+
+<br />
+
+<div>
+  <h3 id="14122020-symbolic"> 14 December 2020: Notes on Symbolic Execution </h3>
   <p>This is a first pass at understanding a few papers I’m reading about symbolic execution and its applications. I’m not an expert at this area of security. </p> 
 
   <h4>Fuzzing</h4>
   
-    <ul>
+  <ul>
       <li>Software has bugs that can be hard to predict or find </li>
       <li>One technique for discovering bugs is fuzz testing. Fuzzing uses arbitrary inputs to discover the conditions under which a program may crash or behave unexpectedly due to the inputs provided. Fuzzing discovers the ways users may accidentally crash a program by providing input that wasn’t considered or handled in the code. But it also can discover inputs that attackers can use to compromise a program. </li>
       <li>Fuzz testing, especially automated fuzz testing, is a good start. But it’s impossible to test every possible input of every type. A way to fuzz test more quickly is using equivalence classes, which assumes that inputs of the same type (e.g. ints, doubles, strings, edge cases) will behave similarly. No need to test every int if you can test a few expected cases, and maybe some extremes such as 0, 1, -1, maxint, minint.</li> 
       <li>Both fuzzing and fuzzing with equivalence classes are approximations since they do not cover all possible cases. More importantly, they do not guarantee that all possible paths of execution are covered in testing.</li>
-    </ul> 
+  </ul> 
 
   <h4> Code Coverage & Exponential Blowup </h4>
 
