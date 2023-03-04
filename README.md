@@ -1,7 +1,8 @@
-<h1>Welcome!</h1>
+<h1>About</h1>
 <!--
 **sarahcdev/sarahcdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+I'm Sarah, a software engineer by trade and 
 
 - 🔭 I’m currently working on Java apps and blog posts 
 - 💬 Ask me about security
@@ -698,7 +699,7 @@ it to allow my workstation to trust my project? So it's a server certificate? (I
   <div>
 
 <h3 id="00002020-goals"> 5 Things I Want to Learn (or improve) in 2020 </h3>
-<ul>g
+<ul>
     <li> Configuration management (probably Ansible) </li>
     <li> Containers </li>
     <li> (improve) Software design for testability </li> 
@@ -706,5 +707,3 @@ it to allow my workstation to trust my project? So it's a server certificate? (I
     <li> Functions-as-a-Service (probably AWS Lambda) </li>
 </ul> 
   </div>
-
-</div>
