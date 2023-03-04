@@ -49,7 +49,7 @@
   <p> I didn't really go anywhere, but I did take a year off from writing on this blog. I used to host this site on AWS Elastic Beanstalk,
   and I've moved it to GitHub Pages. After a long day doing computers at work, I just didn't want to come home and also work on computers. So I took the site down for a while. Today I woke up with a bunch of stuff on my mind that would make for a nice blog post, so I decided to bring this all back in a more low-maintenance way.</p>
 
-  <p> I'm working on redirecting my domain <a href="sarahc.dev">sarahc.dev</a> to this blog. Some day I'll figure it out. </p>
+  <p> I'm working on redirecting my domain <a href="https://sarahc.dev">sarahc.dev</a> to this blog. Some day I'll figure it out. </p>
 </div>
 
 <div>
