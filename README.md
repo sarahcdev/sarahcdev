@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <div>
 <!--<h3>Table of Contents</h3> -->
   <ul>
+    <li><a href="#04032023-back">3 March 2023: I'm Back!</a></li>
   	<li><a href="#13042022-reading">13 April 2022: Reading is Harder than Writing</a></li>
     <li><a href="#10072021-helpdesk">10 July 2021: My Summers on the Help Desk</a></li>
     <li><a href="#09042021-containers"> 20 April 2021: Solidifying My Understanding of Containers</a></li>
@@ -44,6 +45,14 @@ Here are some ideas to get you started:
   </ul>
   <p>* = my greatest hits (IMHO) :)</p>
 
+</div>
+
+<div>
+  <h3 id="04032023-back"> 4 March 2023: I'm back! </h3>
+  <p> I didn't really go anywhere, but I did take a year off from writing on this blog. I used to host this site on AWS Elastic Beanstalk,
+  and I've moved it to GitHub Pages. After a long day doing computers at work, I just didn't want to come home and also work on computers. So I took the site down for a while. Today I woke up with a bunch of stuff on my mind that would make for a nice blog post, so I decided to bring this all back in a more low-maintenance way.</p>
+
+  <p> For the moment I've redirected my domain <a href="sarahc.dev">sarahc.dev</a> to the sarahcdev.github.io so it's no longer pointing to a dead ELB instance. Some day I'll figure out how to redirect to this page specifically. </p>
 </div>
 
 <div>
@@ -668,7 +677,7 @@ it to allow my workstation to trust my project? So it's a server certificate? (I
   <div>
 
 <h3 id="00002020-goals"> 5 Things I Want to Learn (or improve) in 2020 </h3>
-<ul>
+<ul>g
     <li> Configuration management (probably Ansible) </li>
     <li> Containers </li>
     <li> (improve) Software design for testability </li> 
