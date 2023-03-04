@@ -362,31 +362,30 @@ Here are some ideas to get you started:
     <li>Buffer overflow -> pointer overwrite is also a huge vulnerability. If an attacker can inject a memory address into a pointer, the program executes attacker code (either at a jump to register or direct memory location). (Cha et al.)</li>
   </ul>
 
-    <h4> Symbolic Execution </h4>
+<h4> Symbolic Execution </h4>
 
-    <ul>
-      <li>Symbolic means it needs to be evaluated to obtain a value (e.g. x + 3) </li>
-      <li>Symbolic execution is a way to explore the paths of execution through a program without using concrete inputs. Symbolic execution models the program into a tree of statements, logical expressions, and variable values. (Baldoni et al.) </li>
-      <li>There’s a good example of this on page 3 of (Baldoni et al.).</li>
-      <li>Once this tree is generated, a model checker (similar to an SMT solver) can identify which paths satisfy or do not satisfy certain conditions. (Baldoni et al.)</li>
-      <li>In other words, if you find a path that leads to an exploitable memcmp(), your checker can tell you which inputs and path conditions are required to reach that exploitable instruction. </li>
+<ul>
+    <li>Symbolic means it needs to be evaluated to obtain a value (e.g. x + 3) </li>
+    <li>Symbolic execution is a way to explore the paths of execution through a program without using concrete inputs. Symbolic execution models the program into a tree of statements, logical expressions, and variable values. (Baldoni et al.) </li>
+    <li>There’s a good example of this on page 3 of (Baldoni et al.).</li>
+    <li>Once this tree is generated, a model checker (similar to an SMT solver) can identify which paths satisfy or do not satisfy certain conditions. (Baldoni et al.)</li>
+    <li>In other words, if you find a path that leads to an exploitable memcmp(), your checker can tell you which inputs and path conditions are required to reach that exploitable instruction. </li>
+</ul>
+
+<h4> How this fits into my view of security </h4>
+<ul>
+    <li>There are security considerations at all levels, from hardware to application. Tainted instruction pointers are a bit deeper in the stack than I’m used to thinking about.</li>
+    <li>Injection in general is a really big class of vulnerability, encompassing the vulnerabilities described in Cha et al. but also including SQL injection and XSS. </li>
+    <li>Injection attacks are different from some other types of attacks such as password cracking and credential stuffing. I'm used to thinking about attacks that successfully authenticate the attacker can use entitlements of an existing account to attack in a more legitimate-looking way. How can you tell the difference between a request sent by User1-the-human-being vs. User1-the-bot-that-guessed-a-weak-password? Unless you are monitoring behavioral patterns such as time of logon and logon source IP, you wouldn’t be able to tell the difference. </li>
     </ul>
 
-    <h4> How this fits into my view of security </h4>
-    <ul>
-      <li>There are security considerations at all levels, from hardware to application. Tainted instruction pointers are a bit deeper in the stack than I’m used to thinking about.</li>
-      <li>Injection in general is a really big class of vulnerability, encompassing the vulnerabilities described in Cha et al. but also including SQL injection and XSS. </li>
-      <li>Injection attacks are different from some other types of attacks such as password cracking and credential stuffing. I'm used to thinking about attacks that successfully authenticate the attacker can use entitlements of an existing account to attack in a more legitimate-looking way. How can you tell the difference between a request sent by User1-the-human-being vs. User1-the-bot-that-guessed-a-weak-password? Unless you are monitoring behavioral patterns such as time of logon and logon source IP, you wouldn’t be able to tell the difference. </li>
-    </ul>
-
-    <h4> Sources </h4>
-    <p>
-      <ol>
+<h4> Sources </h4>
+<p>
+    <ol>
         <li>Cha, Sang Kil, Thanassis Avgerinos, Alexandre Rebert, and David Brumley. "Unleashing Mayhem on Binary Code." 2012 IEEE Symposium on Security and Privacy (2012). Print.</li>
-
         <li>Baldoni, Roberto, Emilio Coppa, Daniele Cono D’Elia, Camil Demetrescu, and Irene Finocchi. "A Survey of Symbolic Execution Techniques." ACM Computing Surveys 51.3 (2018): 1-39. Print.</li>
-      </ol>
-    </p>
+       </ol>
+</p>
 
 
 </div>
@@ -466,29 +465,29 @@ Here are some ideas to get you started:
   <h4> Part III: Critical Thinking </h4>
   <p> Another important aspect of being good at technical interviews is being good at reasoning about the problem. It may not always be the case that the question being asked of you is familiar, but it probably has some familiar pieces, and with some reasoning, you can find an answer. 
 
-    <p>Critical thinking serves two roles here: </p>
+<p>Critical thinking serves two roles here: </p>
 
-    <ol>
-      <li> To build an understanding of the foundational patterns/ problems that will be useful later on. This is how those cornerstone problems in CS (such as Fibonacci, O() complexity of algorithms, various problems in graph theory, synchronization mechanisms, et. al.) enter your brain and stay there for future reference. If you really learn these problems thoroughly, they will stick with you and come in handy later. But you have to be able to reason about them and really understand them for that to happen. </li>
-      <li> To do the "twisting and turning" of what you already know and understand in order to arrive at the solution. This is the part where the professor solves the problem, and you ask them why, and they pull out a bunch of random theorems from other parts of math that show how they are correct. You would have never gotten there on your own, likely because you either never saw those patterns/ problems before, or because you didn't realize you could apply them to this particular problem. </li>
-    </ol>
+<ol>
+    <li> To build an understanding of the foundational patterns/ problems that will be useful later on. This is how those cornerstone problems in CS (such as Fibonacci, O() complexity of algorithms, various problems in graph theory, synchronization mechanisms, et. al.) enter your brain and stay there for future reference. If you really learn these problems thoroughly, they will stick with you and come in handy later. But you have to be able to reason about them and really understand them for that to happen. </li>
+    <li> To do the "twisting and turning" of what you already know and understand in order to arrive at the solution. This is the part where the professor solves the problem, and you ask them why, and they pull out a bunch of random theorems from other parts of math that show how they are correct. You would have never gotten there on your own, likely because you either never saw those patterns/ problems before, or because you didn't realize you could apply them to this particular problem. </li>
+</ol>
 
 
-    <p>I think the second type of reasoning comes with a lot of practice in the same way that being good at math comes with practice. Sending me through my public school math and then asking me to reason about a math problem in college is like giving someone a lesson on walking in a straight line and then telling them the final exam requires ballroom dancing and a backflip. Sure, I understand most of the mechanics, but I never knew I would have to twist my brain into thinking about the material in that way; I just now learned it could even be done. But with a lot of practice and the help of various problems/ patterns, I've seen myself grow tremendously in this area and it's been really fulfilling to see.</p>
+<p>I think the second type of reasoning comes with a lot of practice in the same way that being good at math comes with practice. Sending me through my public school math and then asking me to reason about a math problem in college is like giving someone a lesson on walking in a straight line and then telling them the final exam requires ballroom dancing and a backflip. Sure, I understand most of the mechanics, but I never knew I would have to twist my brain into thinking about the material in that way; I just now learned it could even be done. But with a lot of practice and the help of various problems/ patterns, I've seen myself grow tremendously in this area and it's been really fulfilling to see.</p>
 
-    <h4> Part IV: You (Maybe) Learned This As A Kid </h4>
-    <p> You probably didn't learn all of Data Structures & Algorithms in K-12, but I wouldn't bet money on that based on the people I met in college CS. Still, you may have learned valuable math, logic, or debate skills that come in handy later on in life. I think this is probably especially true of anyone who was really into math programs, but it could also be true of students in certain other extracurriculars. It certainly could be true of more students if their curriculum was redesigned. </p> 
+<h4> Part IV: You (Maybe) Learned This As A Kid </h4>
+<p> You probably didn't learn all of Data Structures & Algorithms in K-12, but I wouldn't bet money on that based on the people I met in college CS. Still, you may have learned valuable math, logic, or debate skills that come in handy later on in life. I think this is probably especially true of anyone who was really into math programs, but it could also be true of students in certain other extracurriculars. It certainly could be true of more students if their curriculum was redesigned. </p> 
 
-    <p> This is definitely a much larger topic than I can cover right now, but I don't like the way math was taught to me as a kid. It was unbearably slow, taught completely by rote, and peppered with random topics that made no sense in the context of when they were taught. I actually had a very good education when it came to verbal skills. I believe that has gotten me very, very far as an adult and I am so grateful for the literacy programs my public school had. But when I think back on it, were these not pretty similar to the math lessons? Sure, some of my teachers had a bias for reading over other subjects, but I don't know if that's the whole story. Reading/ literacy is a skill I learned by long and daunting practice, often employing rote mechanics. I would read for long stretches of time in and out of the classroom, participate in summer reading programs at the library, and write stories for fun. In school we would have quiet reading hour, we would get independent time to read from a special box of stories and test our learning after with a self-administered quiz, and we would get lessons on things like homophones. All pretty rote and autonomous activities for a 7 year old child. Yet these lessons propelled me forward for the rest of my life, and even 10+ years later when I took the SAT, my verbal skills were better than my math skills. I believe these skills made me a better note-taker and a better learner in the lecture/classroom/textbook/essay environment. In contrast, we didn't spend so much time on math. Sure, we had lessons on the chalkboard about how to do arithmetic, we talked about different ways to do the arithmetic and a bit of the underlying math, and we practiced with worksheets in-class. But it wasn't as engaging, it didn't feel as important, and for me, it was so boring. The only rewarding thing about doing math in school was memorizing the steps and getting an A on the test. Engaging with reading and writing felt so natural, and math felt so foreign. There's always the possibility that my brain is just wired for verbal skills more than non-verbal, but I do wonder if I had the parallel experience but with math if I would be one of those Perfect Technical Interview Candidates by now. </p>
+<p> This is definitely a much larger topic than I can cover right now, but I don't like the way math was taught to me as a kid. It was unbearably slow, taught completely by rote, and peppered with random topics that made no sense in the context of when they were taught. I actually had a very good education when it came to verbal skills. I believe that has gotten me very, very far as an adult and I am so grateful for the literacy programs my public school had. But when I think back on it, were these not pretty similar to the math lessons? Sure, some of my teachers had a bias for reading over other subjects, but I don't know if that's the whole story. Reading/ literacy is a skill I learned by long and daunting practice, often employing rote mechanics. I would read for long stretches of time in and out of the classroom, participate in summer reading programs at the library, and write stories for fun. In school we would have quiet reading hour, we would get independent time to read from a special box of stories and test our learning after with a self-administered quiz, and we would get lessons on things like homophones. All pretty rote and autonomous activities for a 7 year old child. Yet these lessons propelled me forward for the rest of my life, and even 10+ years later when I took the SAT, my verbal skills were better than my math skills. I believe these skills made me a better note-taker and a better learner in the lecture/classroom/textbook/essay environment. In contrast, we didn't spend so much time on math. Sure, we had lessons on the chalkboard about how to do arithmetic, we talked about different ways to do the arithmetic and a bit of the underlying math, and we practiced with worksheets in-class. But it wasn't as engaging, it didn't feel as important, and for me, it was so boring. The only rewarding thing about doing math in school was memorizing the steps and getting an A on the test. Engaging with reading and writing felt so natural, and math felt so foreign. There's always the possibility that my brain is just wired for verbal skills more than non-verbal, but I do wonder if I had the parallel experience but with math if I would be one of those Perfect Technical Interview Candidates by now. </p>
 
-    <p> And sure, a lot of that last paragraph I just wrote could be brushed off as entirely anecdotal and biased toward my own worldview. Maybe I really was just born with a reading brain and I got lucky because my early education was taught by reading teachers. I'm also pretty good at languages, for what that says about me. But there's some evidence here that might back me up: <a href="https://www.theatlantic.com/ideas/archive/2019/06/phonics-not-whole-word-best-teaching-reading/591127/"> John McWhorter says </a> that learning to read by phonics proves the most effective for students of all backgrounds, which is especially good news for children of lower income households who might not have the huge library at home that could support them in other types of self-directed learning that some school districts try out. That's not to say that other types of reading education don't work, but that phonics works pretty well for the general population when there are not other resources available. Phonics works in a pretty mechanical and rote way: you just sound out the letters and build up words. Phonics is what worked for me. It's how my dad taught me to say "cat" with fridge magnets (thanks dad!), and I should really call him to tell him he nailed it. It's still how I engage with language, how I have always been pretty good at spelling, how I pick up new languages fast, how I am (sort of) trying to get the basics of Hebrew down. So I do believe there is something about repetition and practice that builds up verbal skills in your brain. First and second grade were like verbal skills boot camp for me, and I attribute a lot of my abilities to that. </p>
+<p> And sure, a lot of that last paragraph I just wrote could be brushed off as entirely anecdotal and biased toward my own worldview. Maybe I really was just born with a reading brain and I got lucky because my early education was taught by reading teachers. I'm also pretty good at languages, for what that says about me. But there's some evidence here that might back me up: <a href="https://www.theatlantic.com/ideas/archive/2019/06/phonics-not-whole-word-best-teaching-reading/591127/"> John McWhorter says </a> that learning to read by phonics proves the most effective for students of all backgrounds, which is especially good news for children of lower income households who might not have the huge library at home that could support them in other types of self-directed learning that some school districts try out. That's not to say that other types of reading education don't work, but that phonics works pretty well for the general population when there are not other resources available. Phonics works in a pretty mechanical and rote way: you just sound out the letters and build up words. Phonics is what worked for me. It's how my dad taught me to say "cat" with fridge magnets (thanks dad!), and I should really call him to tell him he nailed it. It's still how I engage with language, how I have always been pretty good at spelling, how I pick up new languages fast, how I am (sort of) trying to get the basics of Hebrew down. So I do believe there is something about repetition and practice that builds up verbal skills in your brain. First and second grade were like verbal skills boot camp for me, and I attribute a lot of my abilities to that. </p>
 
-    <p> But I don't think math works that way. I had a rote and mechanical math education, and it was bad. Because my teachers took similar approaches to reading (where, I think, rote works!) and math, I learned how to do things like memorize how to multiply and divide on paper. And while we didn't spend nearly as much time in those early elementary years doing math as we did reading, we did learn these subjects in similar ways, by watching the teacher do it on the board and then repeating the mechanical steps on a worksheet. We would occasionally try something new, like using blocks to understand counting. But the reasoning required to really understand math just never arose from these activities. Math requires an entirely different way of learning, involving pattern recognition and those "twisting and turning" reasoning skills that pass tech interviews. If you don't believe me, pick up a copy of The Art of Problem Solving. </p>
+<p> But I don't think math works that way. I had a rote and mechanical math education, and it was bad. Because my teachers took similar approaches to reading (where, I think, rote works!) and math, I learned how to do things like memorize how to multiply and divide on paper. And while we didn't spend nearly as much time in those early elementary years doing math as we did reading, we did learn these subjects in similar ways, by watching the teacher do it on the board and then repeating the mechanical steps on a worksheet. We would occasionally try something new, like using blocks to understand counting. But the reasoning required to really understand math just never arose from these activities. Math requires an entirely different way of learning, involving pattern recognition and those "twisting and turning" reasoning skills that pass tech interviews. If you don't believe me, pick up a copy of The Art of Problem Solving. </p>
 
-    <h4> Part V: The Social Aspect </h4>
-    <p>So the last thing I’ll say about a technical interview is that you (usually) also need to be likable and good at communicating. These are also skills you build up over time, but in a different way. You have to be able to explain your thinking and build rapport with your interviewer. It also helps to have a bit of humor and warmness to you, so you don’t look like a robot whose sole purpose is passing a technical interview. This is also for you to be able to gauge the person interviewing you — are they a robot? Are they going to treat you like a human? Can they have some humor and warmness? These are important things to look out for, because it’s really difficult to judge your potential new coworkers as coworkers in the power dynamic that an interview creates. </p>
+<h4> Part V: The Social Aspect </h4>
+<p>So the last thing I’ll say about a technical interview is that you (usually) also need to be likable and good at communicating. These are also skills you build up over time, but in a different way. You have to be able to explain your thinking and build rapport with your interviewer. It also helps to have a bit of humor and warmness to you, so you don’t look like a robot whose sole purpose is passing a technical interview. This is also for you to be able to gauge the person interviewing you — are they a robot? Are they going to treat you like a human? Can they have some humor and warmness? These are important things to look out for, because it’s really difficult to judge your potential new coworkers as coworkers in the power dynamic that an interview creates. </p>
 
-    <p> A lot more can be said for other skills that do not shine through in a technical interview. I think a lot of the ways in which I am really smart are hidden by tech interviews, just like they were hidden in college. I'm still a good software engineer, and I am learning these technical interview skills as I go along. Interviewers should certainly be looking for other cues as to candidates' abilities: problem solving, collaboration, communication to name a few. So hopefully a technical interview is just one piece of the puzzle, and the other pieces are what really will make up the bigger picture in the way of matching a candidate to a position. I know I certainly wouldn't work for a company that didn't make an effort to assess me on other qualities, because I don't want to work with colleagues who were hired solely for their ability to ace the whiteboard. </p>
+<p> A lot more can be said for other skills that do not shine through in a technical interview. I think a lot of the ways in which I am really smart are hidden by tech interviews, just like they were hidden in college. I'm still a good software engineer, and I am learning these technical interview skills as I go along. Interviewers should certainly be looking for other cues as to candidates' abilities: problem solving, collaboration, communication to name a few. So hopefully a technical interview is just one piece of the puzzle, and the other pieces are what really will make up the bigger picture in the way of matching a candidate to a position. I know I certainly wouldn't work for a company that didn't make an effort to assess me on other qualities, because I don't want to work with colleagues who were hired solely for their ability to ace the whiteboard. </p>
 
   </div>
 
@@ -496,70 +495,70 @@ Here are some ideas to get you started:
 
   <div>
 
-    <h3 id="04082020-nosql"> 4 Aug 2020: Notes on NoSQL Databases </h3>
-    <p> Notes from watching <a href="https://www.youtube.com/watch?v=qI_g07C_Q5I"> Introduction to NoSQL, Martin Fowler </a>
+<h3 id="04082020-nosql"> 4 Aug 2020: Notes on NoSQL Databases </h3>
+<p> Notes from watching <a href="https://www.youtube.com/watch?v=qI_g07C_Q5I"> Introduction to NoSQL, Martin Fowler </a>
 
-      <p> Problem: Object-relational impedance mismatch (Things are logically organized into objects in code, but those objects have to be split up and stored into tables and mapped by schema.) Hence ORMs. </p>
+<p> Problem: Object-relational impedance mismatch (Things are logically organized into objects in code, but those objects have to be split up and stored into tables and mapped by schema.) Hence ORMs. </p>
 
-      <p> SQL is designed to run on large servers, not large grids of small hardware which became dominant as large internet companies grew in the 2000s. </p>
+<p> SQL is designed to run on large servers, not large grids of small hardware which became dominant as large internet companies grew in the 2000s. </p>
 
-      <p> Thus Bigtable & Dynamo </p>
+<p> Thus Bigtable & Dynamo </p>
 
-      <p> NoSQL is hard to define, but it's generally non-relational, cluster-friendly, schema-less, open source. </p>
+<p> NoSQL is hard to define, but it's generally non-relational, cluster-friendly, schema-less, open source. </p>
 
-      <p> There are four general categories of NoSQL: </p>
-      <ol>
-        <li> Column-family. Examples: Bigtable  </li>
-        <li> Graph. (Node and edge graph model. Good at moving across relationships between things (wherease in relational, you need foreign keys, joins.) Interesting query language for navigating graphs. )Examples: Neo4j </li>
-        <li> Document (Typically stored as JSON. You can query into the document structure. An attribute is kind of like a key...) Examples: MongoDB, Dynamo</li>
-        <li> Key-value (Like a persistent hashmap. You can usually store metadata about the records, though, so this becomes more like a document database.). Examples: </li>
-      </ol>
+<p> There are four general categories of NoSQL: </p>
+<ol>
+    <li> Column-family. Examples: Bigtable  </li>
+    <li> Graph. (Node and edge graph model. Good at moving across relationships between things (wherease in relational, you need foreign keys, joins.) Interesting query language for navigating graphs. )Examples: Neo4j </li>
+    <li> Document (Typically stored as JSON. You can query into the document structure. An attribute is kind of like a key...) Examples: MongoDB, Dynamo</li>
+    <li> Key-value (Like a persistent hashmap. You can usually store metadata about the records, though, so this becomes more like a document database.). Examples: </li>
+</ol>
 
-      <p> Martin Fowler calls Document, Key-Value and Column-family "Aggregate-Oriented" databases. </p>
+<p> Martin Fowler calls Document, Key-Value and Column-family "Aggregate-Oriented" databases. </p>
 
-      <p> Though NoSQL is schema-less, there is an implicit schema in NoSQL dbs that becomes clear when you start querying! For example, querying MongoDB for a particular JSON attribute. </p>
+<p> Though NoSQL is schema-less, there is an implicit schema in NoSQL dbs that becomes clear when you start querying! For example, querying MongoDB for a particular JSON attribute. </p>
 
-      <p> Big advantage of aggregate-oriented is that you can store multiple pieces of information together in a single record, whereas in a relational db, you would need to have two tables and map one row from a table to multiple rows of another table in order to associate the information correctly. </p>
+<p> Big advantage of aggregate-oriented is that you can store multiple pieces of information together in a single record, whereas in a relational db, you would need to have two tables and map one row from a table to multiple rows of another table in order to associate the information correctly. </p>
 
-      <p> Aggregation makes clustering easy because you know what will need to be stored close together. </p> 
+<p> Aggregation makes clustering easy because you know what will need to be stored close together. </p> 
 
-      <p> Column-family is also aggregate-oriented. </p>
+<p> Column-family is also aggregate-oriented. </p>
 
-      <p> Aggregation has a drawback: really difficult to slice and dice your data after you've decided on the aggregation. </p>
+<p> Aggregation has a drawback: really difficult to slice and dice your data after you've decided on the aggregation. </p>
 
-      <p> So how do the different NoSQL models handle relationships? Aggregate-oriented databases are similar to relational dbs, in that you have to associate by attributes or values in the data. Graph databases are oriented toward relationships since they are node-edge models. This is good guide for deciding which db to use. </p>
+<p> So how do the different NoSQL models handle relationships? Aggregate-oriented databases are similar to relational dbs, in that you have to associate by attributes or values in the data. Graph databases are oriented toward relationships since they are node-edge models. This is good guide for deciding which db to use. </p>
 
-      <p> Consistency in NoSQL: SQL=ACID, NoSQL=BASE. But Martin Fowler isn't a fan of this. Graph db's are ACID. Aggregate-oriented databases don't need ACID quite as much. Aggregations are transaction boundaries! So you shouldn't really need to lock more than one aggregation at a time. If you update multiple documents at a time in document dbs, then you need additional atomicity.</p>
+<p> Consistency in NoSQL: SQL=ACID, NoSQL=BASE. But Martin Fowler isn't a fan of this. Graph db's are ACID. Aggregate-oriented databases don't need ACID quite as much. Aggregations are transaction boundaries! So you shouldn't really need to lock more than one aggregation at a time. If you update multiple documents at a time in document dbs, then you need additional atomicity.</p>
 
-      <p> In general, transactions are achieved by letting a user retrieve a versioned record, updating that versioned record, and sending it back. Then when two users have written at the same time to their own copy of the version, you can do whatever conflict resolution you need to. </p>
+<p> In general, transactions are achieved by letting a user retrieve a versioned record, updating that versioned record, and sending it back. Then when two users have written at the same time to their own copy of the version, you can do whatever conflict resolution you need to. </p>
 
-      <p> Logical consistency vs. replication consistency </p>
+<p> Logical consistency vs. replication consistency </p>
 
-      <p> What if two nodes lose communication with each other? Do you allow both to modify the same object, or neither? This is a tradeoff between consistency and availability. Dynamo needed to guarantee availability in the shopping cart for Amazon. </p>
+<p> What if two nodes lose communication with each other? Do you allow both to modify the same object, or neither? This is a tradeoff between consistency and availability. Dynamo needed to guarantee availability in the shopping cart for Amazon. </p>
 
-      <p> CAP Theorem: Consistency, Availability, PartitionTolerance. Pick 2. (aka, if you get a network partition (communication failure between nodes), you can either have availability or consistency.) But this is on a spectrum, so it's not always just one or the other. Even if the network is up, you have a performance tradeoff if you want to be 100% consistent since it takes time to absolutely guarantee consistency across nodes. So it's a safety vs. liveness in concurrency issue. </p>
+<p> CAP Theorem: Consistency, Availability, PartitionTolerance. Pick 2. (aka, if you get a network partition (communication failure between nodes), you can either have availability or consistency.) But this is on a spectrum, so it's not always just one or the other. Even if the network is up, you have a performance tradeoff if you want to be 100% consistent since it takes time to absolutely guarantee consistency across nodes. So it's a safety vs. liveness in concurrency issue. </p>
 
-      <p> So when to use a NoSQL database? Two drivers: 1. Large amounts of data that can't fit well into a relational database. 2. Natural aggregates, for example when publishing news stories that have metadata and content together. Another reason includes analytics, as an alternative to datawarehousing. </p> 
+<p> So when to use a NoSQL database? Two drivers: 1. Large amounts of data that can't fit well into a relational database. 2. Natural aggregates, for example when publishing news stories that have metadata and content together. Another reason includes analytics, as an alternative to datawarehousing. </p> 
 
-    </div>
+</div>
 
-    <br/>
+<br/>
 
-    <div>
+<div>
 
-      <h3 id="03082020-do"> 3 Aug 2020: DigitalOcean Databases </h3>
-      <p> Just some notes as I try out DigitalOcean's database-as-a-service platform. </p>
+<h3 id="03082020-do"> 3 Aug 2020: DigitalOcean Databases </h3>
+<p> Just some notes as I try out DigitalOcean's database-as-a-service platform. </p>
 
-      <p> General observations: </p>
-      <ul>
-        <li> Pricing is pretty up-front</li>
-        <li> They give you a lot of nice little security hints -- allow/deny IPs, use 2FA, put your recovery codes in an encrypted file or pw manager, only showing OAuth token once ever </li>
-        <li> Instantly I'm noticing a lack of integrations with any identity platform on the database (but this is a hard problem) </li>
-        <li> I can see that the randomly generated database admin pw is pretty strong and can be rotated manually -- auto rotations maybe?</li>
-      </ul>
+<p> General observations: </p>
+<ul>
+    <li> Pricing is pretty up-front</li>
+    <li> They give you a lot of nice little security hints -- allow/deny IPs, use 2FA, put your recovery codes in an encrypted file or pw manager, only showing OAuth token once ever </li>
+    <li> Instantly I'm noticing a lack of integrations with any identity platform on the database (but this is a hard problem) </li>
+    <li> I can see that the randomly generated database admin pw is pretty strong and can be rotated manually -- auto rotations maybe?</li>
+</ul>
 
-      <p> What I'm doing: </p>
-      <ol>
+<p> What I'm doing: </p>
+    <ol>
         <li> Created my DO account </li>
         <li> Created new Postgres 12 db </li>
         <li> Did some initial configs on it (IP allow listing) </li>
@@ -567,68 +566,35 @@ Here are some ideas to get you started:
         <li> Connect to my new db from the psql client. Pretty smooth; basically what I would expect. </li>
         <li> Found a dataset on Kaggle in CSV format, created a table for it in the db, used \copy command in psql to copy the data in. Now I can query Netflix titles! </li>
         <li> Generated OAuth API Bearer Token and used it to list my database clusters via HTTPS request (note: not immediately clear to me here that I would need to list all clusters first, then get the cluster id, then get more specific details from it. Wish cluster id was available on UI.)</li>
-      </ol>
-
-      <p> Questions: </p>
-      <ul>
-        <li> What's this .crt file it generated for me? It says it relates to my specific project (unit of organization for DO resources). Is
-        it to allow my workstation to trust my project? So it's a server certificate? (Is this for machine-to-machine auth when you use other DO resources?)</li>
-      </ul>
-
-    </div>
-
-    <br/>
-
-    <div>
-
-     <h3 id="01082020-goals2"> 1 Aug 2020: Checking in on my 2020 goals </h3>
-     <p> Wow, it has been a while! As the COVID-19 pandemic completely took over life as we knew it in 2020, I was making sporadic progress on the goals I outlined above. I also have some more clarity on what I'm wanting looking into the future career-wise. So here's what I've been working on: </p>
-
-
-     <ul>
-      <li> <b> Configuration management (probably Ansible): </b> A while back, I played around with Ansible on AWS as a way to spin up and configure some EC2 instances.  </li>
-      <li> <b> Containers: </b> I did put some time into this one! I got Docker Desktop set up at home and just poked around for a bit with the Flask image and said "hello, world!" from Docker. I also tried out a security product that's distributed as a Docker image. I took a self-paced course on containers and I generally understand the basics now. I know why you'd use one over a VM, where to get images, what a Dockerfile is, how to spin up a container, how to map ports & storage, and how to set up a little environment with multiple containers that communicate with one another (network). Next on my list for this one is: orchestration/k8s. </li>
-      <li> <b> (improve) Software design for testability: </b> Are we ever really done with this one? :) Again, nothing really specific here, but I haven't stopped writing tests!</li> 
-      <li> <b> API design: </b> Nope. </li> 
-      <li> <b> Functions-as-a-Service: (probably AWS Lambda) </b> I did play with this one! See blog posts above. But nothing groundbreaking. </li>
-    </ul> 
-
-    <p> So I guess I've been working on less than I thought?! But I have been busy. At work I have the typical workload (+, you know, the pandemic).</p> 
-
-    <p> I've also been working on brushing up on SQL and concurrency. I apparently remember a lot about spin locks and not a lot else (probably because I haven't done much of it outside of college OS class). </p>
-
-  </div>
-
-  <br/>
-
-  <div>
-
-    <h3 id="01032020-lambdas"> 1 March 2020 Lambdas! </h3> 
-    <p> Today I was wandering around my little AWS playground and I was kind of bored by what I was doing (messing with flask and security groups) so I decided to see if I could get a Lambda up and running. Some days I love following tutorials and absorbing every word. Other days, I want to just break things and see how far I can get. Today was one of those days. </p>
-
-    <p> So what is a Lambda? It's a function-as-a-service. You give AWS some code to run and it figures out the rest for you. How's that different from running code on EC2 or in a container? Well, it's even easier. There's no infrastructure, OS, or even runtime to worry about. You give AWS the code -- literally the source code -- and it takes care of the rest. </p>
-
-    <p> Well you do have to give it a trigger. Otherwise it would just be code that AWS doesn't know when to run. </p> 
-
-    <p> Here are (roughly) the steps with commentary, for doing what I did today: </p>   
-    <ol>
-      <li> In the AWS Console, open Lambdas and Create Function</li>
-      <li> Author from scratch (it's more fun this way...?) </li>
-      <li> Choose a runtime you like (Python here) </li>
-      <li> Permissions: Create new with basic Lambda permissions </li>
-      <li> Add trigger: API Gateway (trigger this function on an API call) </li> 
-      <li> Create new REST API; Open with API Key </li> 
     </ol>
 
-    <p> So at this point I ostensibly have my own API Gateway backed by a lambda function. But how do I use it? On the function's Configuration tab, there's a Designer diagram. Click the API Gateway icon. It will show some configurations, including the API endpoint. So open up a new tab and try it out! </p>
+<p> Questions: </p>
+<ul>
+    <li> What's this .crt file it generated for me? It says it relates to my specific project (unit of organization for DO resources). Is
+it to allow my workstation to trust my project? So it's a server certificate? (Is this for machine-to-machine auth when you use other DO resources?)</li>
+</ul>
 
-    <p> Well, you'll find that it doesn't work. You get a nice little {"message":"Forbidden"} response from your own API because you set the authorizations to Open with API Key but you didn't provide a key! </p>
+</div>
 
-    <p> Get the key from the AWS Console's API Gateway service and navigating to API Keys. The API Gateway page is also where you can disable API Keys or enable IAM authorizations for your APIs. </p>
+<br/>
 
-    <p> One way to provide the API key to the endpoint is in the headers as an x-api-key. You'll notice that <code> curl $ApiEndpoint </code> gives you back the same forbidden response, while <code> curl -i -H "x-api-key: $Key" $Endpoint </code> invokes your Lambda! </p>
+<div>
 
-    <p> At this point your Lambda will execute the boilerplate Hello World python code that gets populated when you create a python Lambda but you can edit it to do whatever you want! </p>
+<h3 id="01082020-goals2"> 1 Aug 2020: Checking in on my 2020 goals </h3>
+<p> Wow, it has been a while! As the COVID-19 pandemic completely took over life as we knew it in 2020, I was making sporadic progress on the goals I outlined above. I also have some more clarity on what I'm wanting looking into the future career-wise. So here's what I've been working on: </p>
+
+
+<ul>
+    <li> <b> Configuration management (probably Ansible): </b> A while back, I played around with Ansible on AWS as a way to spin up and configure some EC2 instances.  </li>
+    <li> <b> Containers: </b> I did put some time into this one! I got Docker Desktop set up at home and just poked around for a bit with the Flask image and said "hello, world!" from Docker. I also tried out a security product that's distributed as a Docker image. I took a self-paced course on containers and I generally understand the basics now. I know why you'd use one over a VM, where to get images, what a Dockerfile is, how to spin up a container, how to map ports & storage, and how to set up a little environment with multiple containers that communicate with one another (network). Next on my list for this one is: orchestration/k8s. </li>
+    <li> <b> (improve) Software design for testability: </b> Are we ever really done with this one? :) Again, nothing really specific here, but I haven't stopped writing tests!</li> 
+    <li> <b> API design: </b> Nope. </li> 
+    <li> <b> Functions-as-a-Service: (probably AWS Lambda) </b> I did play with this one! See blog posts above. But nothing groundbreaking. </li>
+</ul> 
+
+<p> So I guess I've been working on less than I thought?! But I have been busy. At work I have the typical workload (+, you know, the pandemic).</p> 
+
+<p> I've also been working on brushing up on SQL and concurrency. I apparently remember a lot about spin locks and not a lot else (probably because I haven't done much of it outside of college OS class). </p>
 
   </div>
 
@@ -636,46 +602,79 @@ Here are some ideas to get you started:
 
   <div>
 
-    <h3 id="27202020-tests"> 27 Feb 2020: On Writing Good Unit Tests </h3>
-    <p> I still remember the day I learned about automated testing. I was in my junior fall semester of college, taking a class about software engineering. All of my other classes up to that point had been very "CS"-y and not very, well, "practical." This particular class required a semester-long software engineering project with CI/CD, testing and (somewhat humorously) UML diagrams. A guest lecturer pulled my group to the side and asked us if we knew how to write a test. And thus the magic of Assert() was revealed to me. Today as a software engineer, I pride myself on the quality of my tests and the efficiency of my CI/CD pipeline. I don't consider a feature "done" unless there are tests. I will not tell you my code is "ready" if I didn't push the play button and wait for a versioned, tested executable to come out of the other end of the pipeline. I definitely think these are some of my strenghts as a software engineer but there are also some things that I'd still like to improve on in this area. </p> 
+<h3 id="01032020-lambdas"> 1 March 2020 Lambdas! </h3> 
+<p> Today I was wandering around my little AWS playground and I was kind of bored by what I was doing (messing with flask and security groups) so I decided to see if I could get a Lambda up and running. Some days I love following tutorials and absorbing every word. Other days, I want to just break things and see how far I can get. Today was one of those days. </p>
 
-    <p> It's kind of hard to definitively say what a "good" test is but there are some easy ways to identify bad ones. So we can start there. Bad things to do in tests: </p>
-    <ul>
-      <li> Depend on other tests </li>
-      <li> Depend on external factors that can change, such as databases or web services</li>
-      <li> Only test the positive cases </li>
-      <li> Stop writing tests after the initial development (if you find an edge case later, fix it and write a test!) </li> 
-    </ul>
+<p> So what is a Lambda? It's a function-as-a-service. You give AWS some code to run and it figures out the rest for you. How's that different from running code on EC2 or in a container? Well, it's even easier. There's no infrastructure, OS, or even runtime to worry about. You give AWS the code -- literally the source code -- and it takes care of the rest. </p>
 
-    <p> Here are my tips for good testing (but this is by no means comprehensive!): </p>
-    <ul>
-      <li> Think about equivalence classes & consider some (reasonable) ones </li>
-      <li> Fuzz it (aka throw absolute nonsense inputs at it). This one makes more sense if you have user-facing surfaces, but can be useful if you use a data source that could one day feed your program garbage. </li> 
-      <li> Consider testing in your initial design (my current favorite framework for this is dependency injection) </li> 
-      <li> Write a lot of small tests (hence the name "unit") but also consider some end-to-end tests to make sure your program executes in the way you think it does once it's all put together. I've caught some <b> nasty </b> bugs this way. </li> 
-    </ul> 
+<p> Well you do have to give it a trigger. Otherwise it would just be code that AWS doesn't know when to run. </p> 
 
-    <p> Of course there are still things that mystify me about testing. Here are some of those things: </p>
-    <ul>
-      <li> Exactly which methods should I unit test? Only the external-facing ones? All of them? Even the tiny little helper classes? I tend to try to test every method, but am I doing this wrong? </li> 
-      <li> Should I have some integration tests? How would I even achieve that? (I guess this one is pretty project-specific, but I still wonder.) </li>
-    </ul>
+<p> Here are (roughly) the steps with commentary, for doing what I did today: </p>   
+<ol>
+    <li> In the AWS Console, open Lambdas and Create Function</li>
+    <li> Author from scratch (it's more fun this way...?) </li>
+    <li> Choose a runtime you like (Python here) </li>
+    <li> Permissions: Create new with basic Lambda permissions </li>
+    <li> Add trigger: API Gateway (trigger this function on an API call) </li> 
+    <li> Create new REST API; Open with API Key </li> 
+</ol>
 
-    <p> In my personal experience, comprehensive unit testing has saved me a lot of trouble. It's costly to do up-front and your non-developer coworkers might question why simple features tend to take you so long, but you will more than make up for the time when your program works well and you can identify bugs very quickly. I <i>love</i> my end-to-end tests and I would hate to try to "verify" that my program was working by crawling through application logs and hoping everything looked right. When in doubt, write a test! Your future self will thank you. </p> 
+<p> So at this point I ostensibly have my own API Gateway backed by a lambda function. But how do I use it? On the function's Configuration tab, there's a Designer diagram. Click the API Gateway icon. It will show some configurations, including the API endpoint. So open up a new tab and try it out! </p>
+
+<p> Well, you'll find that it doesn't work. You get a nice little {"message":"Forbidden"} response from your own API because you set the authorizations to Open with API Key but you didn't provide a key! </p>
+
+<p> Get the key from the AWS Console's API Gateway service and navigating to API Keys. The API Gateway page is also where you can disable API Keys or enable IAM authorizations for your APIs. </p>
+
+<p> One way to provide the API key to the endpoint is in the headers as an x-api-key. You'll notice that <code> curl $ApiEndpoint </code> gives you back the same forbidden response, while <code> curl -i -H "x-api-key: $Key" $Endpoint </code> invokes your Lambda! </p>
+
+<p> At this point your Lambda will execute the boilerplate Hello World python code that gets populated when you create a python Lambda but you can edit it to do whatever you want! </p>
+
   </div>
 
   <br/>
 
   <div>
 
-    <h3 id="00002020-goals"> 5 Things I Want to Learn (or improve) in 2020 </h3>
-    <ul>
-      <li> Configuration management (probably Ansible) </li>
-      <li> Containers </li>
-      <li> (improve) Software design for testability </li> 
-      <li> API design </li> 
-      <li> Functions-as-a-Service (probably AWS Lambda) </li>
-    </ul> 
+<h3 id="27202020-tests"> 27 Feb 2020: On Writing Good Unit Tests </h3>
+<p> I still remember the day I learned about automated testing. I was in my junior fall semester of college, taking a class about software engineering. All of my other classes up to that point had been very "CS"-y and not very, well, "practical." This particular class required a semester-long software engineering project with CI/CD, testing and (somewhat humorously) UML diagrams. A guest lecturer pulled my group to the side and asked us if we knew how to write a test. And thus the magic of Assert() was revealed to me. Today as a software engineer, I pride myself on the quality of my tests and the efficiency of my CI/CD pipeline. I don't consider a feature "done" unless there are tests. I will not tell you my code is "ready" if I didn't push the play button and wait for a versioned, tested executable to come out of the other end of the pipeline. I definitely think these are some of my strenghts as a software engineer but there are also some things that I'd still like to improve on in this area. </p> 
+
+<p> It's kind of hard to definitively say what a "good" test is but there are some easy ways to identify bad ones. So we can start there. Bad things to do in tests: </p>
+<ul>
+    <li> Depend on other tests </li>
+    <li> Depend on external factors that can change, such as databases or web services</li>
+    <li> Only test the positive cases </li>
+    <li> Stop writing tests after the initial development (if you find an edge case later, fix it and write a test!) </li> 
+</ul>
+
+<p> Here are my tips for good testing (but this is by no means comprehensive!): </p>
+<ul>
+    <li> Think about equivalence classes & consider some (reasonable) ones </li>
+    <li> Fuzz it (aka throw absolute nonsense inputs at it). This one makes more sense if you have user-facing surfaces, but can be useful if you use a data source that could one day feed your program garbage. </li> 
+    <li> Consider testing in your initial design (my current favorite framework for this is dependency injection) </li> 
+    <li> Write a lot of small tests (hence the name "unit") but also consider some end-to-end tests to make sure your program executes in the way you think it does once it's all put together. I've caught some <b> nasty </b> bugs this way. </li> 
+</ul> 
+
+<p> Of course there are still things that mystify me about testing. Here are some of those things: </p>
+<ul>
+    <li> Exactly which methods should I unit test? Only the external-facing ones? All of them? Even the tiny little helper classes? I tend to try to test every method, but am I doing this wrong? </li> 
+    <li> Should I have some integration tests? How would I even achieve that? (I guess this one is pretty project-specific, but I still wonder.) </li>
+</ul>
+
+<p> In my personal experience, comprehensive unit testing has saved me a lot of trouble. It's costly to do up-front and your non-developer coworkers might question why simple features tend to take you so long, but you will more than make up for the time when your program works well and you can identify bugs very quickly. I <i>love</i> my end-to-end tests and I would hate to try to "verify" that my program was working by crawling through application logs and hoping everything looked right. When in doubt, write a test! Your future self will thank you. </p> 
+  </div>
+
+  <br/>
+
+  <div>
+
+<h3 id="00002020-goals"> 5 Things I Want to Learn (or improve) in 2020 </h3>
+<ul>
+    <li> Configuration management (probably Ansible) </li>
+    <li> Containers </li>
+    <li> (improve) Software design for testability </li> 
+    <li> API design </li> 
+    <li> Functions-as-a-Service (probably AWS Lambda) </li>
+</ul> 
   </div>
 
 </div>
