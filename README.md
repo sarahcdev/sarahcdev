@@ -11,11 +11,8 @@
 
 
 <h1> Blog </h1>
-<p>I mostly write about software, video games, and current events. </p>
+<p>I mostly write about software, video games, and current events. <small>(These are my personal thoughts and they do not necessarily reflect the views of my employer.)</small></p>
 <p>💻 = Tech, 🎮 = Gaming, 👩🏻‍💻 = Everything else</p>
-<br />
-
-<div><p><small>(These are my personal thoughts and they do not necessarily reflect the views of my employer.)</small></p>
 
 <!--<h3>Table of Contents</h3> -->
   <ul>
@@ -40,7 +37,7 @@
     <li><a href="#00002020-goals">💻 5 Things I Want to Learn (or improve) in 2020</a></li>
 
   </ul>
-  <p>* = my greatest hits (IMHO) 😊</p>
+  <p>* = my greatest hits, according to me 😊</p>
 
 </div>
 
