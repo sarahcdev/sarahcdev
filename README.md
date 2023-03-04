@@ -39,7 +39,6 @@
   </ul>
   <p>* = my greatest hits, according to me 😊</p>
 
-</div>
 
 <div>
   <h3 id="04032023-back"> 4 March 2023: I'm back! </h3>
