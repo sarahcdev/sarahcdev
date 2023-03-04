@@ -1,19 +1,19 @@
-### Hi there 👋
+### 
 
+<h1>Welcome!</h1>
 <!--
 **sarahcdev/sarahcdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Java apps and blog posts 
+- 💬 Ask me about security
+- 👯 I’m looking to collaborate on getting Ws in Ashika Island
+- 📫 How to reach me: <span>sarahc</span><span>.</span><span>io</span><span>contact</span><span>[at]</span><span>gmail</span>
 -->
+
+<h1> Blog </h1>
+<p>I mostly write about software, video games, and current events. </p>
 
 <div><p>(These are my personal thoughts and they do not necessarily reflect the views of my employer.)</p>
 </div>
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   <p> I didn't really go anywhere, but I did take a year off from writing on this blog. I used to host this site on AWS Elastic Beanstalk,
   and I've moved it to GitHub Pages. After a long day doing computers at work, I just didn't want to come home and also work on computers. So I took the site down for a while. Today I woke up with a bunch of stuff on my mind that would make for a nice blog post, so I decided to bring this all back in a more low-maintenance way.</p>
 
-  <p> For the moment I've redirected my domain <a href="sarahc.dev">sarahc.dev</a> to the sarahcdev.github.io so it's no longer pointing to a dead ELB instance. Some day I'll figure out how to redirect to this page specifically. </p>
+  <p> I'm working on redirecting my domain <a href="sarahc.dev">sarahc.dev</a> to this blog. Some day I'll figure it out. </p>
 </div>
 
 <div>
