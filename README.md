@@ -12,11 +12,11 @@
 
 <h1> Blog </h1>
 <p>I mostly write about software, video games, and current events. </p>
+<p>💻 = Tech, 🎮 = Gaming, 👩🏻‍💻 = Everything else</p>
+<br />
 
-<div><p>(These are my personal thoughts and they do not necessarily reflect the views of my employer.)</p>
-</div>
-💻 = Tech, 🎮 = Gaming, 👩🏻‍💻 = Everything else
-<div>
+<div><p><small>(These are my personal thoughts and they do not necessarily reflect the views of my employer.)</small></p>
+
 <!--<h3>Table of Contents</h3> -->
   <ul>
     <li><a href="#04032023-back">👩🏻‍💻 4 March 2023: I'm Back!</a></li>
@@ -127,7 +127,7 @@
   <h4> How's that different from, say, Java's Write Once Run Anywhere? </h4>
   <p>They're similar concepts! Both aim to provide a standardized experience for running code that was written once in a specialized runtime environment that's expected to be the same everywhere, regardless of the operating system or hardware underneath. They're different because the JVM isn't isolated from the rest of the OS when it's running. JVM can be just one of many other processes running on a single OS, whereas a container "thinks" it's running the only process. A fat jar aims to accomplish something similar to contianerization with respect to dependencies. </p>
 
-  <p> If you went the fat jar route instead of using containers, you would still have to use/ write a lot of tooling to build, package, distribute, and manage your fat jars. You'd probably end up using a bunch of other tooling like Ansible, TerraForm (as emphasized in the podcast I mentioned) -- and that's fine! -- but it inflicts a cost on your engineers and operators who have to use and support a custom process. Using Docker and K8s is probably easier in the long run because it's well-known in the industry. </p>
+  <p> If you went the fat jar route instead of using containers, you would still have to use/ write a lot of tooling to build, package, distribute, and manage your fat jars. You'd probably end up using a bunch of other tooling like Ansible, Terraform (as emphasized in the podcast I mentioned) -- and that's fine! -- but it inflicts a cost on your engineers and operators who have to use and support a custom process. Using Docker and K8s is probably easier in the long run because it's well-known in the industry. </p>
 
   <p>It's important to remember that most technology isn't magic, even if all the buzz has made it seem that way. Docker undoubtedly uses the underlying OS in clever ways (that I don't understand fully), and that's a big deal. But it's not impossible to start digging into, and that's the only way to start really understanding it. </p>
 
