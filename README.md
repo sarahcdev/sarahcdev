@@ -2,7 +2,6 @@
 <!--
 **sarahcdev/sarahcdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm Sarah, a software engineer by trade and 
 
 - 🔭 I’m currently working on Java apps and blog posts 
 - 💬 Ask me about security
