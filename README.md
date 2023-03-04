@@ -1,13 +1,13 @@
 <h1>Welcome!</h1>
 <!--
 **sarahcdev/sarahcdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 
 - 🔭 I’m currently working on Java apps and blog posts 
 - 💬 Ask me about security
 - 👯 I’m looking to collaborate on getting Ws in Ashika Island
 - 📫 How to reach me: <span>sarahc</span><span>.</span><span>io</span><span>contact</span><span>[at]</span><span>gmail</span>
--->
+
 
 <h1> Blog </h1>
 <p>I mostly write about software, video games, and current events. </p>
