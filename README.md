@@ -12,7 +12,7 @@
 
 <h1> Blog </h1>
 <p>I mostly write about software, video games, and current events. <small>(These are my personal thoughts and they do not necessarily reflect the views of my employer.)</small></p>
-<p>💻 = Tech, 🎮 = Gaming, 👩🏻‍💻 = Everything else</p>
+<p>💻 = Tech, 🎮 = Gaming, 👩🏻‍💻 = Everything else; 📣 = My favorites</p>
 
 <!--<h3>Table of Contents</h3> -->
   <ul>
@@ -38,7 +38,6 @@
     <li><a href="#27202020-tests">💻 27 Feb 2020: On Writing Good Unit Tests</a></li>
     <li><a href="#00002020-goals">💻 5 Things I Want to Learn (or improve) in 2020</a></li>
   </ul>
-  <p>📣 = my greatest hits, according to me 😊</p>
 
 
   <h3 id="05032023-legacy"> 5 March 2023: Lean In (to the Legacy Code) </h3>
