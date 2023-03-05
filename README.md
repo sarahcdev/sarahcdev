@@ -16,6 +16,7 @@
 
 <!--<h3>Table of Contents</h3> -->
   <ul>
+    <li><a href="#05032023-legacy">💻 5 March 2023: Lean In (to the Legacy Code) </a></li>
     <li><a href="#04032023-coldwar">🎮 4 March 2023: The Brilliance of Black Ops: Cold War</a></li>
     <li><a href="#04032023-back">👩🏻‍💻 4 March 2023: I'm Back!</a></li>
   	<li><a href="#13042022-reading">💻 13 April 2022: Reading is Harder than Writing (Code)</a></li>
@@ -39,6 +40,23 @@
 
   </ul>
   <p>* = my greatest hits, according to me 😊</p>
+
+<div>
+<h3 id="05032023-legacy"> 5 March 2023: Lean In (to the Legacy Code) </h3>
+<p>I'm starting to believe that the only code worth working on is legacy code (or depends on legacy code.)</p>
+<p>It's not that I think modern code is bad -- I just believe that the majority of code that works, has a large userbase, and deserves further investment is called "legacy code" by people who believe legacy is a four-letter word. That's an unfair label to put on a system that is currently in production, serving users, and providng something useful. </p>
+<h4> Legacy code runs the world, and so can you </p>
+<p> Aside from the obvious benefits that maintaining <i>working software</i> brings, it also makes the maintainer valuable to the organization. Even the most skilled and versatile software enigneers take months to get up-to-speed on an unfamiliar codebase. Existing codebases (most of which would be called "legacy") contain <i>years</i> worth of artifacts of the product's natural evolution. Being really familiar with some "old code" can make you "worth a lot of money."</i> It's important not to get too niche with it -- you don't want to be planet Earth's last living FORTRAN programmer if you hate FORTRAN and can't find a FORTRAN job -- but really knowing how to work with a 30 year old enterprise C# application is a wise career move if you want to show yourself to be valuable in your current role. </p>
+<p> I also believe that you can learn from nearly any codebase if you work hard and stay curious. Maybe you get deeper knowledge of the programming language itself, maybe you learn everything you ever wanted to know about a new framework while upgrading it from an old one. No matter what you do, you'll be studying how complex systems come to be, and how to bring them into the future with you. Being able to quickly learn a legacy codebase is a marketable and rare skill. </i>
+<h4> It's Not Technical Debt if it's Just Old</h4>
+<p>I also think there's an important difference between legacy technology and technical debt. I tend to view technical debt as something that <i>must</i> be remedied because it's not working, it's costing valuable dev/ops time, it's end-of-life, or it's vulnerable. A system being old but maintainable with regular upkeep isn't debt -- it's just software. If you think a major version or framework upgrade is going to be difficult or expensive, a reimplementation is almost guaranteed to be worse (unless the code really is unusably bad -- which can happen). Is your house "legacy" because it was built in the 1970s and needs a new roof? </p>
+<h4> Don't Tell Me It's Cost-Effective to Reimplement</h4>
+<p> One of the major arguments for rewrites/ reimplementations is that proprietary software is more difficult to hire for. Nobody in the outside world knows your codebase, but ostensibly they do know the industry standard replacement. This is a compelling argument if your proprietary stuff is <i>really, really bad</i>, but that misses the point that nobody's organization is standardized. We all have uncountable constraints and objectives -- otherwise every company would actually be the same! So your usage of the standardized product probably won't actually be standard. </p>
+<p> I also view this argument -- that it's hard to hire engineers for nonstandard tooling -- to be a cop-out of the larger conversation we need to have about retention. The years between 2008 and 2021 were economically unique. Investor money was practically free with interest rates being so low. Tech companies had to compete on higher and higher reward packages, and then stock vested when these companies were valued in the literal billions. There was nothing but incentive to job-hop for most software engineers. I have a feeling that "learning the codebase" would be less of an obstacle to productivity if the average tenure of a software engineer were more than 2 years. It takes me personally around 2 years to feel fully proficient and autonomous on a codebase. I can contribute code after ~6 months, but the deep understanding comes later. </p>
+<p> But if companies are already competing on truly ridiculous reward packages, what more is there to offer somebody to keep them around? In the late 2010s, perhaps not much, if you assume all software enigneers have the same priorities. I would be interested to know how creative we can get with retention. Four day work weeks? Remote working? Get rid of those awful NDAs and noncompetes? More opportunities for advancement that don't require some absurdly useless promotion project? </p>
+<p> Personally I don't really care if people stay in their job for 3 weeks or 3 decades, as long as it's working for them. But if the only reason to change companies <i>constantly</i> is for money and prestige, I think most companies can give a little more of that in exchange for not having to flip tables on their old workhorse codebases. Legacy code did nothing wrong -- except for being created from the materials of its time -- before we needed to hire a new team every single year. </p>
+</div>
+
 
 <div>
   <h3 id="04032023-coldwar"> 4 March 2023: The Brilliance of Black Ops: Cold War</h3>
@@ -577,7 +595,7 @@
 <p> CAP Theorem: Consistency, Availability, PartitionTolerance. Pick 2. (aka, if you get a network partition (communication failure between nodes), you can either have availability or consistency.) But this is on a spectrum, so it's not always just one or the other. Even if the network is up, you have a performance tradeoff if you want to be 100% consistent since it takes time to absolutely guarantee consistency across nodes. So it's a safety vs. liveness in concurrency issue. </p>
 
 <p> So when to use a NoSQL database? Two drivers: 1. Large amounts of data that can't fit well into a relational database. 2. Natural aggregates, for example when publishing news stories that have metadata and content together. Another reason includes analytics, as an alternative to datawarehousing. </p> 
-</div>
+</div> 
 
 <div>
 <h3 id="03082020-do"> 3 Aug 2020: DigitalOcean Databases </h3>
