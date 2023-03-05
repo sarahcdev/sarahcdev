@@ -17,29 +17,28 @@
 <!--<h3>Table of Contents</h3> -->
   <ul>
     <li><a href="#05032023-legacy">💻 5 March 2023: Lean In (to the Legacy Code)</a></li>
-    <li><a href="#04032023-coldwar">🎮 4 March 2023: The Brilliance of Black Ops: Cold War</a></li>
+    <li><a href="#04032023-coldwar">📣🎮 4 March 2023: The Brilliance of Black Ops: Cold War</a></li>
     <li><a href="#04032023-back">👩🏻‍💻 4 March 2023: I'm Back!</a></li>
   	<li><a href="#13042022-reading">💻 13 April 2022: Reading is Harder than Writing (Code)</a></li>
     <li><a href="#10072021-helpdesk">💻 10 July 2021: My Summers on the Help Desk</a></li>
     <li><a href="#09042021-containers">💻 20 April 2021: Solidifying My Understanding of Containers</a></li>
     <li><a href="#09042021-wfh">👩🏻‍💻 9 April 2021: A WFH Vignette</a></li>
-    <li><a href="#20022021-vaccine">👩🏻‍💻 20 February 2021: The Vaccine Rollout  *</a></li>
+    <li><a href="#20022021-vaccine">📣👩🏻‍💻 20 February 2021: The Vaccine Rollout</a></li>
     <li><a href="#23012021-teams">💻 23 January 2021: On Building Good Teams</a></li>
     <li><a href="#02012021-iam2">💻 2 January 2021: IAM is a hard problem - Part 2</a></li>
     <li><a href="#27122020-iam1">💻 27 December 2020: IAM is a hard problem</a></li>
     <li><a href="#23122020-food">👩🏻‍💻 23 December 2020: Food YouTube is Bad [published retroactively] </a></li>
     <li><a href="#14122020-symbolic">💻 14 December 2020: Notes on Symbolic Execution</a></li>
-    <li><a href="#29112020-sowh">💻 29 November 2020: Strong Opinions, Weakly Held  *</a></li>
-    <li><a href="#15082020-interviewing">💻 15 August 2020: Tech Interviewing is a Life Skill  *</a></li>
+    <li><a href="#29112020-sowh">📣💻 29 November 2020: Strong Opinions, Weakly Held</a></li>
+    <li><a href="#15082020-interviewing">📣💻 15 August 2020: Tech Interviewing is a Life Skill</a></li>
     <li><a href="#04082020-nosql">💻 4 Aug 2020: Notes on NoSQL Databases</a></li>
     <li><a href="#03082020-do">💻 3 Aug 2020: DigitalOcean Databases</a></li>
     <li><a href="#01082020-goals2">💻 1 Aug 2020: Checking in on my 2020 goals</a></li>
     <li><a href="#01032020-lambdas">💻 1 March 2020 Lambdas!</a></li>
     <li><a href="#27202020-tests">💻 27 Feb 2020: On Writing Good Unit Tests</a></li>
     <li><a href="#00002020-goals">💻 5 Things I Want to Learn (or improve) in 2020</a></li>
-
   </ul>
-  <p>* = my greatest hits, according to me 😊</p>
+  <p>📣 = my greatest hits, according to me 😊</p>
 
 <div>
   <h3 id="05032023-legacy"> 5 March 2023: Lean In (to the Legacy Code) </h3>
@@ -56,7 +55,7 @@
   <p> But if companies are already competing on truly ridiculous reward packages, what more is there to offer somebody to keep them around? In the late 2010s, perhaps not much, if you assume all software enigneers have the same priorities. I would be interested to know how creative we can get with retention. Four day work weeks? Remote working? Get rid of those awful NDAs and noncompetes? More opportunities for advancement that don't require some absurdly useless promotion project? </p>
   <p> Personally I don't really care if people stay in their job for 3 weeks or 3 decades, as long as it's working for them. But if the only reason to change companies <i>constantly</i> is for money and prestige, I think most companies can give a little more of that in exchange for not having to flip tables on their old workhorse codebases. Legacy code did nothing wrong -- except for being created from the materials of its time -- before we needed to hire a new team every single year. </p>
   </div>
-  
+
 <div>
   <h3 id="04032023-coldwar"> 4 March 2023: The Brilliance of Black Ops: Cold War</h3>
   <p> I'm a daily Warzone 2 player at this point, but not too long ago, I was a devoted Cold War player. I think CW was truly a masterpiece of a game. I would play Black Ops: Cold War for the next 20 years if it received content updates and anti-cheat. It was so well-executed, and its variety of game modes kept it fresh well beyond its 6 seasons. But more than anything else, it was true to its roots as the canonical sequel to Black Ops 1, and it lived up to my very high expectations in that regard.</p>
@@ -177,8 +176,6 @@
       <li> $ docker build # build from your Dockerfile </li>
     </ul>
   </p>
-
-
   <h4> References </h4>
   <ol> 
     <li>https://faun.pub/docker-containerd-standalone-runtimes -heres-what-you-should-know-b834ef155426 </li>
