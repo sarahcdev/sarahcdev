@@ -167,7 +167,6 @@
     <li>https://faun.pub/docker-containerd-standalone-runtimes -heres-what-you-should-know-b834ef155426 </li>
     <li>https://railswithjason.simplecast.com/episodes/ kelsey-hightower-3PKFlk81</li>
   </ol>
-
 </div>
 
 <br/>
@@ -535,13 +534,11 @@
 <p>So the last thing I’ll say about a technical interview is that you (usually) also need to be likable and good at communicating. These are also skills you build up over time, but in a different way. You have to be able to explain your thinking and build rapport with your interviewer. It also helps to have a bit of humor and warmness to you, so you don’t look like a robot whose sole purpose is passing a technical interview. This is also for you to be able to gauge the person interviewing you — are they a robot? Are they going to treat you like a human? Can they have some humor and warmness? These are important things to look out for, because it’s really difficult to judge your potential new coworkers as coworkers in the power dynamic that an interview creates. </p>
 
 <p> A lot more can be said for other skills that do not shine through in a technical interview. I think a lot of the ways in which I am really smart are hidden by tech interviews, just like they were hidden in college. I'm still a good software engineer, and I am learning these technical interview skills as I go along. Interviewers should certainly be looking for other cues as to candidates' abilities: problem solving, collaboration, communication to name a few. So hopefully a technical interview is just one piece of the puzzle, and the other pieces are what really will make up the bigger picture in the way of matching a candidate to a position. I know I certainly wouldn't work for a company that didn't make an effort to assess me on other qualities, because I don't want to work with colleagues who were hired solely for their ability to ace the whiteboard. </p>
+ </div>
 
-  </div>
+<br/>
 
-  <br/>
-
-  <div>
-
+<div>
 <h3 id="04082020-nosql"> 4 Aug 2020: Notes on NoSQL Databases </h3>
 <p> Notes from watching <a href="https://www.youtube.com/watch?v=qI_g07C_Q5I"> Introduction to NoSQL, Martin Fowler </a>
 
