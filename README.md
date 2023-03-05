@@ -40,7 +40,7 @@
   </ul>
   <p>📣 = my greatest hits, according to me 😊</p>
 
-<div>
+
   <h3 id="05032023-legacy"> 5 March 2023: Lean In (to the Legacy Code) </h3>
   <p>I'm starting to believe that the only code worth working on is legacy code (or depends on legacy code.)</p>
   <p>It's not that I think modern code is bad -- I just believe that the majority of code that works, has a large userbase, and deserves further investment is called "legacy code" by people who believe legacy is a four-letter word. That's an unfair label to put on a system that is currently in production, serving users, and providng something useful. </p>
@@ -54,9 +54,9 @@
   <p> I also view this argument -- that it's hard to hire engineers for nonstandard tooling -- to be a cop-out of the larger conversation we need to have about retention. The years between 2008 and 2021 were economically unique. Investor money was practically free with interest rates being so low. Tech companies had to compete on higher and higher reward packages, and then stock vested when these companies were valued in the literal billions. There was nothing but incentive to job-hop for most software engineers. I have a feeling that "learning the codebase" would be less of an obstacle to productivity if the average tenure of a software engineer were more than 2 years. It takes me personally around 2 years to feel fully proficient and autonomous on a codebase. I can contribute code after ~6 months, but the deep understanding comes later. </p>
   <p> But if companies are already competing on truly ridiculous reward packages, what more is there to offer somebody to keep them around? In the late 2010s, perhaps not much, if you assume all software enigneers have the same priorities. I would be interested to know how creative we can get with retention. Four day work weeks? Remote working? Get rid of those awful NDAs and noncompetes? More opportunities for advancement that don't require some absurdly useless promotion project? </p>
   <p> Personally I don't really care if people stay in their job for 3 weeks or 3 decades, as long as it's working for them. But if the only reason to change companies <i>constantly</i> is for money and prestige, I think most companies can give a little more of that in exchange for not having to flip tables on their old workhorse codebases. Legacy code did nothing wrong -- except for being created from the materials of its time -- before we needed to hire a new team every single year. </p>
-  </div>
+  
 
-<div>
+
   <h3 id="04032023-coldwar"> 4 March 2023: The Brilliance of Black Ops: Cold War</h3>
   <p> I'm a daily Warzone 2 player at this point, but not too long ago, I was a devoted Cold War player. I think CW was truly a masterpiece of a game. I would play Black Ops: Cold War for the next 20 years if it received content updates and anti-cheat. It was so well-executed, and its variety of game modes kept it fresh well beyond its 6 seasons. But more than anything else, it was true to its roots as the canonical sequel to Black Ops 1, and it lived up to my very high expectations in that regard.</p>
   <h4> The Nostalgia </h4>
@@ -75,17 +75,17 @@
   <p>I was totally amazed by the wonder weapons (except for D.I.E. Maschine -- what was that?) RAI K 84 is an all-around winner, from the quest in Firebase Z to build it, to its clever full name: Reactor Automatic Radiator Kuhlklay-84. The CRBR-S's multiple attachments and in-game dialogue lured me to Mauer's Trials and Mystery Boxes many times.</p>
   <h4>In Conclusion, I love Cold War </h4>
   <p> Even with its issues, such as universally-hated skill-based matchmaking and poorly mitigated cheating, Cold War was an incredible game. MWII is okay, but Warzone 2 is slowly becoming a favorite of mine, too. It's not nostalgic for me, but it's where the playerbase is congregating and the developers are focusing. I can't wait for Cold War 2 (or whatever they call it) which is rumored to be set in the '90s and be released in late 2024.</p>
-</div>
 
-<div>
+
+
   <h3 id="04032023-back"> 4 March 2023: I'm back! </h3>
   <p> I didn't really go anywhere, but I did take a year off from writing on this blog. I used to host this site on AWS Elastic Beanstalk,
   and I've moved it to GitHub Pages. After a long day doing computers at work, I just didn't want to come home and also work on computers. So I took the site down for a while. Today I woke up with a bunch of stuff on my mind that would make for a nice blog post, so I decided to bring this all back in a more low-maintenance way.</p>
 
   <p> I'm working on redirecting my domain <a href="https://sarahc.dev">sarahc.dev</a> to this blog. Some day I'll figure it out. </p>
-</div>
 
-<div>
+
+
 
   <h3 id="13042022-reading">13 April 2022: Reading is Harder than Writing (Code)</h3>
   <p>Ask any developer and they'll tell you: reading code is much harder than writing it. They will probably also say they do not read. There are countless examples -- just check tech Twitter -- of rewrites turning out badly. New code gets inherited, declared to be spaghetti, and rewritten. But during the rewrite, there's not enough time to do everything right. The rewriter cuts corners. They start to see the complexity. They re-write the same spaghetti, sometimes in a modern framework, and pass it on to the next person. I can't say it's not tempting. But I've mostly broken this habit, both because I trust those who wrote the code I'm inheriting, and because I've learned the value of a cohesive, if legacy, codebase. </p>
@@ -106,13 +106,13 @@
 
   <p>As I mentioned in my SOWH post, a team needs to be rowing the boat in the same direction. It's equal parts trust, experience, and ability to learn difficult things.</p>
 
-</div>
+
 
 
 
 <br/>
 
-<div>
+
 
   <h3 id="10072021-helpdesk"> 10 July 2021: My Summers on the Help Desk</h3>
   <p> It's a common-ish technologist's origin story: My first job was on the help desk. I learned a lot about how enterprise IT works, how the person on the receiving end of your ticket feels, and how people respond to change in their environments. I haven't written too much about it in the past becuase I like to keep this website separate from anything directly going on in my work life except in the abstract sense. But it's been long enough since I've worked in these places, and I'm not going to spill any secrets (not that I really know any).</p>
@@ -136,11 +136,11 @@
     <li><b>People want to see you succeed</b></li>
   </ol>
 
-</div>
+
 
 <br/>
 
-<div>
+
 
   <h3 id="09042021-containers"> 20 April 2021: Solidifying My Understanding of Containers </h3>
 
@@ -181,10 +181,10 @@
     <li>https://faun.pub/docker-containerd-standalone-runtimes -heres-what-you-should-know-b834ef155426 </li>
     <li>https://railswithjason.simplecast.com/episodes/ kelsey-hightower-3PKFlk81</li>
   </ol>
-</div>
+
 
 <br/>
-<div>
+
 
   <h3 id="09042021-wfh"> 9 April 2021: A WFH Vignette </h3>
 
@@ -192,10 +192,10 @@
 
   <p>Maybe a new bullet point for those Zoom etiquette articles.</p>
 
-</div>
+
 <br/>
 
-<div>
+
 
   <h3 id="20022021-vaccine"> 20 February 2021: The Vaccine Rollout </h3>
 
@@ -253,9 +253,9 @@
     <li>J. Corum and C. Zimmer, “How the Sinopharm Vaccine Works,” The New York Times, 30-Dec-2020. [Online]. Available: https://www.nytimes.com/interactive/2020/health/sinopharm-covid-19-vaccine.html#:~:text=A%20Vaccine%20Made %20From %20Coronaviruses,proteins%20that%20stud%20its%20surface. [Accessed: 21-Feb-2021]. </li>
     <li>“Captcha Alternatives and thoughts,” Captcha Alternatives and thoughts - WCAG WG. [Online]. Available: https://www.w3.org/WAI/GL/wiki/ Captcha_Alternatives_and_thoughts. [Accessed: 21-Feb-2021]. </li>
   </ol></p>
-</div>
+
 <br/>
-<div>
+
 
   <h3 id="23012021-teams"> 23 January 2021: On Building Good Teams </h3>
 
@@ -302,11 +302,11 @@
 
   <p>And once you start getting significantly slowed down by technical debt, talk to your team about making those investments sooner rather than later.</p>
 
-</div>
+
 
 <br>
 
-<div>
+
 
   <h3 id="02012021-iam2"> 2 January 2021: IAM is a hard problem - Part 2</h3>
 
@@ -329,11 +329,11 @@
   <p>From there, especially when using the flask session/ user libaries, it's super easy to start using user info in the app. </p>
 
 
-</div>
+
 
 <br/>
 
-<div>
+
 
   <h3 id="27122020-iam1"> 27 December 2020: IAM is a hard problem</h3>
 
@@ -363,11 +363,11 @@
 
   <h4>But how?</h4>
   <p>I'm not exactly sure how AWS is doing this on the back end, but the database auth token signature looks like it's unique each time it's generated. That's important because it means the tokens are being verified by some kind of cryptography, they can expire, and access can be revoked easily. Probably what's happening is there's an asymmetric keypair between the Postgres db and AWS, which is used to generate and verify the token. If AWS is provided with the correct AWS API keys for an account that has permissions to login to the database under a particular Postgres username, then AWS uses the private key to sign a token and passes the token back to the user. The user passes the token to Postgres, and finally Postgres uses the public key to verify the signature and allow access. AWS-hosted Postgres must also have an AWS IAM role defined so this mapping can work. </p>
-</div>
+
 
 <br/>
 
-<div>
+
     <h3 id="23122020-food"> 23 December 2020: Food YouTube is Bad [published retroactively] </h3>
     <p><i>I found this draft I wrote about YouTube and parasocial relationships with food content creators in 2020. I'm publishing it now [in 2023]. A lot has happened since December 2020, but it's an interesting window into what the internet was like in 2020. I made some minor edits, but the majority of it is original.</i></p>
     <p>I’ve primarily watched the same 3-4 cooking YouTube channels for a few years now: Bon Appétit (BA), Babish Culinary Universe (Binging with Babish), and Joshua Weissman. I don’t watch much of BA any more since <a href="https://www.washingtonpost.com/news/voraciously/wp/2020/08/06/three-bon-appetit-video-stars-leave-the-test-kitchen-series-due-to-alleged-racial-discrimination/">this all </a> came to light in June, but after I stopped watching it, I had some time to think about it. The BA YouTube channel sold me a lifestyle of expensive materials and self-loathing, much in the way that other mass media organizations sell those doubts about physical appearance and social standing. I picked up a few cooking tricks here and there from BA, but I picked up even more bad attitudes and pseudo-intellectual hot takes about food that do more harm than good for me. The other channels I watch suffer from some of the same problems, but BA does it in a really attractive and deceptive way. I’m not arguing that <i>nobody should watch BA</i>, or that <i>BA is doing something bad for the world.</i> I watched many hours of BA content because I liked it so much! But I do think the Test Kitchen has a complicated relationship with instruction, advertisement, and parasocial interaction. Viewers beware: this relationship may affect how you see yourself and the social context of your own kitchen. </p>
@@ -387,11 +387,11 @@
      <h4> A Few Years Later </h4>
      <p>BA <a href="https://socialblade.com/youtube/user/bonappetitdotcom">never fully recovered</a> from June 2020. I don't watch much cooking YouTube any more, because over time it has gotten even more overproduced and parasocial. In my own kitchen, I try to focus on recipes that I can actually make from minimally processed ingredients. Minimally processed <i>sometimes</i> implies expensive, but it definitely doesn't imply that we have to be mean about it.</p>
 </p>
-</div>
+
 
 <br />
 
-<div>
+
   <h3 id="14122020-symbolic"> 14 December 2020: Notes on Symbolic Execution </h3>
   <p>This is a first pass at understanding a few papers I’m reading about symbolic execution and its applications. I’m not an expert at this area of security. </p> 
 
@@ -448,9 +448,9 @@
 </p>
 
 
-</div>
 
-<div>
+
+
 
   <h3 id="29112020-sowh"> 29 November 2020: "Strong Opinions, Weakly Held" </h3>
   <h4>"There are no atheists"</h4>
@@ -496,9 +496,9 @@
 
  <h4>Wrapping Up</h4>
  <p>In general, I think SOWH is much more subtle and intelligent than it necessarily gets credit for -- it derives its legitimacy from the very thing it cautions us all not to believe in too strongly. In my own SOWH, that makes it even more compelling. But on a less abstract level, SOWH is a great way to make sure your team is having thoughtful discussions that respect everyone's opinion without bending to the compulsive need for directionless fairness. SOWH from the individual indicates careful reasoning; SOWH from the organization indicates respect and an ability (but not necessarily a mandate -- that's still up to the people involved!) to make decisions for the good of the product. </p>
-</div>
 
-<div>
+
+
 
   <h3 id="15082020-interviewing">15 August 2020: Tech Interviewing is a Life Skill </h3>
   <p>My main point here is that the things that make us good at interviewing are generally things we can learn over time as they are based in critical thinking about, and pattern recognition of, math and science. And while they are not bestowed upon us at birth, they do take many years to develop and therefore some people are in a(n) (dis)advantaged position based on factors largely out of their control. </p>
@@ -544,9 +544,9 @@
 <p>So the last thing I’ll say about a technical interview is that you (usually) also need to be likable and good at communicating. These are also skills you build up over time, but in a different way. You have to be able to explain your thinking and build rapport with your interviewer. It also helps to have a bit of humor and warmness to you, so you don’t look like a robot whose sole purpose is passing a technical interview. This is also for you to be able to gauge the person interviewing you — are they a robot? Are they going to treat you like a human? Can they have some humor and warmness? These are important things to look out for, because it’s really difficult to judge your potential new coworkers as coworkers in the power dynamic that an interview creates. </p>
 
 <p> A lot more can be said for other skills that do not shine through in a technical interview. I think a lot of the ways in which I am really smart are hidden by tech interviews, just like they were hidden in college. I'm still a good software engineer, and I am learning these technical interview skills as I go along. Interviewers should certainly be looking for other cues as to candidates' abilities: problem solving, collaboration, communication to name a few. So hopefully a technical interview is just one piece of the puzzle, and the other pieces are what really will make up the bigger picture in the way of matching a candidate to a position. I know I certainly wouldn't work for a company that didn't make an effort to assess me on other qualities, because I don't want to work with colleagues who were hired solely for their ability to ace the whiteboard. </p>
-</div>
 
-<div>
+
+
 <h3 id="04082020-nosql"> 4 Aug 2020: Notes on NoSQL Databases </h3>
 <p> Notes from watching <a href="https://www.youtube.com/watch?v=qI_g07C_Q5I"> Introduction to NoSQL, Martin Fowler </a>
 
@@ -591,9 +591,9 @@
 <p> CAP Theorem: Consistency, Availability, PartitionTolerance. Pick 2. (aka, if you get a network partition (communication failure between nodes), you can either have availability or consistency.) But this is on a spectrum, so it's not always just one or the other. Even if the network is up, you have a performance tradeoff if you want to be 100% consistent since it takes time to absolutely guarantee consistency across nodes. So it's a safety vs. liveness in concurrency issue. </p>
 
 <p> So when to use a NoSQL database? Two drivers: 1. Large amounts of data that can't fit well into a relational database. 2. Natural aggregates, for example when publishing news stories that have metadata and content together. Another reason includes analytics, as an alternative to datawarehousing. </p> 
-</div> 
+ 
 
-<div>
+
 <h3 id="03082020-do"> 3 Aug 2020: DigitalOcean Databases </h3>
 <p> Just some notes as I try out DigitalOcean's database-as-a-service platform. </p>
 
@@ -622,11 +622,11 @@
 it to allow my workstation to trust my project? So it's a server certificate? (Is this for machine-to-machine auth when you use other DO resources?)</li>
 </ul>
 
-</div>
+
 
 <br/>
 
-<div>
+
 
 <h3 id="01082020-goals2"> 1 Aug 2020: Checking in on my 2020 goals </h3>
 <p> Wow, it has been a while! As the COVID-19 pandemic completely took over life as we knew it in 2020, I was making sporadic progress on the goals I outlined above. I also have some more clarity on what I'm wanting looking into the future career-wise. So here's what I've been working on: </p>
@@ -644,11 +644,11 @@ it to allow my workstation to trust my project? So it's a server certificate? (I
 
 <p> I've also been working on brushing up on SQL and concurrency. I apparently remember a lot about spin locks and not a lot else (probably because I haven't done much of it outside of college OS class). </p>
 
-  </div>
+  
 
   <br/>
 
-  <div>
+  
 
 <h3 id="01032020-lambdas"> 1 March 2020 Lambdas! </h3> 
 <p> Today I was wandering around my little AWS playground and I was kind of bored by what I was doing (messing with flask and security groups) so I decided to see if I could get a Lambda up and running. Some days I love following tutorials and absorbing every word. Other days, I want to just break things and see how far I can get. Today was one of those days. </p>
@@ -677,11 +677,11 @@ it to allow my workstation to trust my project? So it's a server certificate? (I
 
 <p> At this point your Lambda will execute the boilerplate Hello World python code that gets populated when you create a python Lambda but you can edit it to do whatever you want! </p>
 
-  </div>
+  
 
   <br/>
 
-  <div>
+  
 
 <h3 id="27202020-tests"> 27 Feb 2020: On Writing Good Unit Tests </h3>
 <p> I still remember the day I learned about automated testing. I was in my junior fall semester of college, taking a class about software engineering. All of my other classes up to that point had been very "CS"-y and not very, well, "practical." This particular class required a semester-long software engineering project with CI/CD, testing and (somewhat humorously) UML diagrams. A guest lecturer pulled my group to the side and asked us if we knew how to write a test. And thus the magic of Assert() was revealed to me. Today as a software engineer, I pride myself on the quality of my tests and the efficiency of my CI/CD pipeline. I don't consider a feature "done" unless there are tests. I will not tell you my code is "ready" if I didn't push the play button and wait for a versioned, tested executable to come out of the other end of the pipeline. I definitely think these are some of my strenghts as a software engineer but there are also some things that I'd still like to improve on in this area. </p> 
@@ -709,11 +709,11 @@ it to allow my workstation to trust my project? So it's a server certificate? (I
 </ul>
 
 <p> In my personal experience, comprehensive unit testing has saved me a lot of trouble. It's costly to do up-front and your non-developer coworkers might question why simple features tend to take you so long, but you will more than make up for the time when your program works well and you can identify bugs very quickly. I <i>love</i> my end-to-end tests and I would hate to try to "verify" that my program was working by crawling through application logs and hoping everything looked right. When in doubt, write a test! Your future self will thank you. </p> 
-  </div>
+  
 
   <br/>
 
-  <div>
+  
 
 <h3 id="00002020-goals"> 5 Things I Want to Learn (or improve) in 2020 </h3>
 <ul>
@@ -723,4 +723,4 @@ it to allow my workstation to trust my project? So it's a server certificate? (I
     <li> API design </li> 
     <li> Functions-as-a-Service (probably AWS Lambda) </li>
 </ul> 
-  </div>
+  
