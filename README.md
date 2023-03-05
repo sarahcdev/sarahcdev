@@ -16,6 +16,7 @@
 
 <!--<h3>Table of Contents</h3> -->
   <ul>
+    <li><a href="#04032023-coldwar">🎮 4 March 2023: The Brilliance of Black Ops: Cold War</a></li>
     <li><a href="#04032023-back">👩🏻‍💻 4 March 2023: I'm Back!</a></li>
   	<li><a href="#13042022-reading">💻 13 April 2022: Reading is Harder than Writing</a></li>
     <li><a href="#10072021-helpdesk">💻 10 July 2021: My Summers on the Help Desk</a></li>
@@ -39,6 +40,26 @@
   </ul>
   <p>* = my greatest hits, according to me 😊</p>
 
+<div>
+  <h3 id="04032023-coldwar"> 4 March 2023: The Brilliance of Black Ops: Cold War</h3>
+  <p> I'm a daily Warzone 2 player at this point, but not too long ago, I was a devoted Cold War player. I think CW was truly a masterpiece of a game. I would play Black Ops: Cold War for the next 20 years if it received content updates and anti-cheat. It was so well-executed, and its variety of game modes kept it fresh well beyond its 6 seasons. But more than anything else, it was true to its roots as the canonical sequel to Black Ops 1, and it lived up to my very high expectations in that regard.</p>
+  <h4> The Nostalgia </h4>
+  <p> I'll admit that some of my adoration for this game comes from the way it transported me back in time. When I spawned into an '80s Drive In as Helen Park, somehow Barack Obama was president, Facebook was cool, and H1N1 was the only virus I knew by variant name. The nostalgia was no accident; the game contains plenty of nods to BO1 and CoD lore. Among my favorites are "Vahn Boyage" on the boat in Highjacked, the prominence of the Ural Mountains (Mt. Yamantau/ Summit/ WMD/ Zoo), and the weapons. Not only is this super cool, it's good marketing. Everyone who was young when BO1 came out is now an adult who likely has a paying job. Of course we're going to buy Cold War.</p>
+  <h4> Continuity: Nuketown</h4>
+  <p>"What year is it in Nuketown?" is a modern shibbloeth for your most recently played Treyarch title, and I think that's beautiful.</p>
+  <p> It wouldn't be a game about the Cold War without making us all feel some nuclear anxiety. Nuketown '84 at once upholds the historical context of the period -- 1950s Nuketown's abandoned sister site now looking a little dusty post-nuclear-testing -- and the tradition of including a contemporary iteration of Nuketown in every Treyarch title. </p>
+  <h4>Continuity: BO1 Maps and The Ural Mountains </h4>
+  <p> In what I can only assume was an effort to endear us near-30s to this game even more, Treyarch gave us the WMD and Jungle maps straight out of BO1. WMD makes sense as a part of the BO:CW Campaign in the Urals, but Jungle is a Vietnam war map. The only reason to include it is recognition. The other maps fit perfectly into 1984. The map art for Drive In has been updated to reflect the passage of time. Zoo is still a defunct attraction in the Ural Mountains, but it is more colorful now and has been expanded into a full Zombies Outbreak map. Yamantau and Duga are derivative of Summit and Array, respectively, in really fun ways. Yamantau's control rooms feel a lot like Summit's (which makes sense because they are on the same mountain!), while Duga reimagines the radar array as a fully interactive map element. </p>
+  <h4>Continuity: The Berlin Wall </h4>
+  <p>The BO1 First Strike DLC pack included the Berlin Wall map which was mechanically interesting, allowing you to play on the east and west sides, and dodge the turrets when you tried to cross over. Since it's still 1984 in BO:CW, the Berlin Wall returns in the East Berlin Campaign mission and Mauer der Toten Zombies map. The Zombies map even has turrets!</p>
+  <h4>Forsaken, Amerika and leaning into the politics</h4>
+  <p>The Forsaken map and its derivative MP map drop us into a model of America where things are just slightly <i>off</i>, because it's an elaborate sound stage where they train KGB agents to infiltrate American life. (You can break out of Amerika by doing the Forsaken easter egg!) It's a lot of fun to run around Burger Town and the theater, only to learn that it's all a facade. I had just read The Charm School by Nelson DeMille when Foresaken came out, so I was totally engrossed in this idea of fake training "America"s. (The book, if you're curious, was an entertaining read if not <i>very</i> full of propaganda and drama.) I hear there's a TV show called The Americans to the same effect.</p>
+  <h4>The Zombies</h4>
+  <p>In addition to the very nostalgic Zoo and very cool Foresaken map, Cold War Zombies offered some thilling gameplay elements. Outbreak broke us out of round-based Zombies with six <i>huge</i> maps on rotation. The weapon rarity and armor systems were also interesting to play with. I think weapon rarity was kind of unnecessary given Pack-a-Punch, but it didn't significantly detract from the game. PhD Slider ended up being very useful perk, in addition to the classics like Juggernog and Stamin-Up. </p>
+  <p>I was totally amazed by the wonder weapons (except for D.I.E. Maschine -- what was that?) RAI K 84 is an all-around winner, from the quest in Firebase Z to build it, to its clever full name: Reactor Automatic Radiator Kuhlklay-84. The CRBR-S's multiple attachments and in-game dialogue lured me to Mauer's Trials and Mystery Boxes many times.</p>
+  <h4>In Conclusion, I love Cold War </h4>
+  <p> Even with its issues, such as universally-hated skill-based matchmaking and poorly mitigated cheating, Cold War was an incredible game. MWII is okay, but Warzone 2 is slowly becoming a favorite of mine, too. It's not nostalgic for me, but it's where the playerbase is congregating and the developers are focusing. I can't wait for Cold War 2 (or whatever they call it) which is rumored to be set in the '90s and be released in late 2024.</p>
+</div>
 
 <div>
   <h3 id="04032023-back"> 4 March 2023: I'm back! </h3>
