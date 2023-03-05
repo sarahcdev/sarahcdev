@@ -16,7 +16,7 @@
 
 <!--<h3>Table of Contents</h3> -->
   <ul>
-    <li><a href="#05032023-legacy">💻 5 March 2023: Lean In (to the Legacy Code) </a></li>
+    <li><a href="#05032023-legacy">💻 5 March 2023: Lean In (to the Legacy Code)</a></li>
     <li><a href="#04032023-coldwar">🎮 4 March 2023: The Brilliance of Black Ops: Cold War</a></li>
     <li><a href="#04032023-back">👩🏻‍💻 4 March 2023: I'm Back!</a></li>
   	<li><a href="#13042022-reading">💻 13 April 2022: Reading is Harder than Writing (Code)</a></li>
@@ -55,8 +55,8 @@
   <p> I also view this argument -- that it's hard to hire engineers for nonstandard tooling -- to be a cop-out of the larger conversation we need to have about retention. The years between 2008 and 2021 were economically unique. Investor money was practically free with interest rates being so low. Tech companies had to compete on higher and higher reward packages, and then stock vested when these companies were valued in the literal billions. There was nothing but incentive to job-hop for most software engineers. I have a feeling that "learning the codebase" would be less of an obstacle to productivity if the average tenure of a software engineer were more than 2 years. It takes me personally around 2 years to feel fully proficient and autonomous on a codebase. I can contribute code after ~6 months, but the deep understanding comes later. </p>
   <p> But if companies are already competing on truly ridiculous reward packages, what more is there to offer somebody to keep them around? In the late 2010s, perhaps not much, if you assume all software enigneers have the same priorities. I would be interested to know how creative we can get with retention. Four day work weeks? Remote working? Get rid of those awful NDAs and noncompetes? More opportunities for advancement that don't require some absurdly useless promotion project? </p>
   <p> Personally I don't really care if people stay in their job for 3 weeks or 3 decades, as long as it's working for them. But if the only reason to change companies <i>constantly</i> is for money and prestige, I think most companies can give a little more of that in exchange for not having to flip tables on their old workhorse codebases. Legacy code did nothing wrong -- except for being created from the materials of its time -- before we needed to hire a new team every single year. </p>
-</div>
-
+  </div>
+  
 <div>
   <h3 id="04032023-coldwar"> 4 March 2023: The Brilliance of Black Ops: Cold War</h3>
   <p> I'm a daily Warzone 2 player at this point, but not too long ago, I was a devoted Cold War player. I think CW was truly a masterpiece of a game. I would play Black Ops: Cold War for the next 20 years if it received content updates and anti-cheat. It was so well-executed, and its variety of game modes kept it fresh well beyond its 6 seasons. But more than anything else, it was true to its roots as the canonical sequel to Black Ops 1, and it lived up to my very high expectations in that regard.</p>
