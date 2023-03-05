@@ -436,8 +436,6 @@
 
 </div>
 
-<br/>
-
 <div>
 
   <h3 id="29112020-sowh"> 29 November 2020: "Strong Opinions, Weakly Held" </h3>
@@ -486,8 +484,6 @@
  <p>In general, I think SOWH is much more subtle and intelligent than it necessarily gets credit for -- it derives its legitimacy from the very thing it cautions us all not to believe in too strongly. In my own SOWH, that makes it even more compelling. But on a less abstract level, SOWH is a great way to make sure your team is having thoughtful discussions that respect everyone's opinion without bending to the compulsive need for directionless fairness. SOWH from the individual indicates careful reasoning; SOWH from the organization indicates respect and an ability (but not necessarily a mandate -- that's still up to the people involved!) to make decisions for the good of the product. </p>
 </div>
 
-<br/>
-
 <div>
 
   <h3 id="15082020-interviewing">15 August 2020: Tech Interviewing is a Life Skill </h3>
@@ -534,9 +530,7 @@
 <p>So the last thing I’ll say about a technical interview is that you (usually) also need to be likable and good at communicating. These are also skills you build up over time, but in a different way. You have to be able to explain your thinking and build rapport with your interviewer. It also helps to have a bit of humor and warmness to you, so you don’t look like a robot whose sole purpose is passing a technical interview. This is also for you to be able to gauge the person interviewing you — are they a robot? Are they going to treat you like a human? Can they have some humor and warmness? These are important things to look out for, because it’s really difficult to judge your potential new coworkers as coworkers in the power dynamic that an interview creates. </p>
 
 <p> A lot more can be said for other skills that do not shine through in a technical interview. I think a lot of the ways in which I am really smart are hidden by tech interviews, just like they were hidden in college. I'm still a good software engineer, and I am learning these technical interview skills as I go along. Interviewers should certainly be looking for other cues as to candidates' abilities: problem solving, collaboration, communication to name a few. So hopefully a technical interview is just one piece of the puzzle, and the other pieces are what really will make up the bigger picture in the way of matching a candidate to a position. I know I certainly wouldn't work for a company that didn't make an effort to assess me on other qualities, because I don't want to work with colleagues who were hired solely for their ability to ace the whiteboard. </p>
- </div>
-
-<br/>
+</div>
 
 <div>
 <h3 id="04082020-nosql"> 4 Aug 2020: Notes on NoSQL Databases </h3>
@@ -583,13 +577,9 @@
 <p> CAP Theorem: Consistency, Availability, PartitionTolerance. Pick 2. (aka, if you get a network partition (communication failure between nodes), you can either have availability or consistency.) But this is on a spectrum, so it's not always just one or the other. Even if the network is up, you have a performance tradeoff if you want to be 100% consistent since it takes time to absolutely guarantee consistency across nodes. So it's a safety vs. liveness in concurrency issue. </p>
 
 <p> So when to use a NoSQL database? Two drivers: 1. Large amounts of data that can't fit well into a relational database. 2. Natural aggregates, for example when publishing news stories that have metadata and content together. Another reason includes analytics, as an alternative to datawarehousing. </p> 
-
 </div>
 
-<br/>
-
 <div>
-
 <h3 id="03082020-do"> 3 Aug 2020: DigitalOcean Databases </h3>
 <p> Just some notes as I try out DigitalOcean's database-as-a-service platform. </p>
 
