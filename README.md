@@ -18,7 +18,7 @@
   <ul>
     <li><a href="#04032023-coldwar">🎮 4 March 2023: The Brilliance of Black Ops: Cold War</a></li>
     <li><a href="#04032023-back">👩🏻‍💻 4 March 2023: I'm Back!</a></li>
-  	<li><a href="#13042022-reading">💻 13 April 2022: Reading is Harder than Writing</a></li>
+  	<li><a href="#13042022-reading">💻 13 April 2022: Reading is Harder than Writing (Code)</a></li>
     <li><a href="#10072021-helpdesk">💻 10 July 2021: My Summers on the Help Desk</a></li>
     <li><a href="#09042021-containers">💻 20 April 2021: Solidifying My Understanding of Containers</a></li>
     <li><a href="#09042021-wfh">👩🏻‍💻 9 April 2021: A WFH Vignette</a></li>
@@ -71,7 +71,7 @@
 
 <div>
 
-  <h3 id="13042022-reading">13 April 2022: Reading is Harder than Writing</h3>
+  <h3 id="13042022-reading">13 April 2022: Reading is Harder than Writing (Code)</h3>
   <p>Ask any developer and they'll tell you: reading code is much harder than writing it. They will probably also say they do not read. There are countless examples -- just check tech Twitter -- of rewrites turning out badly. New code gets inherited, declared to be spaghetti, and rewritten. But during the rewrite, there's not enough time to do everything right. The rewriter cuts corners. They start to see the complexity. They re-write the same spaghetti, sometimes in a modern framework, and pass it on to the next person. I can't say it's not tempting. But I've mostly broken this habit, both because I trust those who wrote the code I'm inheriting, and because I've learned the value of a cohesive, if legacy, codebase. </p>
 
   <p>When I joined my most recent team, I had a lot to learn very quickly. I was also working remotely in a different timezone than the rest of the team,
