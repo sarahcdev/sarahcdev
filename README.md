@@ -43,19 +43,19 @@
 
 
   <h3 id="03042023-warzone"> 3 April 2023: Why People Lose in Warzone </h3>
-  <h4> From a subject matter expert </h4>
+  <h4> From a subject matter expert on losing in Warzone </h4>
   <ol>
-    <li> Lack of Communication and Coordination </li>
+    <li><b> Lack of Communication and Coordination </b></li>
     <p> This one is kind of obvious, but communication is the most basic and most important aspect of Battle Royale duo/trio/quads. In general, you need to be talking about where you are, where you see enemies, and how to stay coordinated if/ when you split up. I am not a fan of landing in different places from the rest of your team, unless you have an agreed upon plan to get back together at some point before midgame. </p> 
     <p> All call-outs are better than none, but making useful call-outs is a tuneable skill. Relative direction doesn't help unless you are all in position together (e.g. "right!" means nothing if you aren't facing the same way). Use compass directions or other landmarks instead. </p>
-    <li> Ignoring Their Own Stats </li>
+    <li><b> Ignoring Their Own Stats </b></li>
     <p> Sometimes I think people pick their loadouts based on feelings or firing range stats, which just aren't accurate for actual gameplay. You need to look at your highest KD weapons over time and play with them until they get nerfed. In general, the meta weapon is a good choice, but sometimes there is some variation in which meta weapon works best for an individual's play style. In Season 1, I used the RPK all day. As of Season 2, I absolutely cannot with the Hemlock but I do great with the TAQ V. The TAQ V <i>feels</i> like the firing rate is too slow, but it gets me more kills overall. </p>
-    <li> No Game Sense </li>
+    <li><b> No Game Sense </b></li>
     <p> This is probably the most important, at least once you get past the initial hurdles of talking to your team and choosing the right guns. Position in Al Mazrah is somewhat more intuitive than in Ashika because Al Mazrah is more sparse and less complex. You almost always should take cover in a building in Al Mazrah if it's available, but that's not the case in Ashika. In Ashika, high ground and structures come with the tradeoff that they can give you terrible position circle-wise. You also have less people flying in from above in Al Mazrah, whereas in Ashika, respawning players will land right on the roof and start shooting you. Ashika's hills are also troublesome. High-ground worshiping teams tend to get stuck them, surrounded by 2+ other teams that know <i>exactly</i> where they are, and they actually end up at a disadvantage to those down the hill. </p>
     <p> Around the 3rd or 4th circle, your team should be talking about a plan to move into the final circle. You have to consider what the edge will look like if you go in a straight line to the middle, whether the circle is going to close on you in high or low ground, where other teams are at that moment, and any buildings or other structures you might try to take over on the way. I think people are too reluctant to rotate for a better position, which really hurts them in the endgame. For example, if I see a circle whose edge is going to close right on Tsuki Castle, I always rotate around it because going into the castle is always a terrible idea. That castle should come with tents and propane stoves for all the campers. </p>
-    <li> Endless Resurgence Death Spirals </li>
+    <li><b> Endless Resurgence Death Spirals </b></li>
     <p> Sometimes two teams will fight and respawn into the same spot, picking each other off one-by-one for literal minutes trying to get the last word or pick up their equipment again. This just causes endless frustration and leaves the opportunity open for third-parties. Once you've done this little cycle a few times without gaining a significant advantage, it's a better idea to just pick a new landing spot and move on. </p>
-    <li> Endgame Panic </li>
+    <li><b> Endgame Panic </b></li>
     <p> In the final few circles, things get really intense and people panic. They might not have their loadouts, they may be low on plates or ammo, and they are likely to get nervous and do something dumb. I know this from experience -- when I <i>feel</i> unprepared, I perform badly. It's best to load up as much as you can, but accept that most people in final circle are going to be missing <i>something</i>. My favorite tactics in endgame are: Use your Mortars/ PAs in the final circle for an almost guaranteed hit, worry less about TTK of your weapon since most players will be low on armor/health anyways (more important to just use whichever gun has ammo at that point and not waste time reloading), use smokes to conceal your position, and dip in and out of gas if you want to rotate. You can also use tactical grenades and live marks to try to figure out where the last few players are if you can't see.</p>
   </ol>
 
