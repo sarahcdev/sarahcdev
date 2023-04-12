@@ -16,7 +16,7 @@
 
 <!--<h3>Table of Contents</h3> --> 
   <ul>
-    <li><a href="#12042023-grammarly">👩🏻‍💻 12 April 2023: I hate Grammarly, or: All Robots & Computers Must Shut The Hell Up. </a></li>
+    <li><a href="#12042023-grammarly">📣👩🏻‍💻 12 April 2023: I hate Grammarly, or: All Robots & Computers Must Shut The Hell Up. </a></li>
     <li><a href="#03042023-warzone">🎮 3 April 2023: Why People Lose in Warzone</a></li>
     <li><a href="#24032023-decision">👩🏻‍💻 24 March 2023: Overcoming Analysis Paralysis and Saying Yes to the Dress</a></li>
     <li><a href="#05032023-legacy">💻 5 March 2023: Lean In (to the Legacy Code)</a></li>
@@ -32,7 +32,7 @@
     <li><a href="#27122020-iam1">💻 27 December 2020: IAM is a hard problem</a></li>
     <li><a href="#23122020-food">👩🏻‍💻 23 December 2020: Food YouTube is Bad [published retroactively] </a></li>
     <li><a href="#14122020-symbolic">💻 14 December 2020: Notes on Symbolic Execution</a></li>
-    <li><a href="#29112020-sowh">📣💻 29 November 2020: Strong Opinions, Weakly Held</a></li>
+    <li><a href="#29112020-sowh">💻 29 November 2020: Strong Opinions, Weakly Held</a></li>
     <li><a href="#15082020-interviewing">📣💻 15 August 2020: Tech Interviewing is a Life Skill</a></li>
     <li><a href="#04082020-nosql">💻 4 Aug 2020: Notes on NoSQL Databases</a></li>
     <li><a href="#03082020-do">💻 3 Aug 2020: DigitalOcean Databases</a></li>
