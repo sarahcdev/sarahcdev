@@ -16,6 +16,7 @@
 
 <!--<h3>Table of Contents</h3> --> 
   <ul>
+    <li><a href="#21062023-antenna">👩🏻‍💻 21 June 2023: I Saw the Holmdel Horn Antenna Today </a></li>
     <li><a href="#12042023-grammarly">📣👩🏻‍💻 12 April 2023: I hate Grammarly, or: All Robots & Computers Must Shut The Hell Up. </a></li>
     <li><a href="#03042023-warzone">🎮 3 April 2023: Why People Lose in Warzone</a></li>
     <li><a href="#24032023-decision">👩🏻‍💻 24 March 2023: Overcoming Analysis Paralysis and Saying Yes to the Dress</a></li>
@@ -41,6 +42,21 @@
     <li><a href="#27202020-tests">💻 27 Feb 2020: On Writing Good Unit Tests</a></li>
     <li><a href="#00002020-goals">💻 5 Things I Want to Learn (or improve) in 2020</a></li>
   </ul>
+  
+  <h3 id="21062023-antenna"> 21 June 2023: I Saw the Holmdel Horn Antenna Today </h3>
+  <p>The Holmdel Horn Antenna, credited with aiding in the discovery of cosmic microwave background radiation and providing evidence of the Big Bang theory, is in danger.</p>
+
+  <p> My dad is visiting the area this week, and he really, <i>really</i> wanted to see it. He has been talking about it for years, telling me to go visit it so he could live the experience vicariously. We decided to drive up and see it in person -- and turns out, travelling 3000 miles to New Jersey isn't the hard part! </p>
+
+  <p> Google Maps led us to an unmarked gate on the side of the road. The gate wasn't locked, but it was closed, and it had signs saying, "No Trespassing. All visitors must register at the visitor center" or something of that nature. So we obeyed -- we left the car at the gate and walked up a hill to the large glass Nokia building to register. There were zero cars in the parking lot. Tall weeds and grass poked out of cracks in the concrete. The largest raven I've ever seen was absolutely screaming at us from the roof. With a generous amount of naivete and good will, we tried the front doors of the "visitor center", through which we could see a phone labelled "Visitor Phone" that was clearly connected on the other end to no one. The building was locked and totally abandoned. </p>
+
+  <p> With nobody to register ourselves to, we cautiously walked further up the hill to where we figured the antenna must be. I was starting to feel nervous about this expedition, wondering how I ended up here, and hoping it wouldn't end in some sort of injury or citation. But we had followed the posted rules thus far, so I figured we had earned a few more exploratory paces into the grounds. An old, peeling sign said "Antenna - Escorted Tours Only." Then on a tree to the left of a locked, barb-wired, "authorized vehicles only" gate were two notices. One informed us of the security cameras, and the other stated that we were on private property (and, no trespasssing!) But somebody had written on the sign, "Text HORN to XXX-XXX-XXXX for access." I texted it, wondering who might be on the other side. I gave it 70/20/10 odds that the line would have long since suffered the Visitor Phone's fate, or announced us to a security guard who would threaten to call the police if we didn't leave, or passed my request along to some well-meaning but underresourced science community group that would answer me in 24-48 business hours with help I no longer needed. </p>
+  
+  <p> To my complete shock, the text bubble was iMessage blue. We wandered up the hill a bit while we waited for an answer, but left our as yet unauthorized vehicle behind. I started to imagine that the Private Property sign was another relic of times gone by, and some poor shmuck now had this new phone number and frequently got the word 'HORN' texted to him at all hours of the day by random tourists and geeks. But the number answered back with a gate code and the simple request that we just lock up behind ourselves. We were in!!! We returned to the main gate to retrieve our authorized car and pull it up to the antenna. </p>
+
+  <p> The antenna was still standing, though in the 'down' position, according to my dad. Some accompanying shacks had been boarded up. Everything not made of aluminum looked like it might be a few years or one earthquake from total collapse. Unfortunately one got the sense that "no trespassing" was meant more for those who may abuse a vacant lot and/or deface an important scientific instrument and/or claim liability for something stupid happening on the abandoned property. It wasn't like a "no trespassing" in the sense that there were visiting hours and a welcome basket, but only if you come at the right time, so make sure you catch us tomorrow! Either way we had permission to be there, since we solved the riddle.</p>
+
+  <p> After our strange adventure up the hill to see the antenna, we drove to Bell Works, which lives in the shell of Bell Labs' shuttered Holmdel complex. We drank expensive local coffee in the lobby and stared up at the coworking space now occupying former offices upstairs. I wondered if those people were co-working on important things like I read in The Idea Factory. I hoped they were doing something innovative or good for the world. I hoped the future of office parks looked like community centers with libraries and pharmacies and restaurants. I hoped my fellow Bell Works visitors were thinking about transistors and telephones. And a little part of me hoped that, while they ate croissants and used the free wifi in this totally transformed space, they would care to preserve the little part of Bell Labs that physically represented an answer to the question of how we all ended up here in the first place. </p>
 
   <h3 id="12042023-grammarly"> 12 April 2023: I hate Grammarly, or: All Robots & Computers Must Shut The Hell Up. </h3>
 
