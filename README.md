@@ -6,16 +6,18 @@
 - 🛠️ I’m currently working on Java apps and blog posts 
 - 💬 Ask me about security 
 - 🪴 House plant collector
-- 👯 I’m looking to collaborate on getting Ws in Ashika Island
+- 👯 I’m looking to collaborate on getting Ws in Urzikstan
 - 📫 How to reach me: <span>sarahc</span><span>.</span><span>io</span><span>.</span><span>contact</span><span>[at]</span><span>gmail</span>
 
 
 <h1> Blog </h1>
-<p>I mostly write about software, video games, and current events. <small>(These are my personal thoughts and they do not necessarily reflect the views of my employer.)</small></p>
+<p>I mostly write about software, video games, current events, and whatever else is on my mind. <small>(These are my personal thoughts and they do not necessarily reflect the views of my employer.)</small></p>
 <p>💻 = Tech, 🎮 = Gaming, 👩🏻‍💻 = Everything else; 📣 = My favorites</p>
 
 <!--<h3>Table of Contents</h3> --> 
   <ul>
+    <li><a href="#-">👩🏻‍💻 17 April 2024: Novo Amor</a></li>
+    <li><a href="#-">👩🏻‍💻 19 February 2024: How will we save our public schools?</a></li>
     <li><a href="#21062023-antenna">👩🏻‍💻 21 June 2023: I Saw the Holmdel Horn Antenna Today </a></li>
     <li><a href="#12042023-grammarly">📣👩🏻‍💻 12 April 2023: I hate Grammarly, or: All Robots & Computers Must Shut The Hell Up. </a></li>
     <li><a href="#03042023-warzone">🎮 3 April 2023: Why People Lose in Warzone</a></li>
@@ -42,6 +44,57 @@
     <li><a href="#00002020-goals">💻 5 Things I Want to Learn (or improve) in 2020</a></li>
   </ul>
   
+  <h3 id="-">17 April 2024: Novo Amor </h3>
+  <p> I used to be Bon Iver's biggest defender, fan for life, play any song and I am in tears belting sounds that sound almost like English if you kind of squint. I still love BI, but I don't love... really anything Justin Vernon put out after 2016. </p>
+
+  <p><b> Climb is all we know. </b></p>
+
+  <p> I don't need to convince you how good <i>For Emma</i> was, or how far astray the Bon Iver project has gone since its 2007 release. <a href="https://pitchfork.com/thepitch/at-bon-ivers-for-emma-forever-ago-10th-anniversary-concert-nostalgia-is-complex/"> Pitchfork stabs</a>, "And then there's Bon Iver's latest, 22, A Million, a garbled cryptograph of a record that seems to understand it's asking more from listeners than most are willing to give (nobody requests 22, A Million songs at a Bon Iver concert -- and not just because they can't pronounce their titles)." To be fair, I thought some of <i>22, A Million</i> was good -- CREEKS, and 8 (circle) in particular -- but that may just be because I went to my first and only BI show during this era, in Brooklyn, when I was 20, on my third date with my now-husband. CREEKS live is something else. </i>
+
+  <p> <i>For Emma</i> was followed in 2011 by <i>Bon Iver, Bon Iver</i> and I'll say it -- I think <i>BI, BI</i> was the superior album if only for how musically interesting it was. In my opinion, this album was the zenith of Bon Iver. The lyrics made no sense but the music spoke. BI also ran something called the <a href="https://www.theowlmag.com/news/from-the-news-nest-bon-iver-announces-stems-project/"> stems project </a> in about 2012 where fans were given the album stems and sent in some absolute bangers. Imagine <i> Minnesota, WI </i> with the bari sax cranked all the way up and remixed right at the height of dubstep's mainstream run. These have been all but scrubbed from the internet for some fucking reason, and I have never been able to find them since. In one moment of total insanity I considered personally DM'ing Sean Carey on Instagram. I didn't though. </p>
+
+  <p> <b> I think I've seen this film before, and I didn't like the ending. </b></p>
+
+  <p> I think collaborating with Taylor Swift on <i>Exile</i> was a big mistake. It kind of confirmed what I feared was already true after I first listened to <i>i,i</i> -- that the era of etherial, harmonious, weird <i>Bon Iver</i> was squarely behind us. To me, it felt like a sort of cheap, bland, performative rendition of the Bon Iver sound being played over one of Taylor Swift's not-interesting songs (and I love TS!). JV's voice is absolutely amazing but what a waste to use it on this song!</p> 
+
+  <p> I dislike the direction he's taken, but JV's artistic freedom and refusal to conform has always been his strength. I'm glad he's doing whatever it is he did in <i>i,i</i>. I just don't really like it.  Does that hurt as a <i>BI, BI</i> enjoyer? Yeah! But all of JV's music is experimental and it seems the experiment has moved beyond me. Or maybe it's that I dislike <i>i,i</i> to the extent that I can't even put together a critique, so I just refuse to engage and applaud JV for following his dreams. </p>
+
+  <p><b> All the good words have left my mouth, I'm completely out of things to say about it now. </b></p>
+
+  <p> The good news for me is that Novo Amor is doing it like nobody else! Or... he's doing it a lot like JV used to! When Spotify first presented <i>Halloween</i> to me, I thought JV had put out a new single. But the words and the instruments are a bit too comprehensible to be JV. The song is still heavily metaphoric, but the words make sense, and the instruments are identifiable. This song feels like what <i>Exile</i> should have been -- etherial Bon Iver harmonies, set to a beautiful, melodic song that appeals to Bon Iver fans + regular pop fans. <i>Halloween</i>  is a strong contender for "one of Sarah's favorites ever" because it hits the middle of the Venn Diagram where one ciricle is "beautiful songs that would sound good with just a regular dude singing over an acoustic guitar because they are just nice songs" and the other is "songs that are only good because of the Bon Iver-style harmonies and octaves with mixing magic." </p>
+
+  <h3 id="-">19 February 2024: How will we save our public schools? </h3>
+
+  <p> I graduated from a public school in the Pacific Northwest 10 years ago. According to US News and World Report, my high school's graudation rate is 76%. Its math, reading, and science proficiency percentages as of 2019-2021 were 21%, 54%, and 30%, respectively. That's lower than the district and state averages. Though my graduation year was 2014, it seems that not much has changed. Things were not good. And I'm not really here to talk about it being <i>not good</i> as much as I am here to talk about the response to it being <i>not good</i>. If the school was <i>not good</i>, the attempts to make it better were <i>really not good</i>.</p>
+
+  <h4> Act I: The International Baccalaureate </h4>
+
+  <p>When I attended, my high school was an International Baccalaureate (IB) school. This was ...unique, especially for a school of our funding and proficiency rates. It was sold to us as an <i>international</i> program that would be recognized around the world. We were following a <i>standard</i> that would set us apart as thinkers, leaders, and college applicants. Nobody said it outright, but it was implied that we could eat the Advanced Placement program for breakfast after earning an IB diploma. Of course none of that was true. Sure, the IB Program itself is great. But our implementation of it felt like a struggle. Our students and teachers weren't prepared for the rigor. </p>
+
+  <p> There are many examples of the IB program being just a <i>little too much</i> for my high school, but a few stand out. First was that we could never be offered more than IB Math Studies, which is the younger sibling to IB Math SL and IB Math HL. This wasn't fully the high school's fault; it was the district's. Most of the students didn't start Algebra I until their freshman year, which would mean they took Geometry, then Algebra II. A fourth year of math was optional, but after Algebra II came IB Math Studies (also known as pre-calc). Students who took Algebra I in middle school could make it to Calculus by senior year. I'm not sure why we didn't have IB Math SL and IB Math HL instead of IB Math Studies and Calculus, but I suspect it had to do with the teaching resources available and the preparedness of the students. </p> 
+
+  <p> The next example had to do with our science curriculum. Our only HL science class was Biology. Physics and Chemistry both had an SL class, but they alternated years, meaning that most IB students could only take one of them and would have to take the other as a non-IB class. </p>
+
+  <p> But even with all that said, my biggest complaint about the IB program is with the curriculum itself. While some students will go on to live in other places or attend an international university, the vast majority of IB students from small-town PNW will end up attending an American university and living in the USA. And while we certainly learned a lot of really interesting and important things about the world, we neglected to learn much of our own history in the process. When most of the students at your college took APUSH, and you took IB History of the Americas, you begin to realize how much of the history of the United States you never learned. </p>
+
+  <p> A few years after I graduated, the school retired the IB program and became an AP school. </p>
+
+  <h4> Act II: Experimental Curricula (We Are Not Test Subjects) </h4>
+  <p> The worst attempt at giving us a boost, in hindsight, wasn't for our benefit. We were used as test subjects. In my senior year, our calculus teacher allowed an entire semester of the class to be semi-taught by his wife, who was a PhD candidate in Mathematics Education at the time. She brought her own materials and would teach parts of the class. This is so unethical, I can't believe none of the parents complained. But most of our parents were very busy with work, and many of them didn't even attend college or ever take a calculus class. Today if I were the parents, I would raise hell about my child being used as a test subject for somebody's wife's PhD. </p>
+
+  <p> Yet another example of this happening to me was in my sophomore physics class. We followed an experimental curriculum developed at the Boston Latin School. On one hand, I can understand how this seemed like a good idea -- take the curriculum that a very highly ranked public exam school is using and give the poor public school kids the same opportunities. The problem is that we were <b>not</b> attending the Boston Latin School! This curriculum was not fully developed, and we were not prepared to learn it! We didn't get very far though the "textbook" as far as I can remember. This felt like yet another band-aid solution when really, we just needed a stronger foundation and more rigorous pre-physics curriculum. I don't know how you would have made up for it once we were already in the 10th grade, but this curriculum was not it.</p>
+
+  <h4> Act III: The Correct Relationship between Education and Research </h4>
+  <p> I did have one example of this kind of outside intervention that I thought was very good. In my freshman honors science class, we had a PhD candidate in Environmental Science from the local university who taught us about her actual research. We read actual scientific papers from journals to be able to understand what she was talking about. I feel that this advanced my reading comprehension and scientific mind by literal years. And what did this PhD candidate get out of it? She got an NSF grant to help develop a scientific curriculum. She was essentially learning how to dumb down and teach her research to a high school audience. But we weren't being used for her actual research, and she was so clearly just excited to help us learn! This was the right way to get outside help from a very qualified person. She taught the science, and our classroom educator ensured that the material made sense for our level. Our educator also assigned relevant work to help us solidify the material, and taught the majority of the actual science for the rest of the year when this graduate fellow was not teaching. Because she wasn't a teacher! What a gift it was to have a grad student in STEM to teach us science -- I wish we had more of this across more disciplines. </p>
+
+  <h4> Epilogue </h4>
+  <p> Obviously, we aren't going to solve underfunded public schools in my blog. But I can tell you a few things that aren't going to help: don't try to pull a Jaime Escalante unless you are <i>very</i> dedicated and </i>very</i> sure that swinging way above your weight class in one very specific direction is the right thing to do.* Keep bringing in outside perspectives and unique opportunities, but don't let your students be test subjects or charity cases for organizations that cannot realistically support the intensity of growth that needs to take place. And certainly do not let them take part in experiments that are not 100% for the students' sole benefit. </p>
+
+  <p> Of course this conversation needs to include one of the central issues -- funding -- but in this post, I am taking for granted that funding is a long-term issue and the band-aids will persist, in some form, until some day we live in an adequately funded public school utopia. Some day we will not have to rely on grants and experiments and pity to get students the resources they need to thrive. We will be able to pay qualified professionals their worth to teach. Until then, we need to make good use of the grants and charity that we do get, and be extremely selective about what kind of experiments we let through the public school doors. </p>
+
+  <p>* Maybe I will write another blog post about this, but if you're going to <i>Stand and Deliver,</i> I actually think that a well-regarded, rigorous, structured, accredited advanced math course is the best thing to do. But only if you're dedicated like that guy was.</p>
+
+
   <h3 id="21062023-antenna"> 21 June 2023: I Saw the Holmdel Horn Antenna Today </h3>
   <p>The Holmdel Horn Antenna, credited with aiding in the discovery of cosmic microwave background radiation and providing evidence of the Big Bang theory, <a href="https://skyandtelescope.org/astronomy-news/holmdel-horn-which-heard-evidence-of-the-big-bang-is-at-risk/">is in danger.</a></p>
 
