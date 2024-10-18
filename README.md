@@ -6,7 +6,7 @@
 - 🛠️ I’m currently working on Java apps and blog posts 
 - 💬 Ask me about security 
 - 🪴 House plant collector
-- 👯 I’m looking to collaborate on getting Ws in Urzikstan
+- 👯 I’m looking to collaborate on getting Ws in Black Ops 6
 - 📫 How to reach me: <span>sarahc</span><span>.</span><span>io</span><span>.</span><span>contact</span><span>[at]</span><span>gmail</span>
 
 
@@ -16,8 +16,9 @@
 
 <!--<h3>Table of Contents</h3> --> 
   <ul>
-    <li><a href="#-">👩🏻‍💻 17 April 2024: Novo Amor</a></li>
-    <li><a href="#-">👩🏻‍💻 19 February 2024: How will we save our public schools?</a></li>
+    <li><a href="#17102024-favorites">📌📣👩🏻‍💻 17 October 2024: My favorite websites</a></li>
+    <li><a href="#17042024-novo">👩🏻‍💻 17 April 2024: Novo Amor</a></li>
+    <li><a href="#19022024-schools">👩🏻‍💻 19 February 2024: How will we save our public schools?</a></li>
     <li><a href="#21062023-antenna">👩🏻‍💻 21 June 2023: I Saw the Holmdel Horn Antenna Today </a></li>
     <li><a href="#12042023-grammarly">📣👩🏻‍💻 12 April 2023: I hate Grammarly, or: All Robots & Computers Must Shut The Hell Up. </a></li>
     <li><a href="#03042023-warzone">🎮 3 April 2023: Why People Lose in Warzone</a></li>
@@ -30,8 +31,8 @@
     <li><a href="#09042021-wfh">👩🏻‍💻 9 April 2021: A WFH Vignette</a></li>
     <li><a href="#20022021-vaccine">📣👩🏻‍💻 20 February 2021: The Vaccine Rollout</a></li>
     <li><a href="#23012021-teams">💻 23 January 2021: On Building Good Teams</a></li>
-    <li><a href="#02012021-iam2">💻 2 January 2021: IAM is a hard problem - Part 2</a></li>
-    <li><a href="#27122020-iam1">💻 27 December 2020: IAM is a hard problem</a></li>
+    <li><a href="#02012021-iam2">💻 2 January 2021: Cloud IAM is confusing Part 2</a></li>
+    <li><a href="#27122020-iam1">💻 27 December 2020: Cloud IAM is confusing Part 1</a></li>
     <li><a href="#23122020-food">👩🏻‍💻 23 December 2020: Food YouTube is Bad [published retroactively] </a></li>
     <li><a href="#14122020-symbolic">💻 14 December 2020: Notes on Symbolic Execution</a></li>
     <li><a href="#29112020-sowh">💻 29 November 2020: Strong Opinions, Weakly Held</a></li>
@@ -43,8 +44,22 @@
     <li><a href="#27202020-tests">💻 27 Feb 2020: On Writing Good Unit Tests</a></li>
     <li><a href="#00002020-goals">💻 5 Things I Want to Learn (or improve) in 2020</a></li>
   </ul>
+
+  <h3 id="17102024-favorites">17 October 2024: My favorite web pages </h3>
+
+  <p> In no particular order: </p>
+
+  <p>
+    <ul><a href="https://www.otherhand.org">Otherhand, a blog by an engineer/ hiker/ scientist who is also a talented writer </a> </ul>
+    <ul><a href="https://gist.github.com/chitchcock/1281611"> Stevey's Platforms Rant </a></ul>
+    <ul><a href="https://www.change.org/p/white-house-have-fetty-wap-perform-trap-queen-at-nancy-reagan-s-funeral-1d7bed99-f0e7-48e8-9eaa-6e518efa770f">A 2016 Change.org petition to have Fetty Wap perform Trap Queen at Nancy Reagan's funeral</a></ul>
+    <ul><a href="https://www.heinemann.com/products/e17234.aspx"> Primary Comprehension Toolkit, which developed my verbal skills and probably sparked a few obsessive interests in me as a child </a></ul>
+    <ul><a href="https://www.airliners.net/forum/viewtopic.php?t=761675"> Have you ever been on a Boeing 737-ER900 and it made an awful sound on takeoff and you panic-googled it using the in flight wifi? </a></ul>
+    <ul><a href="https://mashable.com/article/lorde-jack-antonoff-powerpoint?test_uuid=01iI2GpryXngy77uIpA3Y4B&test_variant=b"> Did Lorde and Jack Antonoff date? While Lena Dunham was away campaigning for Hillary 2016, thus distracting from her efforts and causing, well, all of this? Is Liability a really, really good song?</a></ul>
+    <ul><a href="https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40">Color palettes that are accessible for those with colorblindness (I know very little about UI design, but I do know that you need to be careful how you use colors to communicate serious information!)</a></ul>
+  </p>
   
-  <h3 id="-">17 April 2024: Novo Amor </h3>
+  <h3 id="17042024-novo">17 April 2024: Novo Amor </h3>
   <p> I used to be Bon Iver's biggest defender, fan for life, play any song and I am in tears belting sounds that sound almost like English if you kind of squint. I still love BI, but I don't love... really anything Justin Vernon put out after 2016. </p>
 
   <p><b> Climb is all we know. </b></p>
@@ -63,7 +78,7 @@
 
   <p> The good news for me is that Novo Amor is doing it like nobody else! Or... he's doing it a lot like JV used to! When Spotify first presented <i>Halloween</i> to me, I thought JV had put out a new single. But the words and the instruments are a bit too comprehensible to be JV. The song is still heavily metaphoric, but the words make sense, and the instruments are identifiable. This song feels like what <i>Exile</i> should have been -- etherial Bon Iver harmonies, set to a beautiful, melodic song that appeals to Bon Iver fans + regular pop fans. <i>Halloween</i>  is a strong contender for "one of Sarah's favorites ever" because it hits the middle of the Venn Diagram where one ciricle is "beautiful songs that would sound good with just a regular dude singing over an acoustic guitar because they are just nice songs" and the other is "songs that are only good because of the Bon Iver-style harmonies and octaves with mixing magic." </p>
 
-  <h3 id="-">19 February 2024: How will we save our public schools? </h3>
+  <h3 id="19022024-schools">19 February 2024: How will we save our public schools? </h3>
 
   <p> I graduated from a public school in the Pacific Northwest 10 years ago. According to US News and World Report, my high school's graudation rate is 76%. Its math, reading, and science proficiency percentages as of 2019-2021 were 21%, 54%, and 30%, respectively. That's lower than the district and state averages. Though my graduation year was 2014, it seems that not much has changed. Things were not good. And I'm not really here to talk about it being <i>not good</i> as much as I am here to talk about the response to it being <i>not good</i>. If the school was <i>not good</i>, the attempts to make it better were <i>really not good</i>.</p>
 
@@ -408,7 +423,7 @@
 
 
 
-  <h3 id="02012021-iam2"> 2 January 2021: IAM is a hard problem - Part 2</h3>
+  <h3 id="02012021-iam2"> 2 January 2021: Cloud IAM is confusing - Part 2</h3>
 
   <p>In my last post, I talked about managing identities for services like Postgres and AWS. In this post, I'll talk about managing identities for end users to my app.</p>
 
@@ -435,7 +450,7 @@
 
 
 
-  <h3 id="27122020-iam1"> 27 December 2020: IAM is a hard problem</h3>
+  <h3 id="27122020-iam1"> 27 December 2020:  Cloud IAM is confusing</h3>
 
   <h4>AWS, IAM, and my current example of this problem</h4>
   <p>My current project is a little website that uses a hosted Postgres database. The project turned out, at least on the first day, to be more about AWS IAM and less about websites and databases. AWS IAM itself is pretty good; it's granular, role-based (if you want!), and can be defined as JSON. It also offers a variety of access options, like console/password and API key. Unfortunately, most enterprise software doesn't do identity very well. A lot of applications, such as Postgres, have their own account components. That means more accounts and more passwords and more permissions to manage. When you use Postgres through AWS, for example, you're given a "master" account on the database that has a password. It has nothing to do with any of your AWS IAM accounts that you so lovingly crafted, and that makes your infrastructure less secure. Software (including every AWS account) generally has one master account and key that isn't otherwise attached to an identity provider or directory, and that's a good thing if it's managed correctly. The other accounts, including day-to-day users, would be managed best using some sort of access management system that isn't built into the app.</p>
