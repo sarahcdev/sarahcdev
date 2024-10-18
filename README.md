@@ -45,7 +45,7 @@
     <li><a href="#00002020-goals">💻 5 Things I Want to Learn (or improve) in 2020</a></li>
   </ul>
 
-  <h3 id="17102024-favorites">17 October 2024: My favorite web pages </h3>
+  <h3 id="17102024-favorites">17 October 2024: My favorite web pages/sites </h3>
 
   <p> In no particular order: </p>
 
@@ -54,7 +54,7 @@
     <li><a href="https://www.otherhand.org">Otherhand, a blog by an engineer/ hiker/ scientist who is also a talented writer </a> </li>
     <li><a href="https://gist.github.com/chitchcock/1281611"> Stevey's Platforms Rant </a></li>
     <li><a href="https://www.change.org/p/white-house-have-fetty-wap-perform-trap-queen-at-nancy-reagan-s-funeral-1d7bed99-f0e7-48e8-9eaa-6e518efa770f">A 2016 Change.org petition to have Fetty Wap perform Trap Queen at Nancy Reagan's funeral</a></li>
-    <li><a href="https://www.heinemann.com/products/e17234.aspx"> Primary Comprehension Toolkit, which developed my verbal skills and probably sparked a few obsessive interests in me as a child </a></li>
+    <li><a href="https://www.heinemann.com/products/e17234.aspx"> Primary Comprehension Toolkit: very good for developing verbal skills (and obsessive interests) </a></li>
     <li><a href="https://www.airliners.net/forum/viewtopic.php?t=761675"> Have you ever been on a Boeing 737-ER900 and it made an awful sound on takeoff and you panic-googled it using the in flight wifi? </a></li>
     <li><a href="https://mashable.com/article/lorde-jack-antonoff-powerpoint?test_uuid=01iI2GpryXngy77uIpA3Y4B&test_variant=b"> Did Lorde and Jack Antonoff date? While Lena Dunham was away campaigning for Hillary 2016, thus distracting from her efforts and causing, well, all of this? Is Liability a really, really good song?</a></li>
     <li><a href="https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40">Color palettes that are accessible for those with colorblindness (I know very little about UI design, but I do know that you need to be careful how you use colors to communicate serious information!)</a></li>
