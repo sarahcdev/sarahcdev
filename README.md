@@ -16,7 +16,9 @@
 
 <!--<h3>Table of Contents</h3> --> 
   <ul>
-    <li><a href="#17102024-favorites">📌📣👩🏻‍💻 17 October 2024: My favorite websites</a></li>
+    <li><a href="#09012025-paris">👩🏻‍💻 9 January 2025: Trip Report II - Italy</a></li>
+    <li><a href="#09012025-paris">👩🏻‍💻 9 January 2025: Trip Report I - Paris</a></li>
+    <li><a href="#17102024-favorites">📣👩🏻‍💻 17 October 2024: My favorite websites</a></li>
     <li><a href="#17042024-novo">👩🏻‍💻 17 April 2024: Novo Amor</a></li>
     <li><a href="#19022024-schools">👩🏻‍💻 19 February 2024: How will we save our public schools?</a></li>
     <li><a href="#21062023-antenna">👩🏻‍💻 21 June 2023: I Saw the Holmdel Horn Antenna Today </a></li>
@@ -44,6 +46,68 @@
     <li><a href="#27202020-tests">💻 27 Feb 2020: On Writing Good Unit Tests</a></li>
     <li><a href="#00002020-goals">💻 5 Things I Want to Learn (or improve) in 2020</a></li>
   </ul>
+
+  <h3 id="09012025-italy">9 January 2025: Trip Report II - Italy </h3>
+  <p>Now, I think it would be kind of ignorant to directly compare France and Italy. They have different cultures, economies, and geographies -- to name a few things. But we did conclude our trip with 3.5 days in Rome and 2.5 days in Milan, so I have some things to report about those cities as well. </p>
+
+  <p> Why would you try to spend 4 days in Italy? Because of the cost of airfare, baby! Of everywhere in Europe, it was cheapest to come back from Milan. So we decided we could spend a few days in Italy (and we were worried we would get bored of Paris, but alas, we were very sad to leave and still had things we didn't get the chance to see).  
+
+  <h3 id="09012025-paris">9 January 2025: Trip Report I - Paris </h3>
+  <p>I think I have Reverse Paris Syndrome. </p>
+  <p> I visited Paris over the holidays and it was absolutely incredible. Of course it is well known as a global destination, but it was so much nicer and more navigable than I expected. </p>
+
+  <p>The first thing that jumped out to me about Paris was just how beautiful everything was. The center of the city only has buildings around 6 (? American sized?) stories tall. I'm guessing here. But the builings in the city center are all -- with one very pointy exception -- short-ish, tan stone edifices that could be out of a movie. It was kind of dirty like any city, but it wasn't any worse than NYC, and the nice parts were nicer. </p>
+
+  <p>The next thing I noticed is that it was pretty easy to do day-to-day activities, even for somebody who had never traveled internationally before and does not speak French. It's expected that you *greet* with the customary <i>bonjour</i> or <i>bonsoir</i>, but after that, 99% of people spoke some amount of English or were happy to help me by gesturing and pointing at the menu. And when I say "some amount of English" I mean that some people spoke a few words but most people were fluent -- which is impressive since they all also speak French and maybe even other languages. </p>
+
+  <p>It might be because I have lived in New York and currently inhabit part of the NY metro, but as a city, Paris was also navigable in the way New York is navigable. The metro still confused me a bit (I don't know what a t vs. a t+ ticket is -- but I just bought whatever would get me to my destination) but was more advanced in some ways than the MTA. The Ile-de-France Mobilities app takes advantage of both the Apple Wallet <b>and</b> [what I assume is NFC]. You can have a Navigo in Apple Wallet <b>and</b> recharge physical Navigo cards from the phone!! So with one phone I was able to keep 1 Navigo card in my Apple Wallet and also recharge my husband's physical card. Skip the ticket lines!!! Uber is also very popular and works there just like it does here.</p>
+
+  <p>The food was amazing. I quickly got the sense that France has a <b>very</b> tight grasp on its food supply and nutritional labelling. A lot of menu listings and food packages boast that the item was grown in France. Most of what we found in the grocery store and shops was made of simple ingredients with clear labelling. They give all foods a grade (though I was surprised to see apple sauce in Aldi got a C, and orange juice got a D! But I think that's probably accurate) and any TV ads for junk food include a disclaimer that everyone should get adequate exercise to balance what they eat. The food in restaurants was also (mostly) incredible. </p>
+
+  <p> Meals are SLOW. Every restaurant we went to had some 1-Star Google reviews from Americans claiming the service is slow and rude. It's not! Meals in Paris take forever. You come in and sit, and read the menu. The server will be back in 5-20 minutes. You put in your order, the food comes when it's done, and you eat. You will not see the server for a while! You will sit for a long time before they come to clear the dishes. Then they might even wait a little longer to come by and ask if you want dessert or espresso. If you say no, they will probably still leave you alone for a while. You have to ask for the check. We were always the fastest diners at every establishment and it felt slow for us. There were multiple times when we were seated next to a group that had already finished eating, and we ate our entire meal and left before they did. Plan 2 hours for dinner at a sit-down place. The service is also not rude as much as it is direct. They probably won't put on their customer service smile and ask how your day is, but they will give you an excellent dining experience if you can let go of those other expectations. There is no rush to leave the restaurant, except if it is a place with dedicated seating times and there is a later reservation for your table. But even then, you have some time. Speaking of reservations, I would recommend them! You WANT to dine at the places where it can be a little bit difficult to get a table. Those are the good ones :) You can walk in to most places but don't try it on a weekend or if you're an anxious person who doesn't want to change restaurants last-minute.</p> 
+  
+  <p>The value for money was really amazing, though that probably has something to do with the current USD to Euro exchange rate of 1 to .97 at the time of this post. It is actually cheaper to eat out in Paris than in NYC right now. All the food was just well-made and you could tell it was made with high quality ingredients. Like there was a real chef in the back and they were working with really good raw materials. </p>
+
+  <p>And speaking of exchange rates, I want to shout out my new best friend, the Banque Postale. When we arrived in Dublin for a stopover, we had no Euros on us. We exchanged $100 cash for like 83€ at the airport exchange desk because we really needed to have some cash on hand. That was definitely a scam. When we finally arrived at Charles de Gaulle, we tried using one of their ATMs to get some cash at a better rate. But it was run by the same company that ran the desk in Dublin, so we noped out and figured we would use our 83€ and credit cards until we figured out something better. So later in the evening before dinner we looked for a place to get cash since we weren't sure if our credit cards would work (spoiler alert: they literally worked every time at every establishment with no issues. The first time I used my amex, American Express sent me a promotional email about things to do in Paris. Visa, MasterCard, and Amex are more than happy to process transactions from France.) We stopped at a Banque Postale ATM because it was the only one we could find. They gave us a <b>very</b> fair exchange rate and we resolved to only exchange money with the bank after that. </p>
+
+   <p><b>A special note about special diets</b>I am on a gluten-free and dairy-free diet, and I tried my best to stick to this while we were on our vacation. This was very hard in Paris and I am lucky that the immediate, symptomatic consequences for me deviating are only a tummy ache and that my face gets puffy. For those with Celiac or a dairy allergy, eating out in Paris seems like it would be very difficult. Yes there are dedicated gluten-free restaurants and bakeries, and dedicated vegan restaurants, but you really get the sense that the food scene in Paris heavily relies on doing magic with flour and butter. I did find a place with GF and vegan pastries which was great (shout out Judy Market!). But really it was hard to find GF or DF and doubly hard to find both. </p>
+  
+  <p>I found in the places I visited in Europe (we spent a few days in Italy as well, post forthcoming) that "dairy free" isn't a thing as much as "lactose free" which seemed to imply the food was made with lactose-free dairy milk. Gluten free is an interesting challenge because sometimes you would get the most artisianal, perfect, (expensive) products and other times you got the sense you were eating something out of a dystopian sci-fi novel. So just as I would also advise in the United States of Franken-food, go for minimally processed foods that are mostly gluten and dairy free on their own. </p>
+
+  <p> Culturally it felt very French and there's a real sense of pride for the French Republic in the air. The Musee de l'Armee was super cool and instilled a real sense of respect for the sacrificies required to have the France of today. The people speak French first and most restaurants serve French foods or French fusion with something else. It was both very immersive and still accessible for me especially as the days went on and I learned more French words and customs. To some, maybe the near-universal availability of English menus isn't French enough. To others, maybe the obligatory <i>bonjour</i> and French flags everywhere are too much. For me it was just right, requiring some growth and discomfort but not so much that I couldn't go about my days.</p>
+
+  <p>So what was bad about Paris? What would I avoid next time? Really only a few things, and some of these are just dumb tourist mistakes that we made. 
+    <ol>
+      <li>Figure out your plan for getting some Euros in cash -- you know who I recommend :)</li>
+      <li>Have some restaurants picked out in advance and star them on your maps app. Pre-vet them carefully with Google <b>and</b> Trip Advisor reviews and watch out for fake reviews. Then when you're out and tired and hungry, you can pick out a place that you know will be good.</li>
+      <li> Related to my last point, BE CAREFUL GOING TO RESTAURANTS THAT ARE TOO FRIENDLY TO ANGLOPHONES. If the name of the restaurant is in English and the food looks too American, and you're near a major tourist attraction, and the food is stupidly expensive for what you're getting -- stay away. We did this by mistake in an area of Paris that we hadn't expected to visit, and we got tourist trapped. We were tired and hungry. Oops. </li>
+      <li>Don't expect the good food, prices, etc. to apply in the airport. Eat before you get to Charles de Gaulle.</li>
+      <li>The location of your hotel is everything. You will be walking <b>a lot</b> and you don't want to do several round-trips across the city each day. Plan activities in the same neighborhood on a given day and consider moving hotels to a different area if you're staying long enough. Even using the metro and Uber when we were truly exhausted, my iPhone says we walked a grand total of 100.16 miles in 17 days including travel days.</li>
+      <li>And on the topic of walking, treat this like a real athletic endeavor if you're not active already. You will be walking a lot and you will be so much happier if you are not in pain and exhausted. Prepare with some cardio and dial in your shoe choices. My husband and I both purchased Hokas during this trip because our Allbirds started to feel like Flintstone shoes after enough miles. I hardly touched the dress shoes I lugged around the world for this (execpt for photo ops :)). It sounds ridiculous but if you are not already doing a lot of walking, you will have a hard time walking 5-10 miles per day and enjoying it. Or you will spend a lot of money on Uber. </li>
+      <li>Accept that you can't see all of Paris in one trip. We spent a relatively long time there -- 11 days -- and didn't make it to every attraction on our list. I think you should plan 1-2 activities per day MAXIMUM because there will be lines and travel time, and the last thing you want is to feel rushed on your vacation. Could you see the Eiffel Tower, Musee de l'Armee, the Louvre, and Champs-Élysées in one day? I mean, maybe, but that sounds miserable. </li>
+      <li>We almost made a mistake: everyone in your party should have mobile internet, and at least one person should have a working phone line. My husband didn't originally want to get an eSIM but I bought it and told him I was installing it on his phone. This is really important 1) in case you get separated!, and 2) for navigation. You can't imagine how much you will rely on maps, restaurant reviews, and attractions' websites to secure tickets. We used SO MUCH data on maps for navigating on long walks. It was worth it. I also really felt like I needed a way to make phone calls in case we needed to call our families back home, contact the embassy for passport issues, etc. We did end up using this phone line. And we did end up separated in the airport during a flight cancellation fiasco -- he waited for our bags and I marched up to the ticket counter to get us rebooked.</li>
+      <li> Not preparing for pickpockets? Again we didn't make this mistake or run into the issue, but I read plenty about watching out for pickpockets. I didn't carry a purse with me. Instead I bought a SPIbelt and wore that under my sweater/jacket with our passports/ cards/ cash/ medicines. Highly recommend -- it's comfortable and virtually impossible to pickpocket. And you can wear it over your clothes instead of under if you already look painfully like a tourist, it won't make it worse :) </li>
+    </ol>
+  </p>
+
+  <p>And finally, my no-explanation list of top Things To See in Paris and their relative cost €:
+    <ol>
+      <li><b>Eiffel Tower</b> (even just from the ground floor/ without tickets) [free]</li>
+      <li><b>Seine river cruise</b> [€ if it's just a sightseeing tour, €€€ if it's a dinner cruise] </li>
+      <li><b>Galleries Lafayette and BHV Marais</b> [free if you just want to walk around, €-€€€ if you buy anything]<li>
+      <li><b>Montmartre</b></li>
+      <li><b>Place Vendôme</b> [free]</b></li>
+      <li><b>The Louvre But Not Just for the Mona Lisa</b> [€€]</li>
+      <li><b>Pick a cafe or restaurant 1-2 miles from your hotel and just walk there through central Paris</b></li>
+    </ol>  
+  </p>
+
+  <p>Plus some top Things To SKIP in Paris:
+    <ol>
+      <li><b>Champs-Élysées</b> is the Times Square of Paris but somehow worse</li>
+      <li><b>Montparnasse Tower</b> is probably cool but we happened to go on a foggy, zero-visibility day. They were nice enough to let us change our tickets, but we didn't get the chance to return. The area around Montparnasse is not the nicest to walk around.</li>
+    </ol>  
+  </p>
 
   <h3 id="17102024-favorites">17 October 2024: My favorite web pages/sites </h3>
 
