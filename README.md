@@ -16,7 +16,7 @@
 
 <!--<h3>Table of Contents</h3> --> 
   <ul>
-    <li><a href="#09012025-paris">👩🏻‍💻 9 January 2025: Trip Report II - Italy</a></li>
+    <li><a href="#09012025-italy">👩🏻‍💻 9 January 2025: Trip Report II - Italy</a></li>
     <li><a href="#09012025-paris">👩🏻‍💻 9 January 2025: Trip Report I - Paris</a></li>
     <li><a href="#17102024-favorites">📣👩🏻‍💻 17 October 2024: My favorite websites</a></li>
     <li><a href="#17042024-novo">👩🏻‍💻 17 April 2024: Novo Amor</a></li>
@@ -48,9 +48,26 @@
   </ul>
 
   <h3 id="09012025-italy">9 January 2025: Trip Report II - Italy </h3>
-  <p>Now, I think it would be kind of ignorant to directly compare France and Italy. They have different cultures, economies, and geographies -- to name a few things. But we did conclude our trip with 3.5 days in Rome and 2.5 days in Milan, so I have some things to report about those cities as well. </p>
+  <p>Now, I think it would be kind of ignorant to directly compare France and Italy. They have different cultures, economies, and geographies -- to name a few things. But we did conclude our trip with 3.5 days in Rome and 2.5 days in Milan, and I would be more cautious to recommend these destinations based on what you want in a trip. </p>
 
-  <p> Why would you try to spend 4 days in Italy? Because of the cost of airfare, baby! Of everywhere in Europe, it was cheapest to come back from Milan. So we decided we could spend a few days in Italy (and we were worried we would get bored of Paris, but alas, we were very sad to leave and still had things we didn't get the chance to see).  
+  <p> Why would you try to spend only 4 days in Italy? Because of the cost of airfare, baby! Of everywhere in Europe, it was cheapest to come back from Milan. So we decided we could spend a few days in Italy. Wee were also worried we would get bored of Paris, but alas, we were very sad to leave and still hadn't seen everything. </p>
+
+  <p> The overwhelming feeling I got from being in Rome was that I was a tourist, and tourists are kind of ruining the place. This year, for the 2025 Catholic Jubilee, the number of total tourists will outnumber the residents by more than 10:1. Rome was not built to host tens of millions of visitors in the year 2025, and it's clear why that will be a challenge. The streets are narrow and congested. There is a housing shortage due to short-term rentals. The price of everything is on the rise. From my personal experience, you can see the smog obstructing St. Peter's Basilica in our photos from Castel Saint'Angelo, less than 0.5 mile away. Maybe not all of these problems are tourism's fault, but they might explain why the experience of visiting Rome can be such a letdown from the idyllic view many Americans have of the Eternal City and Italy as a whole. And they further explain why Romans may not want to force a smile at just one more American screaming for a Pepperoni Pizza and a Vanilla Frappuccino. </p>
+
+  <p>Sometimes the service at a restaurant was kind and easy but mututally a bit confusing due to the language barrier. Sometimes it was apathetic. Sometimes it was downright hostile. But overwhelmingly it was expensive and disappointing. Of course there were exceptions: my favorite place was an espresso bar run by a man who spoke no English and mostly served locals. It was open very early on a day when we wanted to be first in line at the Colosseum (that sentence makes me hate us, too). A half dozen construction workers came in and out for a quick caffe as we devoured the best doppio and cornetto of our lives. And it cost less than 8€. All of that is to say, in the best case you will probably eat at a local establishment that cannot speak your language but will be kind to you and serve you something very good. Or maybe they will be very mean but the product will still be good. And in the worst case, you will pay 30€ for a terrible meal served by people who do not care what happens to you or the food because there is always another tourist who will never come back to Rome. </p>
+
+  <p> It's hard not to directly compare these two cities I was in, Paris and Rome, as they are fundamentally different places. In Paris it feels like you are a tourist in a regular city, bobbing and weaving between locals and other internationals as you all take advantage of what the city has to offer. Paris can sustain its tourism the same way New York can. In Rome, it feels like it is almost all tourists <i>taking advantage</i>. But how can you blame the tourists for wanting to see ancient Roman ruins and the home of the Catholic faith? How can you blame us for wanting to learn -- from the source -- where we've been, and where we're going when this is all over? </p>
+
+  <p>It's not all doom and gloom. The Colosseum, the Roman Forum, Trevi Fountain, and the Musei Vatacani were all incredible to see in person. And consistent with the theme, they were all extremely crowded but ultimately worth the visit. Even the Trevi Fountain, which we visited between 1 and 2am, had a good number of visitors and street vendors asking people if they wanted to pay for a photo. Musei Vatacani was particularly cool, especially the Vatican Gallery of Maps and The School of Athens. The Sistine Chapel was also a bucket list item. I got dizzy but in a cool way looking at the ceiling. It felt like the figures were jumping off the ceiling toward me.</p>
+
+  <p> My favorite part of the trip was accidentally wandering into the Jewish Quarter on the last night of Hanukkah. A young man from the local Chabad wished us a chag sameach, and we said it back, so we got a free menorah. He was very nice and very insistent that we take it. My husband said no, no we have a menorah, to which the man replied, "Where, in New York?" I was dumbstruck in a really funny way and we took the *#^$&%@* menorah. It might be my favorite one we have now. We also found our favorite food in the Jewish quarter. The kosher cholov yisroel pizza was delicious and the halvah gelato?! I wished we'd only eaten at these two restaurants for our entire visit. </p> 
+
+  <p> On our last day in Rome we took a train out of Roma Terminii to Milan. The high speed train is incredible and for a small upgrade fee you can get First Class which gets you a welcome drink, snack, and a table for the duration of your ride. The Tuscan countryside is very pretty though much of the journey is in tunnels. Milan is quite a different place from Rome. It feels more like a non-tourist-y city with fewer attractions and more industrial activity taking place. But we weren't really there to see much, except Malpensa airport which is quite far from the city center. It is *shockingly* expensive to take a taxi from Milan to Malpensa (the MILANO Malpensa Airport is 30 miles from MILANO) but our flight was super early so the more economical train wasn't running at that time.</p>
+
+  <p>A recent NYT article, "The Other Naples, Not Seen On Instagram" goes in-depth on the systemic issues Napoletanos face while the world glamorizes their home as a vacation destination. The tourism wealth is not reaching the people -- especially the youth -- who are facing dire economic conditions. I cannot generalize these problems to all of Italy, but I do see a similar discrepancy in the Instagram expectations versus reality of Rome. </p>
+
+  <p> But at the end of the day, what do I really have to complain about? I stood in the Colosseum. I met some other amazing travelers and drank Limoncello with them. I saw the Sistine Chapel. I threw my coin in Trevi Fountain. I was a tourist for the day(s) and I got my experience. Isn't that what counts? My advice to anyone looking to visit Rome is to temper your expectations, try to be a good tourist, and understand that it will feel less vacation-y than you might expect. But go, enjoy the gelato, and see the sights if that's what your <a href="https://en.wikipedia.org/wiki/The_Lizzie_McGuire_Movie">dreams are made of.</a></p>
+
 
   <h3 id="09012025-paris">9 January 2025: Trip Report I - Paris </h3>
   <p>I think I have Reverse Paris Syndrome. </p>
@@ -94,7 +111,7 @@
     <ol>
       <li><b>Eiffel Tower</b> (even just from the ground floor/ without tickets) [free]</li>
       <li><b>Seine river cruise</b> [€ if it's just a sightseeing tour, €€€ if it's a dinner cruise] </li>
-      <li><b>Galleries Lafayette and BHV Marais</b> [free if you just want to walk around, €-€€€ if you buy anything]<li>
+      <li><b>Galleries Lafayette and BHV Marais</b> [free if you just want to walk around, €-€€€ if you buy anything]</li>
       <li><b>Montmartre</b></li>
       <li><b>Place Vendôme</b> [free]</b></li>
       <li><b>The Louvre But Not Just for the Mona Lisa</b> [€€]</li>
