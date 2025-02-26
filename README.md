@@ -16,6 +16,7 @@
 
 <!--<h3>Table of Contents</h3> --> 
   <ul>
+    <li><a href="#25022025-books">👩🏻‍💻 25 February 2025: Book Reviews (Running List)</a></li>
     <li><a href="#09012025-italy">👩🏻‍💻 9 January 2025: Trip Report II - Italy</a></li>
     <li><a href="#09012025-paris">👩🏻‍💻 9 January 2025: Trip Report I - Paris</a></li>
     <li><a href="#17102024-favorites">📣👩🏻‍💻 17 October 2024: My favorite websites</a></li>
@@ -46,7 +47,31 @@
     <li><a href="#27202020-tests">💻 27 Feb 2020: On Writing Good Unit Tests</a></li>
     <li><a href="#00002020-goals">💻 5 Things I Want to Learn (or improve) in 2020</a></li>
   </ul>
-
+  
+  <h3 id="25022025-books">25 February 2025: Book Reviews (Running List) </h3>
+  <p> You know, like Goodreads, but I wanted to do it myself and type the markup by hand.
+    <ul>
+      <li><b><i>Stress Test</i>, Timothy Geithner</b> ⭐️⭐️⭐️⭐️⭐️, This book changed the direction of my life.</li>
+      <li><b><i>The Courage To Act</i>, Ben Bernanke</b> ⭐️⭐️⭐️⭐️, Good, but mostly a rehash of Stress Test.</li>
+      <li><b><i>Consider The Lobster</i>, David Foster Wallace</b> ⭐️⭐️⭐️⭐️⭐️, The classic. Up, Simba! The View from Mrs. Thompson's! The lobster!!</li>
+      <li><b><i>A Supposedly Fun Thing I'll Never Do Again</i>, David Foster Wallace</b> ⭐️⭐️⭐️⭐️⭐️ I am vindicated as a cruise ship hater. Ever heard of Norovirus? This essay isn't about Noro, but I certainly am about avoiding it.</li>
+      <li><b><i>Something To Do With Paying Attention</i>, David Foster Wallace</b> ⭐️⭐️⭐️⭐️⭐️, in another life I work for the IRS</li>
+      <li><b><i>Infinite Jest</i>, David Foster Wallace</b> ⭐️⭐️, you've got to be fucking kidding me. You are the punchline if you try to read this. Did not finish.</li>
+      <li><b><i>Calypso</i>, David Sedaris</b> ⭐️⭐️⭐️⭐️⭐️, I met him and he signed my copy! </li>
+      <li><b><i>Breakfast of Champions</i>, Kurt Vonnegut</b> ⭐️⭐️⭐️⭐️⭐️</li>
+      <li><b><i>Slaughterhouse Five</i>, Kurt Vonnegut</b> ⭐️⭐️⭐️⭐️⭐️</li>
+      <li><b><i>A Farewell to Arms</i>, Ernest Hemingway</b> ⭐️⭐️⭐️⭐️⭐️</li>
+      <li><b><i>Spare</i>, Prince Harry</b> ⭐️⭐️⭐️⭐️, Good stories, next time write it yourself you coward</li>
+      <li><b><i>Operating System Concept Essentials</i>, Silberschatz, Galvin & Gagne</b> ⭐️⭐️⭐️⭐️, "baby's first OS book", good for when <a href="https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468">LKD</a> has you in tears and you need to go back to the basics. </li>
+      <li><b><i>The Charm School</i>, Nelson DeMille</b> ⭐️⭐️⭐️⭐️, compelling but doesn't age well in some places.</li>
+      <li><b><i>Signal Fires</i>, Dani Shapiro</b> ⭐️⭐️⭐️, I think I was just confused by this book. I do not understand what it was trying to say. A story with no conclusion.</li>
+      <li><b><i>Invisible Things</i>, Mat Johnson</b> ⭐️⭐️, sci-fi, kind of a flat allegorical tale</li>
+      <li><b><i>The Wizard of Lies</i>, Diana B. Henriques </b> ⭐️⭐️⭐️⭐️</li>
+      <li><b><i>Revenge of the Tipping Point</i>, Malcolm Gladwell </b> ⭐️⭐️⭐️⭐️⭐️, Currently reading, I like it so far.</li>
+      <li><b><i>Flatland</i>, Edwin Abbott Abbott </b> ⭐️⭐️⭐️⭐️⭐️</li>
+    </ul>
+  </p>
+  
   <h3 id="09012025-italy">9 January 2025: Trip Report II - Italy </h3>
   <p>Now, I think it would be kind of ignorant to directly compare France and Italy. They have different cultures, economies, and geographies -- to name a few things. But we did conclude our trip with 3.5 days in Rome and 2.5 days in Milan, and I would be more cautious to recommend these destinations based on what you want in a trip. </p>
 
@@ -139,6 +164,7 @@
     <li><a href="https://www.airliners.net/forum/viewtopic.php?t=761675"> Have you ever been on a Boeing 737-ER900 and it made an awful sound on takeoff and you panic-googled it using the in flight wifi? </a></li>
     <li><a href="https://mashable.com/article/lorde-jack-antonoff-powerpoint?test_uuid=01iI2GpryXngy77uIpA3Y4B&test_variant=b"> Did Lorde and Jack Antonoff date? While Lena Dunham was away campaigning for Hillary 2016, thus distracting from her efforts and causing, well, all of this? Is Liability a really, really good song?</a></li>
     <li><a href="https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40">Color palettes that are accessible for those with colorblindness (I know very little about UI design, but I do know that you need to be careful how you use colors to communicate serious information!)</a></li>
+    <li><a href="https://www.politico.com/magazine/story/2016/09/were-the-only-plane-in-the-sky-214230/">We're The Only Plane in the Sky</a></li>
  </ul>
   </p>
   
