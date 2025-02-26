@@ -64,7 +64,7 @@
       <li><b><i>Spare</i>, Prince Harry</b> ⭐️⭐️⭐️⭐️, Good stories, next time write it yourself you coward</li>
       <li><b><i>Operating System Concept Essentials</i>, Silberschatz, Galvin & Gagne</b> ⭐️⭐️⭐️⭐️, "baby's first OS book", good for when <a href="https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468">LKD</a> has you in tears and you need to go back to the basics. </li>
       <li><b><i>The Charm School</i>, Nelson DeMille</b> ⭐️⭐️⭐️⭐️, compelling but doesn't age well in some places.</li>
-      <li><b><i>Signal Fires</i>, Dani Shapiro</b> ⭐️⭐️⭐️, I think I was just confused by this book. I do not understand what it was trying to say. A story with no conclusion.</li>
+      <li><b><i>Signal Fires</i>, Dani Shapiro</b> ⭐️⭐️, I think I was just confused by this book. I do not understand what it was trying to say. A story with no conclusion.</li>
       <li><b><i>Invisible Things</i>, Mat Johnson</b> ⭐️⭐️, sci-fi, kind of a flat allegorical tale</li>
       <li><b><i>The Wizard of Lies</i>, Diana B. Henriques </b> ⭐️⭐️⭐️⭐️</li>
       <li><b><i>Revenge of the Tipping Point</i>, Malcolm Gladwell </b> ⭐️⭐️⭐️⭐️⭐️, Currently reading, I like it so far.</li>
