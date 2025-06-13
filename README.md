@@ -6,7 +6,7 @@
 - 🛠️ I’m currently working on Java apps and blog posts 
 - 💬 Ask me about security 
 - 🪴 House plant collector
-- 👯 I’m looking to collaborate on getting Ws in Black Ops 6
+- 👯 I’m looking to collaborate on getting Ws in Verdansk 🎮
 - 📫 How to reach me: <span>sarahc</span><span>.</span><span>io</span><span>.</span><span>contact</span><span>[at]</span><span>gmail</span>
 
 
@@ -16,6 +16,7 @@
 
 <!--<h3>Table of Contents</h3> --> 
   <ul>
+    <li><a href="#12062025-trash">👩🏻‍💻 12 June 2025: One Man's Trash</a></li>
     <li><a href="#25022025-books">👩🏻‍💻 25 February 2025: Book Reviews (Running List)</a></li>
     <li><a href="#09012025-italy">👩🏻‍💻 9 January 2025: Trip Report II - Italy</a></li>
     <li><a href="#09012025-paris">👩🏻‍💻 9 January 2025: Trip Report I - Paris</a></li>
@@ -47,7 +48,21 @@
     <li><a href="#27202020-tests">💻 27 Feb 2020: On Writing Good Unit Tests</a></li>
     <li><a href="#00002020-goals">💻 5 Things I Want to Learn (or improve) in 2020</a></li>
   </ul>
-  
+  <h3 id="12062025-trash">12 June 2025: One Man's Trash </h3>
+  <p> Season 2, Episode 5 of HBO's <i>Girls</i>.</p>
+  <p> It breaks my heart that Hannah never became anyone's treasure.</p>
+
+  <p> It would have been on-the-nose (and way too early in the series) to mark Hannah's weekend with a divorced 42-year-old doctor as <i>the</i> turning point in her journey of self-actualization. But for a moment, when she was crying in Joshua's arms in the upstairs of his million+ dollar brownstone, it felt like she was getting there. "I realize I'm not different, you know? I want what everyone wants. I want what they all want. I want all the things. I just want to be happy," she cried.</p>
+  <p> Joshua reassures her in this scene that <i>of course</i> she wants to be happy. 
+  But in this moment the Voice Of Our Generation does it once again: Dunham captures a feeling that, for some of the audience, will camoflauge as typical Hannah weirdness, but for others, will strike so close to our innermost selves that we can hardly bear thinking about this episode again until we are approaching 30 and are ourselves happy. </p>
+
+  <p> I know this because I know Joshuas, and I know Hannahs. Whether it's a result of a particular upbringing, or an internalized attempt at rejecting the deep injustices that define our world, or just some sort of arbitrary brain short-circuiting, there are some people for whom the desire to be happy is not obvious. It makes sense that a left-leaning, educated twenty-something like Hannah would be <i>a Hannah</i>. <i>Girls</i> is all about the growing pains of becoming yourself in a world where you have been so blessed with your education and friends and family and life experiences, and yet you still feel like the world is hard and everybody is laughing at you. The cultural undercurrent wants you to rebel. It promises that you can be different: you can be an artist or an activist. You can date oddballs and have complex friendships. You can choose to be <i>laughed at</i> in the rat race or <i>laughed with<i> among friends who are facing the same struggles. It's a tempting offer to reject the pursuit of happiness, but if you go too far off the beaten path, you'll forget that extra suffering isn't mandatory.</p>
+
+  <p> Dunham hits us with one final blow in the penultimate episode of the series. And it's something that is already obvious to the Joshuas of this world: when you only associate with people who don't want to be happy, they are not going to be happy for you either. In some ways, Season 6 Episode 9, "Goodbye Tour," is a direct sequel to this one. Shosh leaves the friend group to start her married life, finally verbalizing the things left unsaid by "One Man's Trash." </p>
+
+  <p><small> I am writing this post fresh off attending <i>Death Sex & Money Live Episode with Guest Allison Williams</i> at the <a href="https://www.tribecafilm.com/films/death-sex-money-live-episode-with-guest-allison-williams-2025">Tribeca Festival</a>. It was incredible to see Allison Williams live, talking about Girls so many years later. The hosts of the Girls Rewatch Podcast were also there, and when it was time for Allison Williams to ask <i>them</i> an interview question, she asked what their favorite romance was from the show. Amelia's answer: Jessa and Adam. Evan's answer: Hannah and Adam. My answer to myself: Hannah and Joshua. </small></p>
+
+
   <h3 id="25022025-books">25 February 2025: Book Reviews (Running List) </h3>
   <p> You know, like Goodreads, but I wanted to do it myself and type the markup by hand.
     <ul>
@@ -67,7 +82,7 @@
       <li><b><i>Signal Fires</i>, Dani Shapiro</b> ⭐️⭐️, I think I was just confused by this book. I do not understand what it was trying to say. A story with no conclusion.</li>
       <li><b><i>Invisible Things</i>, Mat Johnson</b> ⭐️⭐️, sci-fi, kind of a flat allegorical tale</li>
       <li><b><i>The Wizard of Lies</i>, Diana B. Henriques </b> ⭐️⭐️⭐️⭐️</li>
-      <li><b><i>Revenge of the Tipping Point</i>, Malcolm Gladwell </b> ⭐️⭐️⭐️⭐️⭐️, Currently reading, I like it so far.</li>
+      <li><b><i>Revenge of the Tipping Point</i>, Malcolm Gladwell </b> ⭐️⭐️⭐️⭐️⭐️, This was great. Spells out some of the secrets of college admissions (I call this out because it was the most shocking part) and weaves together an interesting story about tipping points. I will say, Gladwell has an interesting way of weaving stories -- sometimes in ways that feel, <i>to me</i> at least, like pareidolia (or overfitting, if you will).</li>
       <li><b><i>Flatland</i>, Edwin Abbott Abbott </b> ⭐️⭐️⭐️⭐️⭐️</li>
     </ul>
   </p>
