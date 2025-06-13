@@ -52,7 +52,7 @@
   <p> Season 2, Episode 5 of HBO's <i>Girls</i>.</p>
   <p> It breaks my heart that Hannah never became anyone's treasure.</p>
 
-  <p> It would have been on-the-nose (and way too early in the series) to mark Hannah's weekend with a divorced 42-year-old doctor as <i>the</i> turning point in her journey of self-actualization. But for a moment, when she was crying in Dr. Joshua's arms in the upstairs of his multi-million dollar brownstone, it felt like she was getting there. "I realize I'm not different, you know? I want what everyone wants. I want what they all want. I want all the things. I just want to be happy," she cried.</p>
+  <p> It would have been on-the-nose (and way too early in the series) to mark Hannah's weekend with a divorced 42-year-old doctor as <i>the</i> turning point in her journey of self-actualization. But for a moment, when she's crying in Dr. Joshua's arms in the upstairs of his multi-million dollar brownstone, she almost has an epiphany. "I realize I'm not different, you know? I want what everyone wants. I want what they all want. I want all the things. I just want to be happy," she cried.</p>
   <p> Joshua reassures her in this scene that <i>of course</i> she wants to be happy. 
   But in this moment the Voice Of Our Generation does it once again: Dunham captures a feeling that, for some of the audience, will camoflauge as typical Hannah weirdness, but for others, will strike so close to our innermost selves that we can hardly bear thinking about this episode again until we are approaching 30 and are ourselves happy. </p>
 
