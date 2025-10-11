@@ -74,8 +74,6 @@
   
   <p>Even if you don't want to believe that the research is sound, it also lines up with theory. We know that carbohydrates and protein cause a rise in blood glucose, and that the pancreas releases inslin in response. We also know that different foods are made up of different types of carbohydrates (which THIS EPISODE OF THE PODCAST POINTED OUT -- e.g. fructose vs. glucose cause different rises in blood sugar), and that often foods actually inherently have multiple macronutrients present (the "combining foods" argument). It stands to reason that an apple, which contains fructose and fiber, would cause a slower rise in blood sugar than sucrose (table sugar) would. And wouldn't you know it, an apple's GI is ~40 while sucrose's is ~60 [4]. This is science, and Maintenance Phase is pretending it's not. </p>
 
-  <p>Maintenance Phase goes on to mention more <i>almost</i> relevant things, like how the American Diabetes Association recommends using GI for diabetes prevention but not treatment (not sure how that makes their point -- I would argue that information that helps prevent diabetes is very useful), and how people with diabetes, insulin resistance, and PCOS are looking at GI differently than healthy individuals. Perhaps those without metabolic issues are not thinking very hard about GI, but that doesn't make it useless to know what a food's GI is. </p>
-
   <p>To wrap up the GI segment of their sugar episode, Gordon and Hobbes share this grating exchange: </p>
 
   <p style="margin-left: 15px;"><b>Aubrey:</b> The last thing I'll say on this point is that the glycemic index also isn't recommended for individual use by the American Diabetes Association for people with diabetes. They rate the current data as poor quality. There is some evidence that the glycemic index may be helpful in prevention, but it is not recommended in treatment. So, again, the folks who ostensibly need it the most are not recommended to use this as their tool for deciding what to eat.</p>
@@ -88,7 +86,7 @@
 
   <p style="margin-left: 15px;"><b>Aubrey:</b> These conversations are mostly happening among people who are not diabetic, don't have PCOS, and don't necessarily have insulin resistance. So, they're mostly people, as a result, who have a very imprecise understanding of blood glucose and how it all works. </p>
 
-  <p>It doesn't break down when you go to a restaurant -- and this is exactly what I mean by <b>missing the point</b>. It's how you know to order whole wheat toast with peanut butter instead of dry white toast. It's useful for me. BAM! Disproved you by counterexample, podcast over. </p>
+  <p>It doesn't break down when you go to a restaurant -- and this is exactly what I mean by <b>missing the point</b>. It's how you know to order whole wheat toast with peanut butter instead of dry white toast. It's useful for me, and for anyone working to keep their blood sugar controlled, to prevent diabetes. BAM! Disproved you by counterexample, podcast over. </p>
 
   <h4>References:</h4>
   <ol>
