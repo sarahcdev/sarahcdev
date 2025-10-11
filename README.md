@@ -16,6 +16,8 @@
 
 <!--<h3>Table of Contents</h3> --> 
   <ul>
+    <li><a href="#">👩🏻‍💻 </a></li>
+    <li><a href="#11102025-maintenance">👩🏻‍💻 12 October 2025: Maintenance Phase: A Masterclass in Missing The Point</a></li>
     <li><a href="#12062025-trash">👩🏻‍💻 12 June 2025: One Man's Trash</a></li>
     <li><a href="#25022025-books">👩🏻‍💻 25 February 2025: Book Reviews (Running List)</a></li>
     <li><a href="#09012025-italy">👩🏻‍💻 9 January 2025: Trip Report II - Italy</a></li>
@@ -48,6 +50,58 @@
     <li><a href="#27202020-tests">💻 27 Feb 2020: On Writing Good Unit Tests</a></li>
     <li><a href="#00002020-goals">💻 5 Things I Want to Learn (or improve) in 2020</a></li>
   </ul>
+
+
+  <h3 id="11102025-maintenance">11 October 2025: Maintenance Phase: A Masterclass in Missing The Point </h3>
+  
+  <p>I'm not a doctor, but neither are the hosts of the hit podcast, Maintenance Phase. </p>
+  
+  <p>And before I start talking about where I think these podcast hosts go astray, I want to be really clear that I <b>generally agree with the overarching themes and goals of this podcast.</b> I love that they are challenging the narrative that fat people are lazy, nutrition is simple, and health is a guaranteed outcome of thinness. But I wish they would be intellectually honest with us, pointing out the real, glaring flaws in the diagnostic methods, metrics, and conclusions our medical professionals use to predict health outcomes related to weight. Instead, Aubrey Gordon and Michael Hobbes consistently miss the point, honing in on strange details and cherry picking facts to conform to a narrative -- not unlike what they accuse the medical system and society at large of doing every day. </p>
+  
+  <p>This podcast treats medical knowledge like it can be disproven by counterexample: if there's health guidance for the general population, but Hobbes and Gordon can find 1 person for whom the advice does not work, then the advce must be incorrect. That's just not how biology works. Hobbes is usually the moderating voice, deferring to fact, even if he and Gordon both quickly gloss over that fact to get to their next point.</p>
+
+  <p>For me, listening to this podcast is sort of like tuning into a true crime podcast. It starts off making a lot of sense: there's a nice hook that gets you invested, then there's background, and BAM! A twist! It's not what you expected, it's actually the opposite! This is a fun little mind game because you go, "Ooooh, how could HE be the killer, when he had an alibi this whole time?" That's where it falls apart. Because instead of explaining how the alibi was false, the podcast hosts tell you that the guy who invented alibis was actually an idiot, and only X% of alibis are true, and therefore this alibi is probably not true, case closed podcast over! And sure, they are getting at an important point here about false alibis. But they are missing the point that alibis are a well-established defense based on the actual innocence of the accused. And worse, we are no closer to knowing who the real culprit is. </p>
+
+  <p>I have noticed these reasoning flaws in multiple episodes, but I want to focus on the sugar episode's treatment of the Glycemic Index, as it is a clear-cut example of Maintenance Phase missing the point in a harmful way.</p>
+
+  <h4>The Trouble With "The Trouble With Sugar" </h4>
+  <p>In "The Trouble With Sugar" [1], Maintenance Phase dives into 3 "myths" about sugar: 1. Sugar makes kids hyperactive, 2. Sugar's measurable effect on blood glucose, AKA the Glycemic Index ("GI"), is a useful measure, and 3. Sugar is addictive. I want to focus on the Glycemic Index, because they way Hobbes and Gordon explain it makes no fucking sense, and lean heavily on technicalities that cannot be extrapolated to actually disprove the usefuless of the GI.</p>
+
+  <p>Gordon starts out by trying to disprove the methodology of the original 1981 paper on GI by Jenkins [2]. She tries to claim that, because the study participants ate measured amounts of individual foods in isolation after a period of fasting, the resulting rise in blood sugar is not a useful measure, since people do not tend to eat a single food by itself. (It's not important here, but people eat one single food in isolation as a snack all the time.) She further claims (correctly) that there are sources of variance here -- the individual's metabolism and chewing, as well as the way the food is prepared and whether it is combined with other foods. But I would argue that those last two are precisely why the GI is useful: it helps people, on an individual basis, decide what to eat and how to prepare and combine it to manage their individual blood sugar needs. </p>
+
+  <p>The next point, that the GI is not useful on a population level because of individual differences in metabolism, is one of those technicalities that this podcast loves to weaponize dishonestly. You could "disprove" any scientific study that uses living organisms as subjects if any amount of individual variance rendered the data useless. </p>
+
+  <p> She notes that the original study only had 5 to 10 volunteers, which is indeed a small sample size. The "small sample size" complaint is another technicality that Maintenance Phase often uses to try to discredit research it does not like (sometimes incorrectly, as now). Sure, the original, seminal study had a small sample size. But Gordon conveniently leaves out the decades of research that have happened between 1981 and now which validate the 1981 research. The Sydney University Glycemic Index Research Service (SUGiRS), which maintains a GI database, is actively conducting research on the GI, Glycemic Load, and Insulin Index of foods [3]. To measure the GI of a new food for its index, SUGiRS recruits a cohort of 10 healthy volunteers, much like the original Jenkins study. These are not the <i>same</i> 10 people across every study. This is also repeatable research. You could do it at home with a continuous glucose monitor and 9 of your closest healthy friends. Report back if you make a discovery. </p>
+  
+  <p>Even if you don't want to believe that the research is sound, it also lines up with theory. We know that carbohydrates and protein cause a rise in blood glucose, and that the pancreas releases inslin in response. We also know that different foods are made up of different types of carbohydrates (which THIS EPISODE OF THE PODCAST POINTED OUT -- e.g. fructose vs. glucose cause different rises in blood sugar), and that often foods actually inherently have multiple macronutrients present (the "combining foods" argument). It stands to reason that an apple, which contains fructose and fiber, would cause a slower rise in blood sugar than sucrose (table sugar) would. And wouldn't you know it, an apple's GI is ~40 while sucrose's is ~60 [4]. This is science, and Maintenance Phase is pretending it's not. </p>
+
+  <p>Maintenance Phase goes on to mention more <i>almost</i> relevant things, like how the American Diabetes Association recommends using GI for diabetes prevention but not treatment (not sure how that makes their point -- I would argue that information that helps prevent diabetes is very useful), and how people with diabetes, insulin resistance, and PCOS are looking at GI differently than healthy individuals. Perhaps those without metabolic issues are not thinking very hard about GI, but that doesn't make it useless to know what a food's GI is. </p>
+
+  <p>To wrap up the GI segment of their sugar episode, Gordon and Hobbes share this grating exchange: </p>
+
+  <p style="margin-left: 15px;"><b>Aubrey:</b> The last thing I'll say on this point is that the glycemic index also isn't recommended for individual use by the American Diabetes Association for people with diabetes. They rate the current data as poor quality. There is some evidence that the glycemic index may be helpful in prevention, but it is not recommended in treatment. So, again, the folks who ostensibly need it the most are not recommended to use this as their tool for deciding what to eat.</p>
+  
+  <p style="margin-left: 15px;"><b>Michael:</b> So, basically, it's like any other framework, I guess, where it's maybe useful in certain circumstances. Maybe people use it and like it and that's fine, but as a population level recommendation, it just isn't very meaningful.</p>
+  
+  <p style="margin-left: 15px;"><b>Aubrey</b>: Yeah, and it's hard to figure out. It's not very intuitive. You have to have these tables with all these pages and pages of results. </p>
+  
+  <p style="margin-left: 15px;"><b>Michael:</b> And then, of course, all that stuff breaks down too as soon as you go to a fucking restaurant. <p>
+
+  <p style="margin-left: 15px;"><b>Aubrey:</b> These conversations are mostly happening among people who are not diabetic, don't have PCOS, and don't necessarily have insulin resistance. So, they're mostly people, as a result, who have a very imprecise understanding of blood glucose and how it all works. </p>
+
+  <p>It doesn't break down when you go to a restaurant -- and this is exactly what I mean by <b>missing the point</b>. It's how you know to order whole wheat toast with peanut butter instead of dry white toast. It's useful for me. BAM! Disproved you by counterexample, podcast over. </p>
+
+  <h4>References:</h4>
+  <ol>
+    <li>Gordon A, Hobbes M. The Trouble With Sugar. Maintenance Phase. Spotify. April 11, 2023.  Accessed October 11, 2025. https://maintenancephase.buzzsprout.com/1411126/episodes/12623830-the-trouble-with-sugar </li>
+    <li>Jenkins DJ, Wolever TM, Taylor RH, et al. Glycemic index of foods: a physiological basis for carbohydrate exchange. Am J Clin Nutr. 1981;34(3):362-366. doi:10.1093/ajcn/34.3.362</li>
+    <li>Glycemic Index Testing & Research. The University of Sydney - Glycemic Index Research and GI News. Accessed October 11, 2025. https://glycemicindex.com/glycemic-index-testing-research/. </li>
+    <li>GI Search – Glycemic Index. The University of Sydney - Glycemic Index Research and GI News. Accessed October 11, 2025. https://glycemicindex.com/gi-search/. </li>
+  </ol>
+
+
+
+
   <h3 id="12062025-trash">12 June 2025: One Man's Trash </h3>
   <p> Season 2, Episode 5 of HBO's <i>Girls</i>.</p>
   <p> It breaks my heart that Hannah never became anyone's treasure.</p>
