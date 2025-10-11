@@ -16,7 +16,7 @@
 
 <!--<h3>Table of Contents</h3> --> 
   <ul>
-    <li><a href="#11102025-maintenance">👩🏻‍💻 12 October 2025: Maintenance Phase: A Masterclass in Missing The Point</a></li>
+    <li><a href="#11102025-maintenance">👩🏻‍💻 11 October 2025: Maintenance Phase: A Masterclass in Missing The Point</a></li>
     <li><a href="#12062025-trash">👩🏻‍💻 12 June 2025: One Man's Trash</a></li>
     <li><a href="#25022025-books">👩🏻‍💻 25 February 2025: Book Reviews (Running List)</a></li>
     <li><a href="#09012025-italy">👩🏻‍💻 9 January 2025: Trip Report II - Italy</a></li>
