@@ -16,6 +16,7 @@
 
 <!--<h3>Table of Contents</h3> --> 
   <ul>
+    <li><a href="#01112025-tcc">💻 1 November 2025: I would like to speak to the manager (the TCC database)</a></li>
     <li><a href="#11102025-maintenance">👩🏻‍💻 11 October 2025: Maintenance Phase: A Masterclass in Missing The Point</a></li>
     <li><a href="#12062025-trash">👩🏻‍💻 12 June 2025: One Man's Trash</a></li>
     <li><a href="#25022025-books">👩🏻‍💻 25 February 2025: Book Reviews (Running List)</a></li>
@@ -51,11 +52,32 @@
   </ul>
 
 
+
+  <h3 id="01112025-tcc">💻 1 November 2025: I would like to speak to the manager (the TCC database) </h3>
+
+  <p>What do you MEAN I can't see the Documents folder from my own terminal? Today I was trying to shift some files around, as one does, on my MacBook. Imagine my surprise when the terminal told me it couldn't find a subfolder of my Documents folder that I know is there because I can see it in Finder. </p>
+
+  <p>Apparently the Terminal is treated like any other app, and not part of the system, so it needs explicit permissions to access the Desktop, Documents, and Downloads [1][2]. This is because of the TCC (Transparency, Consent, and Control) Framework introduced in 10.8, which was released approximately 2 years before I got my first MacBook. I don't know how I didn't notice this until now. </p>
+
+  <p>My first instinct is to argue about it. I understand the principle of least privilege, and this is certainly that. Sure, if something or someone gets control of your applications, this is protective of your Three D's, unless and until you grant explicit permissions to that app. But the Terminal ships with the OS! This is not some unsigned application you got from cool-games-definitely-not-a-virus-trust-me-bro-dot-com! I guess the rebuttal would be that it could still have vulnerabilities, and it has quite a large attack surface as the place where people random copy + paste commands from Google. And I guess that's the cool thing about the Apple ecosystem. It's not perfect, but it's got some clever ways to look out for you, even when you are dumb and tired and it's late at night.
+
+  <p>This was a fun rabbit hole. I found some great [3] articles [4] about TCC and what it's like in the TCC database. Of course even as root I'm not able to see the TCC database file without some shenanigans so I'm going to quit while I'm behind (by 13 years) and go to bed. </p>
+
+  <p>
+    <ol>
+      <li> https://apple.stackexchange.com/questions/395631/allow-all-applications-to-access-desktop-documents-and-downloads-in-catalina
+      <li> https://apple.stackexchange.com/questions/451576/why-cant-i-see-documents-directory-from-command-line-i-could-yesterday
+      <li> https://www.huntress.com/blog/full-transparency-controlling-apples-tcc
+      <li> https://www.rainforestqa.com/blog/macos-tcc-db-deep-dive
+    </ol>
+  </p>
+
+
   <h3 id="11102025-maintenance">11 October 2025: Maintenance Phase: A Masterclass in Missing The Point </h3>
   
   <p>I'm not a doctor, but neither are the hosts of the hit podcast, Maintenance Phase. </p>
   
-  <p>And before I start talking about where I think these podcast hosts go astray, I want to be really clear that I <b>generally agree with the overarching themes and goals of this podcast.</b> I love that they are challenging the narrative that fat people are lazy, nutrition is simple, and health is a guaranteed outcome of thinness. But I wish they would be intellectually honest with us, pointing out the real, glaring flaws in the diagnostic methods, metrics, and conclusions our medical professionals use to predict health outcomes related to weight. Instead, Aubrey Gordon and Michael Hobbes consistently miss the point, honing in on strange details and cherry picking facts to conform to a narrative -- not unlike what they accuse the medical system and society at large of doing every day. </p>
+  <p>And before I start talking about where I think these podcast hosts go astray, I want to be really clear that I <b>generally agree with the overarching themes and goals of this podcast.</b> I love that they are challenging the narratives around weight, health, and nutrition. But I wish they would be intellectually honest with us, pointing out the real, glaring flaws in the diagnostic methods, metrics, and conclusions our medical professionals use to predict health outcomes related to weight. Instead, Aubrey Gordon and Michael Hobbes consistently miss the point, honing in on strange details and cherry picking facts to conform to their own narrative -- not unlike what they accuse the medical system and society at large of doing every day. </p>
   
   <p>This podcast treats medical knowledge like it can be disproven by counterexample: if there's health guidance for the general population, but Hobbes and Gordon can find 1 person for whom the advice does not work, then the advce must be incorrect. That's just not how biology works. Additionally, they hunt for small (often inconsequential) flaws research methodologies to convince their audience that an entire paper or field is wrong about something very big. Hobbes is usually the moderating voice here, deferring to fact, even if he and Gordon both quickly gloss over that fact to get to their next point.</p>
 
@@ -70,7 +92,7 @@
 
   <p>The next point, that the GI is not useful on a population level because of individual differences in metabolism, is one of those technicalities that this podcast loves to weaponize dishonestly. You could "disprove" any scientific study that uses living organisms as subjects if any amount of individual variance rendered the data useless. </p>
 
-  <p> She notes that the original study only had 5 to 10 volunteers, which is indeed a small sample size. The "small sample size" complaint is another technicality that Maintenance Phase often uses to try to discredit research it does not like (sometimes incorrectly, as now). Sure, the original, seminal study had a small sample size. But Gordon conveniently leaves out the decades of research that have happened between 1981 and now which validate the 1981 research. The Sydney University Glycemic Index Research Service (SUGiRS), which maintains a GI database, is actively conducting research on the GI, Glycemic Load, and Insulin Index of foods [3]. To measure the GI of a new food for its index, SUGiRS recruits a cohort of 10 healthy volunteers, much like the original Jenkins study. These are not the <i>same</i> 10 people across every study. This is also repeatable research. You could do it at home with a continuous glucose monitor and 9 of your closest healthy friends. Report back if you make a discovery. </p>
+  <p> She notes that the original study only had 5 to 10 volunteers, which is indeed a small sample size. The "small sample size" complaint is another technicality that Maintenance Phase often uses to try to discredit research it does not like (sometimes incorrectly, as now). Sure, the original, seminal study had a small sample size. But Gordon conveniently leaves out the decades of research that have happened between 1981 and now which validate the 1981 research. The Sydney University Glycemic Index Research Service (SUGiRS), which maintains a GI database, is actively conducting research on the GI, Glycemic Load, and Insulin Index of foods [3]. To measure the GI of a new food for its index, SUGiRS recruits a cohort of 10 healthy volunteers, much like the original Jenkins study. These are not the <i>same</i> 10 people across every study. This is also repeatable research. You could do it at home with a continuous glucose monitor and 9 of your closest friends. Report back if you make a discovery. </p>
 
   <p>If you do actually have a continuous glucose monitor ("CGM"), you can build your own personal GI. Then you can ignore broad GI recommendations and just maintain a low GI/GL diet for your individual body. Even better! But not everyone has a CGM, so a database such as SUGiRS' is probably the next-best approximation we have. Is Maintenance Phase really arguing that the GI does not provide useful guidance at the population level at all? </p>
   
@@ -88,7 +110,7 @@
 
   <p style="margin-left: 15px;"><b>Aubrey:</b> These conversations are mostly happening among people who are not diabetic, don't have PCOS, and don't necessarily have insulin resistance. So, they're mostly people, as a result, who have a very imprecise understanding of blood glucose and how it all works. </p>
 
-  <p>It doesn't break down when you go to a restaurant -- and this is exactly what I mean by <b>missing the point</b>. It's how you know to order whole wheat toast with peanut butter instead of dry white toast. It's useful for me, and for anyone working to keep their blood sugar controlled, to prevent diabetes. BAM! Disproved you by counterexample, podcast over. </p>
+  <p>It doesn't break down when you go to a restaurant -- and this is exactly what I mean by <b>missing the point</b>. It's how you know to combine foods, and which ones, if you are trying to control blood sugar spikes. It's useful for me, and for anyone working to keep their blood sugar controlled, to prevent diabetes. BAM! Disproved you by counterexample, podcast over. </p>
 
   <h4>References:</h4>
   <ol>
