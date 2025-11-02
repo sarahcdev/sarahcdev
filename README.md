@@ -65,10 +65,10 @@
 
   <p>
     <ol>
-      <li> https://apple.stackexchange.com/questions/395631/allow-all-applications-to-access-desktop-documents-and-downloads-in-catalina
-      <li> https://apple.stackexchange.com/questions/451576/why-cant-i-see-documents-directory-from-command-line-i-could-yesterday
-      <li> https://www.huntress.com/blog/full-transparency-controlling-apples-tcc
-      <li> https://www.rainforestqa.com/blog/macos-tcc-db-deep-dive
+      <li> https://apple.stackexchange.com/questions/395631/allow-all-applications-to-access-desktop-documents-and-downloads-in-catalina </li>
+      <li> https://apple.stackexchange.com/questions/451576/why-cant-i-see-documents-directory-from-command-line-i-could-yesterday </li>
+      <li> https://www.huntress.com/blog/full-transparency-controlling-apples-tcc </li>
+      <li> https://www.rainforestqa.com/blog/macos-tcc-db-deep-dive </li>
     </ol>
   </p>
 
