@@ -3,10 +3,10 @@
 **sarahcdev/sarahcdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🛠️ I’m currently working on Java apps and blog posts 
+- 🛠️ Come for the technology, stay for the pop culture takes
 - 💬 Ask me about security 
-- 🪴 House plant collector
-- 👯 I’m looking to collaborate on getting Ws in Verdansk 🎮
+- 🪴 I will read anything you write, if you didn't use AI
+- 👯 Very bad CoD player 🎮
 - 📫 How to reach me: <span>sarahc</span><span>.</span><span>io</span><span>.</span><span>contact</span><span>[at]</span><span>gmail</span>
 
 
@@ -16,6 +16,7 @@
 
 <!--<h3>Table of Contents</h3> --> 
   <ul>
+    <li><a href="#20112025-elevator">💻 20 November 2025: Your Elevator Pitch (No, Not That One)</a></li>
     <li><a href="#01112025-tcc">💻 1 November 2025: I would like to speak to the manager (the TCC database)</a></li>
     <li><a href="#11102025-maintenance">👩🏻‍💻 11 October 2025: Maintenance Phase: A Masterclass in Missing The Point</a></li>
     <li><a href="#12062025-trash">👩🏻‍💻 12 June 2025: One Man's Trash</a></li>
@@ -52,6 +53,35 @@
   </ul>
 
 
+  <h3 id="20112025-elevator">💻 20 November 2025: Your Elevator Pitch (No, Not That One)</h3>
+
+  <p>Today I was speaking with a highly educated, highly intelligent, but not technical, person who had some questions about cybersecurity. I believe this person’s reasoning abilities far outpace my own and this is not a condescending post about how “nobody understands security.” This is a post about how I failed to adequately describe what should be a very simple concept to a very smart person. For that reason, I am proposing that security professionals work on some “elevator pitch” style explanations of core security concepts. </p>
+
+  <p>This person asked me why passkeys are better than MFA (I think they meant SMS OTP specifically). This exchange followed:</p>
+
+  <p>“Do you know about, like, cryptography?”
+  “No.”
+  “Do you know why prime numbers are important?”
+  “No.”
+  “Well they’re easy to validate but hard to compute— anyways. A passkey is a secret that is stored on your computer’s motherboard or in, say, a Yubikey. It’s secure there. Then when you need to log in somewhere, it does something called a digital signature which proves that you possess that secret. You have to physically have that secret to log in.”</p>
+
+  <p>They seemed to pick up as much as I could articulate, but I had trouble figuring out where to begin the explanation. What I really wanted to do was start from prime factorization and explain it all the way up, but it wasn’t the time for that. </p>
+
+  <p>They also asked about the relative security of SMS OTP and I was able to explain SIM Swapping decently well. </p>
+
+  <p>But all of this taught me that we, the security professionals, should have something a little better in our back pockets than endeavoring to teach public key cryptography from first principles when we get the rare opportunity to talk about all this boring shit. Even if the recipient of that lesson would have actually understood it and enthusiastically received it. </p>
+
+  <p>Think about how you would like a doctor to explain a diagnosis to you. You want to understand what’s going on, why, and what the options are. They need to meet you where you are in your understanding of medicine and biology so you feel like a partner in your own care. And they need to give you some recommendations while still recognizing your autonomy to ultimately decide how to proceed. </p>
+
+  <p>All risk exists on a spectrum and all mitigations have trade offs that may or may not fit into your lifestyle  — the same as in medicine. </p>
+
+  <p>I believe being a partner in their own security not only makes people more likely to adopt the right technologies to secure their digital lives, but it also opens the door for them to reason about their personal security posture and make informed decisions about their digital lives.  Who knows — maybe passkeys won’t be the particular recommendation forever, but an understanding of the core concepts around password theft, SIM Swapping for SMS OTP, and the safety of hardware keys could endure. </p>
+
+  <p>I also made sure to emphasize that _any_ MFA is better than none! I implore all of us to take the time to explain security and acknowledge the spectrum of risk, rather than roll our eyes and feign exasperation that somebody might not be on bank-grade security for their Dunkin Donuts app or whatever. </p>
+
+  <p>If I had another shot at explaining passkeys, I would say: a passkey, which is either stored on a dedicated motherboard chip or a hardware device like a Yubikey, is a secret. There is an algorithm by which you can prove that you possess the secret without actually exposing it. So it’s very easy to determine if you possess the secret, but the secret is secure and never exposed, making it almost impossible to steal or pretend to have it. And secrets are much more complex than passwords, so they are not really guessable in the same way that a bad password is.  </p>
+
+  <p>Maybe that’s still too much, but that’s the level of detail I would give somebody who was genuinely curious about the mechanism behind passkeys.</p>
 
   <h3 id="01112025-tcc">💻 1 November 2025: I would like to speak to the manager (the TCC database) </h3>
 
