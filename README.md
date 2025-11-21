@@ -5,8 +5,8 @@
 
 - 🛠️ Come for the technology, stay for the pop culture takes
 - 💬 Ask me about security 
-- 🪴 I will read anything you write, if you didn't use AI
-- 👯 Very bad CoD player 🎮
+- ✍️ I will read anything you write, if you didn't use AI
+- 👯 Playing BO7 but forever thinking about Cold War 🎮
 - 📫 How to reach me: <span>sarahc</span><span>.</span><span>io</span><span>.</span><span>contact</span><span>[at]</span><span>gmail</span>
 
 
@@ -263,7 +263,7 @@
       <li><b>Seine river cruise</b> [€ if it's just a sightseeing tour, €€€ if it's a dinner cruise] </li>
       <li><b>Galleries Lafayette and BHV Marais</b> [free if you just want to walk around, €-€€€ if you buy anything]</li>
       <li><b>Montmartre</b></li>
-      <li><b>Place Vendôme</b> [free]</b></li>
+      <li><b>Place Vendôme</b> [free]</li>
       <li><b>The Louvre But Not Just for the Mona Lisa</b> [€€]</li>
       <li><b>Pick a cafe or restaurant 1-2 miles from your hotel and just walk there through central Paris</b></li>
     </ol>  
