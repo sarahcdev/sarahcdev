@@ -59,11 +59,11 @@
 
   <p>This person asked me why passkeys are better than MFA (I think they meant SMS OTP specifically). This exchange followed:</p>
 
-  <p>“Do you know about, like, cryptography?”
-  “No.”
-  “Do you know why prime numbers are important?”
-  “No.”
-  “Well they’re easy to validate but hard to compute— anyways. A passkey is a secret that is stored on your computer’s motherboard or in, say, a Yubikey. It’s secure there. Then when you need to log in somewhere, it does something called a digital signature which proves that you possess that secret. You have to physically have that secret to log in.”</p>
+  <p style="margin-left: 15px;">“Do you know about, like, cryptography?”</p>
+  <p style="margin-left: 15px;">“No.”</p>
+  <p style="margin-left: 15px;">“Do you know why prime numbers are important?”</p>
+  <p style="margin-left: 15px;">“No.”</p>
+  <p style="margin-left: 15px;">“Well they’re easy to validate but hard to compute— anyways. A passkey is a secret that is stored on your computer’s motherboard or in, say, a Yubikey. It’s secure there. Then when you need to log in somewhere, it does something called a digital signature which proves that you possess that secret. You have to physically have that secret to log in.”</p>
 
   <p>They seemed to pick up as much as I could articulate, but I had trouble figuring out where to begin the explanation. What I really wanted to do was start from prime factorization and explain it all the way up, but it wasn’t the time for that. </p>
 
