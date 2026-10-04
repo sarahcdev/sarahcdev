@@ -5,17 +5,19 @@
 
 - 🛠️ Come for the technology, stay for the pop culture takes
 - 💬 Ask me about security 
-- ✍️ I will read anything you write, if you didn't use AI
+- ✍️ AI policy: I have a Claude subscription like everyone else, but every word you read here is from me. I chose it, awkward phrasing and all (see <a href="#12042023-grammarly">Grammarly</a> :))
 - 👯 Playing BO7 but forever thinking about Cold War 🎮
+- 🎧: Lorde, Bon Iver, 2000s club classics
 - 📫 How to reach me: <span>sarahc</span><span>.</span><span>io</span><span>.</span><span>contact</span><span>[at]</span><span>gmail</span>
 
 
 <h1> Blog </h1>
-<p>I mostly write about software, video games, current events, and whatever else is on my mind. <small>(These are my personal thoughts and they do not necessarily reflect the views of my employer.)</small></p>
+<p>I mostly write about software, video games, current events, and whatever else is on my mind.</p>
 <p>💻 = Tech, 🎮 = Gaming, 👩🏻‍💻 = Everything else; 📣 = My favorites</p>
 
 <!--<h3>Table of Contents</h3> --> 
   <ul>
+    <li><a href="#04102026-montreal">👩🏻‍💻 4 October 2026: Montreal Recommendations</a></li>
     <li><a href="#20112025-elevator">💻 20 November 2025: Your Elevator Pitch (No, Not That One)</a></li>
     <li><a href="#01112025-tcc">💻 1 November 2025: I would like to speak to the manager (the TCC database)</a></li>
     <li><a href="#11102025-maintenance">👩🏻‍💻 11 October 2025: Maintenance Phase: A Masterclass in Missing The Point</a></li>
@@ -51,6 +53,29 @@
     <li><a href="#27202020-tests">💻 27 Feb 2020: On Writing Good Unit Tests</a></li>
     <li><a href="#00002020-goals">💻 5 Things I Want to Learn (or improve) in 2020</a></li>
   </ul>
+
+  <h3 id="04102026-montreal">👩🏻‍💻 4 October 2026: Montreal Recommendations</h3>
+
+  <p>This is a late post, but in August I went to Montreal and had a great time! Here is the definitive, annotated guide to the 2-block radius of the Vieux-Port area where I was staying:</p>
+
+  <p>
+  <ul>
+    <li><b>Cafe 2nd Gen, </b><i>717 Rue William</i> ⭐️⭐️⭐️⭐️⭐️, I went here as many times as I could. Really incredible coffee including the Canadiano, which was my absolute favorite for both its taste and spirit.</li>
+    <li><b>Les Soeurs Grises, </b><i>32 Rue McGill</i> ⭐️⭐️⭐️⭐️, Fine for lunch. The taco fiesta platter was a lot of fun. </li>
+    <li><b>Marché des Éclusiers, </b><i>400 De la Commune St W</i> ⭐️⭐️⭐️, Some part of this was an outdoor bar with no shade. And that's where we ended up sitting on an extremely sunny day. Service was just confusing -- drinks coming out 30 minutes later and nobody could figure out who ordered them?  </li>
+    <li><b>Kyo Bar Japonais, </b><i>711 Côte de la Place-d'Armes</i> ⭐️⭐️⭐️⭐️⭐️, Great food and great service. </li>
+    <li><b>Notre-Dame Basilica of Montreal, </b><i>110 R. Notre Dame O</i> ⭐️⭐️⭐️⭐️⭐️, Only saw it from the outside, but it was beautiful. </li>
+    <li><b>Hotel St-Paul, </b><i>355 Rue McGill</i> ⭐️⭐️⭐️⭐️, Nice hotel, really great location. </li>
+    <li><b>Mandy's, </b><i>425 Rue Saint-Nicolas</i> ⭐️⭐️⭐️⭐️⭐️, Perfect. Wish we had this in New York, but we would probably ruin it.</li>
+    <li><b>Café Van Houtte, </b><i>100 Rue McGill</i> ⭐️⭐️⭐️, I have never been more confused trying to order a coffee in my life! Which counter? What kind of coffee do you have? Where am I?</li>
+    <li><b>Five Guys, </b><i>1232 Rue Peel</i> ⭐️⭐️⭐️⭐️, Came here as a backup option when other plans fell through. But it was good.</li>
+    <li><b>Pub Wolf & Workman, </b><i> 139 Rue St-Paul Ouest</i> ⭐️⭐️⭐️⭐️⭐️, Enjoyed this place and the cocktails. </li>
+    <li><b>Buvette Nicole</b><i>324 Rue St-Paul Ouest</i> ⭐️⭐️⭐️⭐️⭐️, So a group of us sat ourselves outside in one of those outdoor dining sheds, and the waiter came over and started giving us shit about taking over his patio and seating ourselves. It was very tense until our only francophone spoke up, and it became clear that the waiter was entertaining himself at our expense. Hilarious, and a little taste of France in French Canada. Perfect Aperol Spritz. Would go again. </li>
+    <li><b>49th Parallel, </b><i>488 Rue McGill</i> ⭐️⭐️⭐️⭐️⭐️, This place also had really good coffee AND they had vegan/gf donuts. </li>
+    <li><b>Every Restaurant at Montréal-Pierre Elliott Trudeau International Airport</b><i>975 Romeo Vachon Blvd N</i> ⭐️. What is going ON at this airport?! It was like stepping into another dimension where nobody actually understood what food was. As the delays to all NYC airports stacked up and the terminal got busy, I struggled to find a seat that wasn't doubling as somebody's open-mouth cough illness infirmary. I guess that part isn't the airport's fault, but the restaurants were. Pretty sure I ate expired salami that I purchased for NINETEEN CANADIAN DOLLARS and eventually I resorted to the emergency PB&J kit that I had packed in my bag THREE DAYS earlier. Mmm, stale gf bread and single-serve packets of warm natural peanut butter. My coworker physically removed himself from this situation when he saw me putting it together, and I don't blame him. </li>
+  </ul>
+
+  I really loved Montreal and I would go back. 
 
 
   <h3 id="20112025-elevator">💻 20 November 2025: Your Elevator Pitch (No, Not That One)</h3>
@@ -190,10 +215,12 @@
       <li><b><i>Operating System Concept Essentials</i>, Silberschatz, Galvin & Gagne</b> ⭐️⭐️⭐️⭐️, "baby's first OS book", good for when <a href="https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468">LKD</a> has you in tears and you need to go back to the basics. </li>
       <li><b><i>The Charm School</i>, Nelson DeMille</b> ⭐️⭐️⭐️⭐️, compelling but doesn't age well in some places.</li>
       <li><b><i>Signal Fires</i>, Dani Shapiro</b> ⭐️⭐️, I think I was just confused by this book. I do not understand what it was trying to say. A story with no conclusion.</li>
-      <li><b><i>Invisible Things</i>, Mat Johnson</b> ⭐️⭐️, sci-fi, kind of a flat allegorical tale</li>
+      <li><b><i>Invisible Things</i>, Mat Johnson</b> ⭐️⭐️, sci-fi, kind of a flat allegorical tale.</li>
       <li><b><i>The Wizard of Lies</i>, Diana B. Henriques </b> ⭐️⭐️⭐️⭐️</li>
       <li><b><i>Revenge of the Tipping Point</i>, Malcolm Gladwell </b> ⭐️⭐️⭐️⭐️⭐️, This was great. Spells out some of the secrets of college admissions (I call this out because it was the most shocking part) and weaves together an interesting story about tipping points. I will say, Gladwell has an interesting way of weaving stories -- sometimes in ways that feel, <i>to me</i> at least, like pareidolia (or overfitting, if you will).</li>
       <li><b><i>Flatland</i>, Edwin Abbott Abbott </b> ⭐️⭐️⭐️⭐️⭐️</li>
+      <li><b><i>Adult Braces</i>, Lindy West </b> ⭐️⭐️⭐️⭐️⭐️, and this will eventually be its own blog post. What a read.</li>
+      <li><b><i>Murder on the Orient Express</i>, Agatha Christie </b> ⭐️⭐️⭐️⭐️, this book was ok. Good, even. Fun to read on commuter rail. I felt compelled to read one of the classics and this was on prominent display at B&N. </li>
     </ul>
   </p>
   
