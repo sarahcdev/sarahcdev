@@ -61,18 +61,18 @@
   <p>
   <ul>
     <li><b>Cafe 2nd Gen, </b><i>717 Rue William</i> ⭐️⭐️⭐️⭐️⭐️, I went here as many times as I could. Really incredible coffee including the Canadiano, which was my absolute favorite for both its taste and spirit.</li>
-    <li><b>Les Soeurs Grises, </b><i>32 Rue McGill</i> ⭐️⭐️⭐️⭐️, Fine for lunch. The taco fiesta platter was a lot of fun. </li>
-    <li><b>Marché des Éclusiers, </b><i>400 De la Commune St W</i> ⭐️⭐️⭐️, Some part of this was an outdoor bar with no shade. And that's where we ended up sitting on an extremely sunny day. Service was just confusing -- drinks coming out 30 minutes later and nobody could figure out who ordered them?  </li>
+    <li><b>Les Soeurs Grises, </b><i>32 Rue McGill</i> ⭐️⭐️⭐️⭐️, This place gained some stars back for the Fiesta Taco Platter that I definitely encouraged my table mates to order. </li>
+    <li><b>Marché des Éclusiers, </b><i>400 De la Commune St W</i> ⭐️⭐️⭐️, Some part of this was an outdoor bar with no shade. And that's where we ended up sitting on an extremely sunny day. Drinks took 30+ minutes to arrive and were delivered to the wrong people.  </li>
     <li><b>Kyo Bar Japonais, </b><i>711 Côte de la Place-d'Armes</i> ⭐️⭐️⭐️⭐️⭐️, Great food and great service. </li>
     <li><b>Notre-Dame Basilica of Montreal, </b><i>110 R. Notre Dame O</i> ⭐️⭐️⭐️⭐️⭐️, Only saw it from the outside, but it was beautiful. </li>
-    <li><b>Hotel St-Paul, </b><i>355 Rue McGill</i> ⭐️⭐️⭐️⭐️, Nice hotel, really great location. </li>
+    <li><b>Hotel St-Paul, </b><i>355 Rue McGill</i> ⭐️⭐️⭐️⭐️, Location, location, location. </li>
     <li><b>Mandy's, </b><i>425 Rue Saint-Nicolas</i> ⭐️⭐️⭐️⭐️⭐️, Perfect. Wish we had this in New York, but we would probably ruin it.</li>
     <li><b>Café Van Houtte, </b><i>100 Rue McGill</i> ⭐️⭐️⭐️, I have never been more confused trying to order a coffee in my life! Which counter? What kind of coffee do you have? Where am I?</li>
-    <li><b>Five Guys, </b><i>1232 Rue Peel</i> ⭐️⭐️⭐️⭐️, Came here as a backup option when other plans fell through. But it was good.</li>
-    <li><b>Pub Wolf & Workman, </b><i> 139 Rue St-Paul Ouest</i> ⭐️⭐️⭐️⭐️, Enjoyed this place and the cocktails. </li>
+    <li><b>Five Guys, </b><i>1232 Rue Peel</i> ⭐️⭐️⭐️⭐️, 🤷🏻‍♀️</li>
+    <li><b>Pub Wolf & Workman, </b><i> 139 Rue St-Paul Ouest</i> ⭐️⭐️⭐️⭐️ </li>
     <li><b>Buvette Nicole, </b><i>324 Rue St-Paul Ouest</i> ⭐️⭐️⭐️⭐️⭐️, So a group of us sat ourselves outside in one of those outdoor dining sheds, and the waiter came over and started giving us shit about taking over his patio and seating ourselves. It was very tense until our only francophone spoke up, and it became clear that the waiter was entertaining himself at our expense. Hilarious, and a little taste of France in French Canada. Perfect Aperol Spritz. Would go again. </li>
     <li><b>49th Parallel, </b><i>488 Rue McGill</i> ⭐️⭐️⭐️⭐️⭐️, This place also had really good coffee AND they had vegan/gf donuts. </li>
-    <li><b>Every Restaurant at Montréal-Pierre Elliott Trudeau International Airport, </b><i>975 Romeo Vachon Blvd N</i> ⭐️. What is going ON at this airport?! It was like stepping into another dimension where nobody understood what food was. As the delays to all NYC airports stacked up and the terminal got busy, I struggled to find a seat that wasn't doubling as somebody's open-mouth cough illness infirmary. I guess that part isn't the airport's fault, but the restaurants were. Pretty sure I ate expired salami that I purchased for NINETEEN CANADIAN DOLLARS and eventually I resorted to the emergency PB&J kit that I had packed in my bag THREE DAYS earlier. Mmm, stale gf bread and single-serve packets of warm natural peanut butter. My coworker physically removed himself from this situation when he saw me constructing this abomination, and I don't blame him. </li>
+    <li><b>Every Restaurant at Montréal-Pierre Elliott Trudeau International Airport, </b><i>975 Romeo Vachon Blvd N</i> ⭐️. What is going ON at this airport?! It was like stepping into another dimension where nobody understood what food was. As the delays to all NYC airports stacked up and the terminal got busy, I struggled to find a seat that wasn't doubling as somebody's open-mouth-cough-illness infirmary. I guess that part isn't the airport's fault, but the restaurants were. Pretty sure I ate expired salami that I purchased for NINETEEN CANADIAN DOLLARS and eventually I resorted to the emergency PB&J kit that I had packed in my bag THREE DAYS earlier. Mmm, stale gf bread and single-serve packets of warm natural peanut butter. My coworker physically removed himself from this situation when he saw me constructing this abomination, and I don't blame him. </li>
   </ul>
 
   I really loved Montreal and I would go back. 
