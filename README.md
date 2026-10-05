@@ -8,7 +8,7 @@
 - ✍️ AI policy: I have a Claude subscription like everyone else, but every word you read here is from me. I chose it, awkward phrasing and all (see <a href="#12042023-grammarly">Grammarly</a> :))
 - 👯 Playing BO7 but forever thinking about Cold War 🎮
 - 🎧: Lorde, Bon Iver, 2000s club classics
-- 📫 How to reach me: <span>sarahc</span><span>.</span><span>io</span><span>.</span><span>contact</span><span>[at]</span><span>gmail</span>
+- 📫 <span>sarahc</span><span>.</span><span>io</span><span>.</span><span>contact</span><span>[at]</span><span>gmail</span>
 
 
 <h1> Blog </h1>
