@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sarahc.dev</title>
+    <link>https://sarahc.dev/</link>
+    <description>sarahc.dev</description>
+    <atom:link href="https://sarahc.dev/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Montreal Recommendations</title>
+      <link>https://sarahc.dev/#04102026-montreal</link>
+      <guid isPermaLink="false">04102026-montreal</guid>
+      <pubDate>Sun, 04 Oct 2026 12:00:00 -0400</pubDate>
+      <description>Montreal Recommendations</description>
+    </item>
+    <item>
+      <title>Your Elevator Pitch (No, Not That One)</title>
+      <link>https://sarahc.dev/#20112025-elevator</link>
+      <guid isPermaLink="false">20112025-elevator</guid>
+      <pubDate>Thu, 20 Nov 2025 12:00:00 -0500</pubDate>
+      <description>Your Elevator Pitch (No, Not That One)</description>
+    </item>
+    <item>
+      <title>I would like to speak to the manager (the TCC database)</title>
+      <link>https://sarahc.dev/#01112025-tcc</link>
+      <guid isPermaLink="false">01112025-tcc</guid>
+      <pubDate>Sat, 01 Nov 2025 12:00:00 -0400</pubDate>
+      <description>I would like to speak to the manager (the TCC database)</description>
+    </item>
+    <item>
+      <title>Maintenance Phase: A Masterclass in Missing The Point</title>
+      <link>https://sarahc.dev/#11102025-maintenance</link>
+      <guid isPermaLink="false">11102025-maintenance</guid>
+      <pubDate>Sat, 11 Oct 2025 12:00:00 -0400</pubDate>
+      <description>Maintenance Phase: A Masterclass in Missing The Point</description>
+    </item>
+    <item>
+      <title>One Man's Trash</title>
+      <link>https://sarahc.dev/#12062025-trash</link>
+      <guid isPermaLink="false">12062025-trash</guid>
+      <pubDate>Thu, 12 Jun 2025 12:00:00 -0400</pubDate>
+      <description>One Man's Trash</description>
+    </item>
+    <item>
+      <title>Book Reviews (Running List)</title>
+      <link>https://sarahc.dev/#25022025-books</link>
+      <guid isPermaLink="false">25022025-books</guid>
+      <pubDate>Tue, 25 Feb 2025 12:00:00 -0500</pubDate>
+      <description>Book Reviews (Running List)</description>
+    </item>
+    <item>
+      <title>Trip Report II - Italy</title>
+      <link>https://sarahc.dev/#09012025-italy</link>
+      <guid isPermaLink="false">09012025-italy</guid>
+      <pubDate>Thu, 09 Jan 2025 12:00:00 -0500</pubDate>
+      <description>Trip Report II - Italy</description>
+    </item>
+    <item>
+      <title>Trip Report I - Paris</title>
+      <link>https://sarahc.dev/#09012025-paris</link>
+      <guid isPermaLink="false">09012025-paris</guid>
+      <pubDate>Thu, 09 Jan 2025 12:00:00 -0500</pubDate>
+      <description>Trip Report I - Paris</description>
+    </item>
+    <item>
+      <title>My favorite websites</title>
+      <link>https://sarahc.dev/#17102024-favorites</link>
+      <guid isPermaLink="false">17102024-favorites</guid>
+      <pubDate>Thu, 17 Oct 2024 12:00:00 -0400</pubDate>
+      <description>My favorite websites</description>
+    </item>
+    <item>
+      <title>Novo Amor</title>
+      <link>https://sarahc.dev/#17042024-novo</link>
+      <guid isPermaLink="false">17042024-novo</guid>
+      <pubDate>Wed, 17 Apr 2024 12:00:00 -0400</pubDate>
+      <description>Novo Amor</description>
+    </item>
+    <item>
+      <title>How will we save our public schools?</title>
+      <link>https://sarahc.dev/#19022024-schools</link>
+      <guid isPermaLink="false">19022024-schools</guid>
+      <pubDate>Mon, 19 Feb 2024 12:00:00 -0500</pubDate>
+      <description>How will we save our public schools?</description>
+    </item>
+    <item>
+      <title>I Saw the Holmdel Horn Antenna Today</title>
+      <link>https://sarahc.dev/#21062023-antenna</link>
+      <guid isPermaLink="false">21062023-antenna</guid>
+      <pubDate>Wed, 21 Jun 2023 12:00:00 -0400</pubDate>
+      <description>I Saw the Holmdel Horn Antenna Today</description>
+    </item>
+    <item>
+      <title>I hate Grammarly, or: All Robots &amp; Computers Must Shut The Hell Up.</title>
+      <link>https://sarahc.dev/#12042023-grammarly</link>
+      <guid isPermaLink="false">12042023-grammarly</guid>
+      <pubDate>Wed, 12 Apr 2023 12:00:00 -0400</pubDate>
+      <description>I hate Grammarly, or: All Robots &amp; Computers Must Shut The Hell Up.</description>
+    </item>
+    <item>
+      <title>Why People Lose in Warzone</title>
+      <link>https://sarahc.dev/#03042023-warzone</link>
+      <guid isPermaLink="false">03042023-warzone</guid>
+      <pubDate>Mon, 03 Apr 2023 12:00:00 -0400</pubDate>
+      <description>Why People Lose in Warzone</description>
+    </item>
+    <item>
+      <title>Lean In (to the Legacy Code)</title>
+      <link>https://sarahc.dev/#05032023-legacy</link>
+      <guid isPermaLink="false">05032023-legacy</guid>
+      <pubDate>Sun, 05 Mar 2023 12:00:00 -0500</pubDate>
+      <description>Lean In (to the Legacy Code)</description>
+    </item>
+    <item>
+      <title>The Brilliance of Black Ops: Cold War</title>
+      <link>https://sarahc.dev/#04032023-coldwar</link>
+      <guid isPermaLink="false">04032023-coldwar</guid>
+      <pubDate>Sat, 04 Mar 2023 12:00:00 -0500</pubDate>
+      <description>The Brilliance of Black Ops: Cold War</description>
+    </item>
+    <item>
+      <title>I'm Back!</title>
+      <link>https://sarahc.dev/#04032023-back</link>
+      <guid isPermaLink="false">04032023-back</guid>
+      <pubDate>Sat, 04 Mar 2023 12:00:00 -0500</pubDate>
+      <description>I'm Back!</description>
+    </item>
+    <item>
+      <title>Reading is Harder than Writing (Code)</title>
+      <link>https://sarahc.dev/#13042022-reading</link>
+      <guid isPermaLink="false">13042022-reading</guid>
+      <pubDate>Wed, 13 Apr 2022 12:00:00 -0400</pubDate>
+      <description>Reading is Harder than Writing (Code)</description>
+    </item>
+    <item>
+      <title>My Summers on the Help Desk</title>
+      <link>https://sarahc.dev/#10072021-helpdesk</link>
+      <guid isPermaLink="false">10072021-helpdesk</guid>
+      <pubDate>Sat, 10 Jul 2021 12:00:00 -0400</pubDate>
+      <description>My Summers on the Help Desk</description>
+    </item>
+    <item>
+      <title>Solidifying My Understanding of Containers</title>
+      <link>https://sarahc.dev/#09042021-containers</link>
+      <guid isPermaLink="false">09042021-containers</guid>
+      <pubDate>Tue, 20 Apr 2021 12:00:00 -0400</pubDate>
+      <description>Solidifying My Understanding of Containers</description>
+    </item>
+    <item>
+      <title>A WFH Vignette</title>
+      <link>https://sarahc.dev/#09042021-wfh</link>
+      <guid isPermaLink="false">09042021-wfh</guid>
+      <pubDate>Fri, 09 Apr 2021 12:00:00 -0400</pubDate>
+      <description>A WFH Vignette</description>
+    </item>
+    <item>
+      <title>The Vaccine Rollout</title>
+      <link>https://sarahc.dev/#20022021-vaccine</link>
+      <guid isPermaLink="false">20022021-vaccine</guid>
+      <pubDate>Sat, 20 Feb 2021 12:00:00 -0500</pubDate>
+      <description>The Vaccine Rollout</description>
+    </item>
+    <item>
+      <title>On Building Good Teams</title>
+      <link>https://sarahc.dev/#23012021-teams</link>
+      <guid isPermaLink="false">23012021-teams</guid>
+      <pubDate>Sat, 23 Jan 2021 12:00:00 -0500</pubDate>
+      <description>On Building Good Teams</description>
+    </item>
+    <item>
+      <title>Cloud IAM is confusing Part 2</title>
+      <link>https://sarahc.dev/#02012021-iam2</link>
+      <guid isPermaLink="false">02012021-iam2</guid>
+      <pubDate>Sat, 02 Jan 2021 12:00:00 -0500</pubDate>
+      <description>Cloud IAM is confusing Part 2</description>
+    </item>
+    <item>
+      <title>Cloud IAM is confusing Part 1</title>
+      <link>https://sarahc.dev/#27122020-iam1</link>
+      <guid isPermaLink="false">27122020-iam1</guid>
+      <pubDate>Sun, 27 Dec 2020 12:00:00 -0500</pubDate>
+      <description>Cloud IAM is confusing Part 1</description>
+    </item>
+    <item>
+      <title>Food YouTube is Bad [published retroactively]</title>
+      <link>https://sarahc.dev/#23122020-food</link>
+      <guid isPermaLink="false">23122020-food</guid>
+      <pubDate>Wed, 23 Dec 2020 12:00:00 -0500</pubDate>
+      <description>Food YouTube is Bad [published retroactively]</description>
+    </item>
+    <item>
+      <title>Notes on Symbolic Execution</title>
+      <link>https://sarahc.dev/#14122020-symbolic</link>
+      <guid isPermaLink="false">14122020-symbolic</guid>
+      <pubDate>Mon, 14 Dec 2020 12:00:00 -0500</pubDate>
+      <description>Notes on Symbolic Execution</description>
+    </item>
+    <item>
+      <title>Strong Opinions, Weakly Held</title>
+      <link>https://sarahc.dev/#29112020-sowh</link>
+      <guid isPermaLink="false">29112020-sowh</guid>
+      <pubDate>Sun, 29 Nov 2020 12:00:00 -0500</pubDate>
+      <description>Strong Opinions, Weakly Held</description>
+    </item>
+    <item>
+      <title>Tech Interviewing is a Life Skill</title>
+      <link>https://sarahc.dev/#15082020-interviewing</link>
+      <guid isPermaLink="false">15082020-interviewing</guid>
+      <pubDate>Sat, 15 Aug 2020 12:00:00 -0400</pubDate>
+      <description>Tech Interviewing is a Life Skill</description>
+    </item>
+    <item>
+      <title>Notes on NoSQL Databases</title>
+      <link>https://sarahc.dev/#04082020-nosql</link>
+      <guid isPermaLink="false">04082020-nosql</guid>
+      <pubDate>Tue, 04 Aug 2020 12:00:00 -0400</pubDate>
+      <description>Notes on NoSQL Databases</description>
+    </item>
+    <item>
+      <title>DigitalOcean Databases</title>
+      <link>https://sarahc.dev/#03082020-do</link>
+      <guid isPermaLink="false">03082020-do</guid>
+      <pubDate>Mon, 03 Aug 2020 12:00:00 -0400</pubDate>
+      <description>DigitalOcean Databases</description>
+    </item>
+    <item>
+      <title>Checking in on my 2020 goals</title>
+      <link>https://sarahc.dev/#01082020-goals2</link>
+      <guid isPermaLink="false">01082020-goals2</guid>
+      <pubDate>Sat, 01 Aug 2020 12:00:00 -0400</pubDate>
+      <description>Checking in on my 2020 goals</description>
+    </item>
+    <item>
+      <title>Lambdas!</title>
+      <link>https://sarahc.dev/#01032020-lambdas</link>
+      <guid isPermaLink="false">01032020-lambdas</guid>
+      <pubDate>Sun, 01 Mar 2020 12:00:00 -0500</pubDate>
+      <description>Lambdas!</description>
+    </item>
+    <item>
+      <title>On Writing Good Unit Tests</title>
+      <link>https://sarahc.dev/#27202020-tests</link>
+      <guid isPermaLink="false">27202020-tests</guid>
+      <pubDate>Thu, 27 Feb 2020 12:00:00 -0500</pubDate>
+      <description>On Writing Good Unit Tests</description>
+    </item>
+    <item>
+      <title>5 Things I Want to Learn (or improve) in 2020</title>
+      <link>https://sarahc.dev/#00002020-goals</link>
+      <guid isPermaLink="false">00002020-goals</guid>
+      <description>5 Things I Want to Learn (or improve) in 2020</description>
+    </item>
+  </channel>
+</rss>
