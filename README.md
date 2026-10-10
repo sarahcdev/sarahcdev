@@ -10,11 +10,10 @@
 - 🎧: Lorde, Bon Iver, 2000s club classics
 
 <h1> Blog </h1>
-<p>I mostly write about software, video games, current events, and whatever else is on my mind.</p>
+<p>I mostly write about software, video games, current events, and whatever else is on my mind. [RSS feed](feed.xml) here.</p>
 <p>💻 = Tech, 🎮 = Gaming, 👩🏻‍💻 = Everything else; 📣 = My favorites</p>
 
 <!--<h3>Table of Contents</h3> -->
-[RSS feed](feed.xml) 
   <ul>
     <li><a href="#04102026-montreal">👩🏻‍💻 4 October 2026: Montreal Recommendations</a></li>
     <li><a href="#20112025-elevator">💻 20 November 2025: Your Elevator Pitch (No, Not That One)</a></li>
