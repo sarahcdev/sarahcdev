@@ -10,7 +10,7 @@
 - 🎧: Lorde, Bon Iver, 2000s club classics
 
 <h1> Blog </h1>
-<p>I mostly write about software, video games, current events, and whatever else is on my mind. [RSS feed](feed.xml) here.</p>
+<p>I mostly write about software, video games, current events, and whatever else is on my mind. <a href="feed.xml">here.</a></p>
 <p>💻 = Tech, 🎮 = Gaming, 👩🏻‍💻 = Everything else; 📣 = My favorites</p>
 
 <!--<h3>Table of Contents</h3> -->
